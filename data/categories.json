@@ -1,0 +1,65 @@
+[
+  {
+    "id": 4,
+    "title": { "en": "Video Workflow Groups" },
+    "slug": "video-workflow-groups",
+    "parentId": null,
+    "parentSlug": null,
+    "featured": false,
+    "sort": 0
+  },
+  {
+    "id": 61,
+    "title": { "en": "Camera Direction & Shot Design" },
+    "slug": "camera-direction-shot-design",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 61
+  },
+  {
+    "id": 62,
+    "title": { "en": "Dialogue, Performance & Native Audio" },
+    "slug": "dialogue-performance-native-audio",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 62
+  },
+  {
+    "id": 63,
+    "title": { "en": "Product Motion & Commercial Spots" },
+    "slug": "product-motion-commercial-spots",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 63
+  },
+  {
+    "id": 64,
+    "title": { "en": "Image-to-Video & Subject Continuity" },
+    "slug": "image-to-video-subject-continuity",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 64
+  },
+  {
+    "id": 65,
+    "title": { "en": "Stylized Motion & Visual Effects" },
+    "slug": "stylized-motion-visual-effects",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 65
+  },
+  {
+    "id": 66,
+    "title": { "en": "Video Editing, Restyling & Scene Control" },
+    "slug": "video-editing-restyling-scene-control",
+    "parentId": 4,
+    "parentSlug": "video-workflow-groups",
+    "featured": true,
+    "sort": 66
+  }
+]

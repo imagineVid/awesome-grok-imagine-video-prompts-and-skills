@@ -1,0 +1,35 @@
+# awesome-grok-imagine-video-prompts-and-skills
+ImagineVid-branded public field guide for source-verifiable Grok Imagine Video prompts and production patterns.
+
+<directory>
+data/ - English-first workflow taxonomy and empty prompt/case truth sources.
+docs/ - Model scope, contribution contract, local workflow, and X-source review policy.
+public/images/ - Original ImagineVid cover and future licensed preview assets.
+scripts/ - Local data validation, candidate scoring, and README generation.
+.github/ - Repository-specific issue intake, labels, and publication automation.
+</directory>
+
+<config>
+AGENTS.md - Repository architecture and content boundaries.
+package.json - Node 24 and pnpm commands for validation, tests, and generation.
+</config>
+
+## Product Scope
+- The target repository is `imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills`.
+- The collection covers Grok Imagine video workflows, with current official facts anchored to xAI's generally available `grok-imagine-video-1.5` model.
+- The primary product route is `https://imaginevid.io/grok-imagine`; model-version notes may also link to `https://imaginevid.io/grok-imagine-1-5`.
+- The initial public data set is intentionally empty. No image-model prompt, inherited example, or placeholder case may survive initialization.
+
+## Content Rules
+- English is the only launch language. Additional locales must be translated from this repository's rewritten English source, never copied from sibling repositories.
+- A community record requires the original prompt or a transparently labeled reconstruction, a canonical X source, author attribution, model evidence, and playable video or a trustworthy preview.
+- Model claims must be traceable to current xAI documentation or release notes; product CTAs point to ImagineVid.
+- Prompt discovery may use local APIs, but credentials and raw search caches never enter Git.
+- README output is generated from local JSON. Public data and generated views must pass structural and duplicate checks before publication.
+
+## Launch Boundary
+- `data/prompts.json` and `data/official-cases.json` remain empty until Grok Imagine-specific cases pass review.
+- The workflow taxonomy is video-native: camera direction, native audio, commercial motion, image-to-video continuity, stylized motion, and video editing.
+- Before committing, run `pnpm run generate`, `pnpm test`, and `pnpm run typecheck`.
+
+[PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
