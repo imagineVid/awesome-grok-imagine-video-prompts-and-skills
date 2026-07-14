@@ -121,6 +121,7 @@ interface StoredPrompt extends Omit<Prompt, "title" | "description" | "content">
 interface PromptLocalization {
   title: string;
   description: string;
+  content?: string;
 }
 
 type PromptLocalizations = Record<string, Record<string, PromptLocalization>>;
@@ -158,8 +159,9 @@ function localizePrompt(
   };
 
   const translated = localize(prompt.content, locale);
-  if (translated && translated !== localized.content) {
-    localized.translatedContent = translated;
+  const localizedContent = localizedMeta?.content || translated;
+  if (localizedContent && localizedContent !== localized.content) {
+    localized.translatedContent = localizedContent;
   }
 
   return processPromptImages(localized);

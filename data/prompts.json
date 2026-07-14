@@ -1,1 +1,653 @@
-[]
+[
+  {
+    "id": 1,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Rapid spacecraft detail montage with hard transitions"
+    },
+    "description": {
+      "en": "A compact test of multi-scene pacing that assigns a new spacecraft detail and decisive zoom move to every second while explicitly banning fades."
+    },
+    "content": {
+      "en": "Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp zoom-ins and zoom-outs on different details of the spacecraft every second. Sharp scene transitions, no fade."
+    },
+    "sourceLink": "https://x.com/doganuraldesign/status/2044049325299204120",
+    "sourcePublishedAt": "2026-04-14T13:45:10.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2044049267589816320/vid/avc1/1280x720/NSIhpjHgXuMxvVlN.mp4?tag=24",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2044049267589816320/img/pMWIqfLwp11wbUs4.jpg"
+    },
+    "author": {
+      "name": "Dogan Ural",
+      "link": "https://x.com/doganuraldesign"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2044049325299204120",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 151,
+      "bookmarkCount": 32,
+      "viewCount": 32861,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Direction & Shot Design",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Tiny cameraman desk run with timed story beats"
+    },
+    "description": {
+      "en": "A four-beat miniature chase that uses timestamps, scale references, handheld tracking, sound cues, and a clean hero-shot ending."
+    },
+    "content": {
+      "en": "Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch cameraman running across a giant content creator’s desk. 0–4s: he sprints past huge keyboard keys like city buildings. 4–8s: he slides under a glowing phone screen that feels like a neon portal. 8–12s: he circles a coffee cup like a massive tower while filming upward. 12–15s: he jumps onto a notebook, points the camera at the viewer, and the desk world freezes in a dramatic hero shot. Warm sunlight, realistic miniature scale, smooth handheld tracking, playful creator energy. Audio: tiny footsteps, camera clicks, soft whooshes, upbeat electronic beat. No text, no subtitles, no logos."
+    },
+    "sourceLink": "https://x.com/bmx_ai13/status/2073857648848716232",
+    "sourcePublishedAt": "2026-07-05T19:52:48.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2073857585468592128/vid/avc1/1280x720/rxriKyCHdrthsjfO.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2073857585468592128/img/ejoH2fAT7J9Pt6Xk.jpg"
+    },
+    "author": {
+      "name": "BMX",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 2,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2073857648848716232",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 25,
+      "bookmarkCount": 6,
+      "viewCount": 1112,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": "Camera Direction & Shot Design",
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "model": "grok-imagine-video-1.5",
+    "title": {
+      "en": "Slow-motion cereal burst with dialogue and sound design"
+    },
+    "description": {
+      "en": "A playful breakfast spot that coordinates a wide-angle composition, slow-motion particles, a spoken reaction, concrete Foley, and music direction."
+    },
+    "content": {
+      "en": "A cinematic wide angle shot inside a cozy retro diner style kitchen. A young girl leans over a bowl of colorful cereal as milk bursts upward in dramatic slow motion. Bright cereal loops float through the air around her face. She looks directly at the camera with wide eyes and an open-mouth expression of surprise and delight. Warm morning sunlight streams through the blinds. The scene has a playful, magical, energetic feel, with fisheye lens distortion, realistic lighting, high detail, dynamic motion, and a fun cinematic vibe. Duration: 10 seconds.\n\nDialogue:  Whoa… is my breakfast actually flying?\n\nSound Design:\n\nSudden milk splash.\nLight cereal scattering sounds.\nSoft magical sparkle effect.\nGirl’s surprised gasp.\nFun playful background music."
+    },
+    "sourceLink": "https://x.com/bmx_ai13/status/2069395522088030511",
+    "sourcePublishedAt": "2026-06-23T12:21:54.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2069395437908643841/vid/avc1/1280x704/HpEN37WNo_J8Cw9v.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2069395437908643841/img/g-URoeS90azUiBUG.jpg"
+    },
+    "author": {
+      "name": "BMX",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 3,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2069395522088030511",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video-1.5",
+      "likeCount": 41,
+      "bookmarkCount": 7,
+      "viewCount": 1324,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Dialogue, Performance & Native Audio",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "model": "grok-imagine-video-1.5",
+    "title": {
+      "en": "Subtle argument driven by pauses and micro-expressions"
+    },
+    "description": {
+      "en": "A restrained performance brief for testing emotional direction through concise dialogue, facial nuance, lensing, lighting, and deliberate pauses."
+    },
+    "content": {
+      "en": "Create an emotional scene of an angry couple, limited punchy dialogue, appropriate subtle micro expressions, warm color grading with key fill light and anamorphic lensing no onscreen text, emotionally complex but subtle proper angles, younger American couple with indie film drama sensibility with anger and pauses for a full range"
+    },
+    "sourceLink": "https://x.com/Kyrannio/status/2070218164609405380",
+    "sourcePublishedAt": "2026-06-25T18:50:47.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2070218111413035009/vid/avc1/1280x720/I6Uw_IbRpPre2CpL.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2070218111413035009/img/K5v2YoeYSUocr6rw.jpg"
+    },
+    "author": {
+      "name": "Kiri",
+      "link": "https://x.com/Kyrannio"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 4,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2070218164609405380",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video-1.5",
+      "likeCount": 16,
+      "bookmarkCount": 2,
+      "viewCount": 916,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Dialogue, Performance & Native Audio",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "One-shot puppet fight with synchronized slapstick audio"
+    },
+    "description": {
+      "en": "An image-to-video action brief that locks the starting arena, stages a continuous counterattack, and specifies dialogue, impact motion, crowd noise, and prop Foley."
+    },
+    "content": {
+      "en": "10s / image-to-video / one continuous shot / native audio / 16:9\n\nUse the attached image as the exact first frame. Preserve the PuppetFight arena, hot-pink ring ropes, screaming puppet crowd, harsh overhead spotlights, gritty ring floor, exploding stuffing, and chaotic underground fight energy. Tina Tornado is on the left, airborne, wild hair and pink curlers flying, gripping a busted folding chair. On the right, the skull-gloved punk boxer in black sunglasses drives a savage punch into her as fabric scraps, dust, and stuffing burst through the air.\n\nStart exactly on the frame with the hit already connecting. The punch drives harder and sends Tina twisting sideways while debris explodes outward. She snaps back with fierce, ridiculous energy, whipping the folding chair into position and yelling, “Cheap shot, skull boy!” She then swings the chair upward in a wild, messy counterattack and shouts, “I brought furniture!” The chair clips the boxer as stuffing blasts toward camera, the pink ropes shake, the crowd erupts, and the shot ends in full chaotic mayhem.\n\nMotion: fast handheld camera, aggressive push-in, impact shakes, whip-like reframing, rope vibration, flying stuffing, chair wobble, exaggerated puppet physics, brutal slapstick energy.\n\nAudio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, rope twangs, stuffing pops, arena bass hit, chaotic crowd reaction."
+    },
+    "sourceLink": "https://x.com/DomainDomme/status/2062228580851974229",
+    "sourcePublishedAt": "2026-06-03T17:43:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2062228478255116288/vid/avc1/1920x1080/ibkEHfzs5STuofwh.mp4?tag=27",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062228478255116288/img/iKuXlfkdwHozEcZp.jpg"
+    },
+    "author": {
+      "name": "Krista Gable",
+      "link": "https://x.com/DomainDomme"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 5,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2062228580851974229",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 20,
+      "bookmarkCount": 3,
+      "viewCount": 1208,
+      "input_mode": "image-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Dialogue, Performance & Native Audio",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "model": "grok-imagine-video-1.5",
+    "title": {
+      "en": "Torchlit fantasy kiss with practical-film continuity"
+    },
+    "description": {
+      "en": "A reference-frame continuation that protects wardrobe, set texture, and character blocking while building a comic romantic beat in one live-action shot."
+    },
+    "content": {
+      "en": "Vintage 1960s practical filmmaking aesthetic. Use the uploaded image as the exact start frame for a 14-second real live-action film shot: the blonde armored heroine and short rugged actor remain in frame together inside a torchlit stone chamber with wet hair glistening in firelight, practical leather and metal armor showing wear and patina, smoke drifting through the space, glowing embers floating upward, warm amber and orange firelight casting flickering shadows on rough-hewn stone walls.\n\nHandheld 35mm anamorphic camera with natural gate weave and subtle film grain slowly pushes in on the pair. She leans down with a sly, affectionate smile spreading across her face, her eyes locked on his. He looks up at her, stunned expression, nervous energy, completely charmed and frozen in the moment.\n\nShe gives him one brief, playful kiss — a quick, tender moment. Immediately after, he comically faints backward, safely tumbling out of frame. She straightens up, holding a tiny victorious smirk, eyes following him down with amused satisfaction.\n\nCaptured like raw practical footage from a medieval fantasy movie — authentic 1960s film stock look with rich warm tones, natural imperfections, slight lens flares from torchlight, organic camera shake. The entire sequence unfolds in real time with theatrical blocking and timing reminiscent of classic adventure cinema."
+    },
+    "sourceLink": "https://x.com/BrentLynch/status/2064437767963332901",
+    "sourcePublishedAt": "2026-06-09T20:01:33.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2064435062935023616/vid/avc1/1280x720/6a89qw_0P05Eizwm.mp4?tag=27",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2064435062935023616/img/2jonm-Korb5XcrU3.jpg"
+    },
+    "author": {
+      "name": "Brent Lynch",
+      "link": "https://x.com/BrentLynch"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 6,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2064437767963332901",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video-1.5",
+      "likeCount": 20,
+      "bookmarkCount": 15,
+      "viewCount": 3145,
+      "input_mode": "image-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Image-to-Video & Subject Continuity",
+          "slug": "image-to-video-subject-continuity"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "model": "grok-imagine-video-1.5",
+    "title": {
+      "en": "High-speed dragon flight with fire, cloth, and audio physics"
+    },
+    "description": {
+      "en": "A demanding reference animation that separates camera path, aerodynamic motion, moving firelight, particle atmosphere, and synchronized sound into explicit control blocks."
+    },
+    "content": {
+      "en": "Faithfully animate this reference image into a breathtaking cinematic 10-12 second video in the exact visual style of HBO Game of Thrones and House of the Dragon epic dragon sequences. Maintain perfect consistency with the reference image — Daenerys' appearance, Drogon's anatomy, scales, wing structure, and initial lighting.\n\nDrogon flies at high speed low over King's Landing rooftops with powerful, realistic wing flaps and body undulation. Massive turbulent fire breath erupts from its jaws, flames reacting dynamically to wind and movement with realistic fluid physics, glowing embers flying backward, intense heat distortion and light bloom. Fire dramatically illuminates the ancient stone buildings and Red Keep from below with shifting warm highlights and deep shadows.\n\nDaenerys leans forward with commanding posture, her silver hair and heavy cloak whipping violently in the high-speed wind with realistic fabric dynamics and inertia. Subtle sparks and ash particles in the air.\n\nCamera: Dynamic low-angle cinematic tracking shot that follows Drogon from a slightly behind and side position, moving at high speed with the dragon. The camera subtly rises and banks with the dragon's movement, creating a powerful sense of speed, scale and immersion. Sweeping, fluid camera motion with slight handheld energy mixed with controlled cinematic precision.\n\nPhysics: Highly realistic dragon wing membrane flexing and catching the wind, individual wing fingers moving naturally, heavy cloak and hair with authentic weight and turbulence, fire behaving with real fluid dynamics and interaction with air movement.\n\nLighting & atmosphere: Dragon fire provides the primary moving light source, dramatically lighting the city architecture from below. Volumetric smoke, embers and heat haze. Epic atmospheric depth with slight haze over the city.\n\nNative synchronized audio: Deep powerful dragon roar mixed with the roaring whoosh of intense fire, strong wind rush, and distant city ambience with natural reverb. Photorealistic rendering, coherent motion, intricate detail, no artifacts, shot with ARRI Alexa-level fidelity. Masterpiece, maximum epic scale, speed, and cinematic impact."
+    },
+    "sourceLink": "https://x.com/AYi_AInotes/status/2067227900399562775",
+    "sourcePublishedAt": "2026-06-17T12:48:33.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2067227819680178176/vid/avc1/1920x1080/Lyhy1DwxKbjXxXp-.mp4?tag=28",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067227819680178176/img/PAqDHuEWD_nCrT3q.jpg"
+    },
+    "author": {
+      "name": "AYi",
+      "link": "https://x.com/AYi_AInotes"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 7,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2067227900399562775",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video-1.5",
+      "likeCount": 26,
+      "bookmarkCount": 23,
+      "viewCount": 14882,
+      "input_mode": "image-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed. This IP-specific case is retained for study but excluded from featured recommendations."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Image-to-Video & Subject Continuity",
+          "slug": "image-to-video-subject-continuity"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Locked editorial grid with independent micro-motion"
+    },
+    "description": {
+      "en": "A structured stability experiment that freezes an eight-panel layout and camera while allowing controlled breathing, blinking, smoke, flame, and hair motion."
+    },
+    "content": {
+      "en": "{\n  \"video_generation\": {\n    \"model\": \"grok\",\n    \"duration\": \"6s\",\n    \"aspect_ratio\": \"4:5\",\n    \"motion_intensity\": \"low_realistic\",\n    \"camera_motion\": \"none\",\n\n    \"grid_lock\": true,\n    \"no_zoom\": true,\n    \"no_crop\": true,\n    \"no_panel_shift\": true,\n\n    \"identity_lock\": {\n      \"preserve_face\": true,\n      \"preserve_hands\": true,\n      \"preserve_glove\": true,\n      \"preserve_cigarette_shape\": true,\n      \"preserve_background\": true\n    },\n\n    \"scene\": \"8-panel gritty editorial grid. Wet hair woman, smoky eyes, black glove, neutral wall. Hard flash lighting. Panels remain perfectly fixed.\",\n\n    \"movement_rules\": {\n      \"start_immediately\": true,\n      \"no_slow_motion\": true,\n      \"natural_speed\": true,\n      \"all_panels_active\": true,\n\n      \"breathing\": \"visible natural breathing in every panel\",\n      \"blink\": \"natural blinks distributed across panels\",\n      \"eye_movement\": \"continuous micro eye shifts\",\n      \"smoke\": \"constant upward smoke flow, physically accurate\",\n      \"flame\": \"continuous subtle flame flicker\",\n      \"hair\": \"light wet strand motion\"\n    },\n\n    \"stability_rules\": [\n      \"no camera movement\",\n      \"no layout change\",\n      \"no face morph\",\n      \"no lip jitter\",\n      \"no extra fingers\",\n      \"no smoke glitch\",\n      \"no background flicker\"\n    ],\n\n    \"quality_mode\": \"max_stability\",\n\n    \"negative_prompt\": [\n      \"slow motion\",\n      \"freeze frame\",\n      \"zoom\",\n      \"crop\",\n      \"panel drift\",\n      \"warped face\",\n      \"AI jitter\"\n    ]\n  }\n}"
+    },
+    "sourceLink": "https://x.com/astronomerozge1/status/2024901494290743510",
+    "sourcePublishedAt": "2026-02-20T17:38:31.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2024901412547641344/vid/avc1/720x1280/aLY-ZGPl4g6vpthr.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024901412547641344/img/RWFQtc5G2WzSqmXu.jpg"
+    },
+    "author": {
+      "name": "Özge Döner",
+      "link": "https://x.com/astronomerozge1"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 8,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2024901494290743510",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 74,
+      "bookmarkCount": 42,
+      "viewCount": 4568,
+      "input_mode": "image-to-video",
+      "curation_note": "Creator-authored prompt-shaped JSON preserved from the canonical X post. Its control keys are descriptive prompt syntax, not documented xAI API parameters."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Image-to-Video & Subject Continuity",
+          "slug": "image-to-video-subject-continuity"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Moonlit dragon nuzzle in restrained slow motion"
+    },
+    "description": {
+      "en": "A static close-up that concentrates on one tender action, subtle muscle movement, reflective scale detail, and soft moonlit atmosphere."
+    },
+    "content": {
+      "en": "Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a more slender, elegant midnight purple dragon with starry bioluminescent scales are resting in a moonlit enchanted forest. The two dragons slowly and tenderly move their heads toward each other. The golden dragon gently nudges the purple dragon’s neck. Their scales shimmer and reflect the silver moonlight. Camera Movement: static shot, The camera captures the subtle muscle ripples under the scales and the soft amber glow in their eyes. Atmosphere & Lighting: Soft-focus background with a giant full moon."
+    },
+    "sourceLink": "https://x.com/auqibhabib/status/2053639419266322623",
+    "sourcePublishedAt": "2026-05-11T00:52:46.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2053639303700566016/pu/vid/avc1/1168x1728/iTKoCMbepTjPPd4a.mp4?tag=23",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2053639303700566016/pu/img/paFojbfcBAr6mUm_.jpg"
+    },
+    "author": {
+      "name": "auqib",
+      "link": "https://x.com/auqibhabib"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 9,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2053639419266322623",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 46,
+      "bookmarkCount": 2,
+      "viewCount": 1302,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Stylized Motion & Visual Effects",
+          "slug": "stylized-motion-visual-effects"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "model": "grok-imagine-video-1.5",
+    "title": {
+      "en": "Continuous martial-arts traversal with heavy impact physics"
+    },
+    "description": {
+      "en": "A six-second action brief combining terrain traversal, chained combat moves, realistic momentum, circling camera work, and a no-cut constraint."
+    },
+    "content": {
+      "en": "Masterpiece quality, 6-second video of a highly skilled fighter traversing rough terrain while engaged in a brutal, high-intensity fight. The character performs fast, powerful martial arts combos including spinning kicks, flying knees, aerial flips, wall runs, and savage takedowns. Strong realistic physics with heavy impact and momentum. Dynamic camera work with tracking shots, circling camera, and dramatic low angles. Cinematic lighting, sharp motion clarity, intense and raw action, no cuts, smooth and powerful choreography, best quality, 6-second video."
+    },
+    "sourceLink": "https://x.com/Kisalay_/status/2067298200520896673",
+    "sourcePublishedAt": "2026-06-17T17:27:54.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2067298117415059456/vid/avc1/688x464/-y07rGLLEnox_zTy.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067298117415059456/img/fFgLi1L_hufsoKI6.jpg"
+    },
+    "author": {
+      "name": "⭕Kisalay",
+      "link": "https://x.com/Kisalay_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 10,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2067298200520896673",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video-1.5",
+      "likeCount": 12,
+      "bookmarkCount": 0,
+      "viewCount": 951,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Stylized Motion & Visual Effects",
+          "slug": "stylized-motion-visual-effects"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Luxury perfume reveal in five timed commercial shots"
+    },
+    "description": {
+      "en": "A ten-second product film that progresses from macro glass detail through petals, liquid motion, atomized vapor, and a final hero composition."
+    },
+    "content": {
+      "en": "10-second cinematic luxury perfume commercial, photorealistic, 16:9, high-fashion advertisement style.\n\nScene: a dark elegant studio with glossy black reflective surface, soft mist in the air, and dramatic spotlight beams cutting through the darkness.\nA premium glass perfume bottle with a minimalist luxury design and a visible elegant brand label sits at the center, crystal-clear glass, golden liquid inside, ultra realistic reflections.\n\n0–2s: extreme close-up macro shot of the perfume bottle, light glides across the glass edges, golden liquid shimmering, cinematic shadows, high-end fashion ad lighting.\n\n2–4s: slow motion — delicate flower petals (rose, jasmine) appear and swirl around the bottle, soft mist flowing, particles glowing in light beams.\n\n4–6s: liquid inside the bottle gently moves as if alive, golden particles rise, cap lifts slightly in slow motion, subtle magical realism effect.\n\n6–8s: perfume spray bursts into the air in slow motion, transforming into flowing silk-like vapor and floral shapes, elegant and surreal, cinematic beauty shot.\n\n8–10s: final hero shot — bottle centered on reflective surface, surrounded by soft glowing mist and petals, dramatic spotlight, luxury brand focus, high-fashion commercial ending.\n\nultra realistic, cinematic lighting, luxury advertisement, macro detail, glass reflections, slow motion, depth of field, soft glow, film quality, elegant, premium aesthetic, no text overlay, no subtitles."
+    },
+    "sourceLink": "https://x.com/MrDasOnX/status/2038574814378783159",
+    "sourcePublishedAt": "2026-03-30T11:11:25.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2038574681377447936/vid/avc1/1300x720/yOgaI_BSFPBmI_5L.mp4?tag=24",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2038574681377447936/img/e5gg6UBuoz2e7u6J.jpg"
+    },
+    "author": {
+      "name": "Mr Das",
+      "link": "https://x.com/MrDasOnX"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 11,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2038574814378783159",
+      "prompt_source": "tweet_text_prompt",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 37,
+      "bookmarkCount": 12,
+      "viewCount": 993,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Product Motion & Commercial Spots",
+          "slug": "product-motion-commercial-spots"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Natural green-tea pour with product end card"
+    },
+    "description": {
+      "en": "A wellness commercial built from a slow pour, steam and leaf motion, warm daylight, ambient nature audio, music, packaging, and a timed message sequence."
+    },
+    "content": {
+      "en": "A cinematic advertisement of fresh green tea being poured into a transparent glass cup in slow motion. Steam rises softly while fresh green tea leaves fall around the cup. Morning sunlight shines through a wooden table near a window, creating a warm natural glow. Close-up shots of dew drops on tea leaves, a peaceful nature background with birds chirping, soft relaxing music, premium product packaging displayed at the end with text: ‘Pure Green Tea – Refresh Your Mind, Boost Your Day.’ Ultra-realistic, 4K commercial style.\n\nOn-screen text sequence:\n0–5 sec: Start Your Day Fresh\n5–10 sec: 100% Natural Green Tea\n10–15 sec: Sip Wellness, Live Better."
+    },
+    "sourceLink": "https://x.com/UrMeer289/status/2054167234290082149",
+    "sourcePublishedAt": "2026-05-12T11:50:07.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/ext_tw_video/2054166808329080832/pu/vid/avc1/1280x720/A7qudxSoiMyyGMbz.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2054166808329080832/pu/img/uMj-fcc76z8yMPzM.jpg"
+    },
+    "author": {
+      "name": "Ur Meer",
+      "link": "https://x.com/UrMeer289"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 12,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2054167234290082149",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 8,
+      "bookmarkCount": 1,
+      "viewCount": 206,
+      "input_mode": "text-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; surrounding social copy and enclosing quotation marks removed."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Product Motion & Commercial Spots",
+          "slug": "product-motion-commercial-spots"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Atomic cyberpunk restyle of an existing clip"
+    },
+    "description": {
+      "en": "A deliberately minimal edit instruction demonstrating that a source video can keep its underlying motion while the visual treatment changes to a futuristic cyberpunk style."
+    },
+    "content": {
+      "en": "Change the style to futuristic Cyberpunk"
+    },
+    "sourceLink": "https://x.com/STFUnion/status/2018049167839400312",
+    "sourcePublishedAt": "2026-02-01T19:49:49.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2018048438965768192/img/N0xaRAp2EYmuPcUF.jpg",
+      "https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2018048888234553344/vid/avc1/788x1168/_LiqbALuNiUVFZ9B.mp4?tag=21",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2018048888234553344/img/Gjbr2r7c4rig1ghx.jpg"
+    },
+    "author": {
+      "name": "Tyler Keehner",
+      "link": "https://x.com/STFUnion"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 13,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2018049167839400312",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "model_evidence": "grok-imagine-video",
+      "likeCount": 5,
+      "bookmarkCount": 0,
+      "viewCount": 155,
+      "input_mode": "video-to-video",
+      "curation_note": "Creator prompt preserved from the canonical X post; enclosing quotation marks removed. The two previews show the source and edited result."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 66,
+          "title": "Video Editing, Restyling & Scene Control",
+          "slug": "video-editing-restyling-scene-control"
+        }
+      ]
+    }
+  }
+]

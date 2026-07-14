@@ -72,6 +72,7 @@ interface StoredCategory {
 interface PromptLocalization {
   title: string;
   description: string;
+  content?: string;
 }
 
 type PromptLocalizations = Record<string, Record<string, PromptLocalization>>;
@@ -317,7 +318,7 @@ function validatePromptLocalizations(
 
     for (const prompt of prompts) {
       const entry = entries[String(prompt.id)];
-      if (!entry?.title.trim() || !entry?.description.trim()) {
+      if (!entry?.title.trim() || !entry?.description.trim() || !entry?.content?.trim()) {
         errors.push(`Localization: ${locale} is incomplete for prompt ${prompt.id}`);
         continue;
       }
@@ -328,6 +329,9 @@ function validatePromptLocalizations(
         normalizeText(entry.description) === normalizeText(localizedText(prompt.description))
       ) {
         errors.push(`Localization: ${locale} description falls back to English for prompt ${prompt.id}`);
+      }
+      if (normalizeText(entry.content) === normalizeText(localizedText(prompt.content))) {
+        errors.push(`Localization: ${locale} prompt content falls back to English for prompt ${prompt.id}`);
       }
     }
 

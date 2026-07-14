@@ -33,6 +33,9 @@ export interface Translation {
   count: string;
   description: string;
   prompt: string;
+  localizedPrompt: string;
+  originalPrompt: string;
+  sourceAndResultFrames: string;
   generatedImages: string;
   details: string;
   author: string;

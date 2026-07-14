@@ -2,7 +2,7 @@
 
 ## What is this repository?
 
-It is an ImagineVid-maintained collection of source-verifiable Grok Imagine Video prompts, playable results, and production notes. The launch data is empty by design so every future entry starts with Grok-specific evidence.
+It is an ImagineVid-maintained collection of source-verifiable Grok Imagine Video prompts, playable results, and production notes. Every published entry must retain its creator, canonical source, model evidence, and playable result.
 
 ## What can Grok Imagine Video do?
 
@@ -18,13 +18,13 @@ Official references:
 
 The collection's primary workflow link is [Grok Imagine on ImagineVid](https://imaginevid.io/grok-imagine). The current version-specific route is [Grok Imagine 1.5 on ImagineVid](https://imaginevid.io/grok-imagine-1-5).
 
-## Why are there no prompts yet?
+## How are prompts selected?
 
-This repository was initialized by removing all inherited prompt, media, and official-case data. Search results will be added only after source verification, model confirmation, video review, and duplicate checks.
+Community cases enter the collection only after source verification, model confirmation, video review, workflow classification, and duplicate checks. Showcase-only posts and prompts without attributable results are excluded.
 
-## Why launch in English only?
+## How does localization work?
 
-The English information architecture and model description were rewritten first. Additional languages should be translated from this repository's final English source after the terminology stabilizes; keeping copied or stale translations would only create the appearance of localization.
+English remains the source language. When a localized README is added, it must translate the repository's editorial guidance and provide a reviewed prompt translation while keeping the creator's original English prompt visible for provenance and reuse.
 
 ## What makes a video prompt reusable?
 

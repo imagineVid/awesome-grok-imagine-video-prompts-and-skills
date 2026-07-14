@@ -1,7 +1,7 @@
 /**
  * [INPUT]: 依赖 markdown-generator 的英文发布接口与 Grok Imagine Video 数据契约
- * [OUTPUT]: 验证空仓库首屏、官方事实、产品链接、视频媒体和分类行为
- * [POS]: scripts/utils 的 README 发布回归套件，阻止旧模型文案重新进入仓库
+ * [OUTPUT]: 验证英文首屏、官方事实、产品链接、视频媒体、编辑前后帧和分类行为
+ * [POS]: scripts/utils 的 README 发布回归套件，阻止旧模型文案与视频证据展示回归
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
 import assert from "node:assert/strict";
@@ -106,4 +106,32 @@ test("links an animated preview to the canonical source", () => {
   );
   assert.match(markdown, /preview\.gif/);
   assert.match(markdown, /x\.com\/creator\/status\/1234567890/);
+});
+
+test("shows source and result frames for a video editing case", () => {
+  const editingPrompt = prompt({
+    sourceMedia: [
+      "https://example.com/source-frame.jpg",
+      "https://example.com/result-frame.jpg",
+    ],
+    video: {
+      url: "https://example.com/edited-result.mp4",
+      thumbnail: "https://example.com/result-frame.jpg",
+    },
+  });
+  const markdown = generateMarkdown(
+    {
+      all: [editingPrompt],
+      featured: [],
+      regular: [editingPrompt],
+      stats: { total: 1, featured: 0 },
+      categories,
+    },
+    1
+  );
+
+  assert.match(markdown, /Source and result frames/);
+  assert.match(markdown, /source-frame\.jpg/);
+  assert.match(markdown, /result-frame\.jpg/);
+  assert.match(markdown, /edited-result\.mp4/);
 });

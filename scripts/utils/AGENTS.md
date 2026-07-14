@@ -7,7 +7,7 @@ i18n.ts: English publication-copy facade with an explicit future-locale extensio
 media-reference.ts: Public video/preview URL normalization boundary with no external gallery upload.
 locales/: English source copy and intentionally empty expansion-language boundary.
 markdown-generator.ts: GitHub-native cover, model facts, video evidence, workflow groups, contribution CTA, and footer renderer.
-markdown-generator.test.ts: Empty-launch, official-link, product-route, video-media, and workflow regression tests.
+markdown-generator.test.ts: English-launch, official-link, product-route, video-media, editing-frame, and workflow regression tests.
 prompt-quality.ts: X candidate hard gates, video-model evidence, scoring, and text/media duplicate fingerprints.
 prompt-quality.test.ts: Grok evidence, competing-model rejection, promotional-noise, and batch-duplicate regression tests.
 translation-types.ts: Complete README copy contract retained for future reviewed translations.

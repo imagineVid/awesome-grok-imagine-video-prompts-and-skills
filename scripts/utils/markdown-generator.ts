@@ -42,8 +42,10 @@ const GROK_IMAGINE_PRODUCT_URL = "https://imaginevid.io/grok-imagine";
 const XAI_VIDEO_RELEASE_URL = "https://x.ai/news/grok-imagine-video-1-5";
 const XAI_VIDEO_DOCS_URL = "https://docs.x.ai/developers/models/grok-imagine-video";
 
-export function getGrokImagineProductUrl(_locale = "en"): string {
-  return GROK_IMAGINE_PRODUCT_URL;
+export function getGrokImagineProductUrl(locale = "en"): string {
+  return locale === "en"
+    ? GROK_IMAGINE_PRODUCT_URL
+    : `https://imaginevid.io/${locale}/grok-imagine`;
 }
 
 export function getPromptCtaLabel(locale: string): string {
@@ -200,8 +202,8 @@ function generatePromptSection(
     day: "numeric",
     timeZone: "UTC",
   });
-  const rawContent = prompt.translatedContent || prompt.content;
-  const promptContent = cleanPromptContent(rawContent);
+  const promptContent = cleanPromptContent(prompt.translatedContent || prompt.content);
+  const originalPromptContent = cleanPromptContent(prompt.content);
   const hasVariables = /\[[A-Z][A-Z0-9_ ]{1,40}\]/.test(promptContent);
 
   const heading = "#".repeat(headingLevel);
@@ -220,7 +222,12 @@ function generatePromptSection(
   }
 
   md += `\n${detailHeading} ${t("description", locale)}\n\n${prompt.description}\n\n`;
-  md += `${detailHeading} ${t("prompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
+  if (prompt.translatedContent) {
+    md += `${detailHeading} ${t("localizedPrompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
+    md += `<details>\n<summary>${t("originalPrompt", locale)}</summary>\n\n\`\`\`\n${originalPromptContent}\n\`\`\`\n\n</details>\n\n`;
+  } else {
+    md += `${detailHeading} ${t("prompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
+  }
 
   if (prompt.promptVariants?.length) {
     md += generatePromptVariants(prompt.promptVariants, locale);
@@ -228,6 +235,10 @@ function generatePromptSection(
 
   if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
     if (prompt.video?.url) {
+      if (prompt.sourceMedia.length > 1) {
+        md += `${detailHeading} ${t("sourceAndResultFrames", locale)}\n\n`;
+        md += generateMediaTable(prompt.sourceMedia, prompt.title);
+      }
       md += generateAnimationPreview(
         prompt.animationPreview || prompt.video.thumbnail || "",
         prompt.title,
@@ -531,7 +542,7 @@ ${t("variableWorkflowUsage", locale)}
 
 function sourceBackedNote(locale: string): string {
   void locale;
-  return "The launch data is intentionally empty. Future cases must preserve creator attribution, canonical source, model evidence, and a playable result before publication.";
+  return "Every published case preserves the creator, canonical source, model evidence, full reusable prompt, and a playable result. Showcase-only posts are excluded.";
 }
 
 function generateContribute(locale: string): string {
