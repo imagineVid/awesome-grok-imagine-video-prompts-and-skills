@@ -1,6 +1,6 @@
 /**
  * [INPUT]: 无运行时依赖，定义视频案例 README 文案的稳定字段契约
- * [OUTPUT]: 对外提供 Translation 类型，供英文真源与未来人工翻译共同实现
+ * [OUTPUT]: 对外提供 Translation 类型，供英文真源与十三个审核语言包共同实现
  * [POS]: scripts/utils 的发布文案类型边界，避免视频术语在生成器中散落
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */

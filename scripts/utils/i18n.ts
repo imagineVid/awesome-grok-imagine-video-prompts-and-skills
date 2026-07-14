@@ -1,7 +1,7 @@
 /**
- * [INPUT]: 依赖英文 core、空扩展语言包与 Translation 字段契约
+ * [INPUT]: 依赖核心与扩展语言包及 Translation 字段契约
  * [OUTPUT]: 对外提供 Translation 类型与 README 文案查询函数 t
- * [POS]: scripts/utils 的英文首发文案门面，为后续人工翻译保留稳定接口
+ * [POS]: scripts/utils 的十四语言文案门面，以英文作为缺失字段回退
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
 import { CORE_TRANSLATIONS } from "./locales/core.js";

@@ -24,7 +24,7 @@ Community cases enter the collection only after source verification, model confi
 
 ## How does localization work?
 
-English remains the source language. When a localized README is added, it must translate the repository's editorial guidance and provide a reviewed prompt translation while keeping the creator's original English prompt visible for provenance and reuse.
+English remains the source language. Each localized README translates the editorial guidance and provides a reviewed prompt translation while keeping the creator's original English prompt visible for provenance and reuse.
 
 ## What makes a video prompt reusable?
 

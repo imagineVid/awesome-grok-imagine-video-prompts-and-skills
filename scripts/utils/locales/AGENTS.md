@@ -2,7 +2,7 @@
 > L2 | Parent: ../AGENTS.md
 
 Member map
-core.ts: Rewritten English Grok Imagine Video publication copy and model introduction.
-extended.ts: Explicitly empty extension point for future translations derived from the English truth source.
+core.ts: Rewritten English truth plus six reviewed core-language publication packs.
+extended.ts: Seven reviewed expansion-language packs derived from the English truth source.
 
 [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md

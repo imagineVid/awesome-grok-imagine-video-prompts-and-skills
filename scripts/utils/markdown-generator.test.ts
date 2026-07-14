@@ -1,6 +1,6 @@
 /**
- * [INPUT]: 依赖 markdown-generator 的英文发布接口与 Grok Imagine Video 数据契约
- * [OUTPUT]: 验证英文首屏、官方事实、产品链接、视频媒体、编辑前后帧和分类行为
+ * [INPUT]: 依赖 markdown-generator 的十四语言发布接口与 Grok Imagine Video 数据契约
+ * [OUTPUT]: 验证多语言首屏、官方事实、产品链接、视频媒体、编辑前后帧和分类行为
  * [POS]: scripts/utils 的 README 发布回归套件，阻止旧模型文案与视频证据展示回归
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -58,9 +58,22 @@ function prompt(overrides: Partial<Prompt> = {}): Prompt {
   };
 }
 
-test("launches with one rewritten English surface", () => {
+test("publishes the fourteen ImagineVid-supported language surfaces", () => {
   assert.deepEqual(SUPPORTED_LANGUAGES, [
     { code: "en", name: "English", readmeFileName: "README.md" },
+    { code: "es", name: "Español", readmeFileName: "README.es.md" },
+    { code: "pt", name: "Português", readmeFileName: "README.pt.md" },
+    { code: "it", name: "Italiano", readmeFileName: "README.it.md" },
+    { code: "de", name: "Deutsch", readmeFileName: "README.de.md" },
+    { code: "fr", name: "Français", readmeFileName: "README.fr.md" },
+    { code: "ar", name: "العربية", readmeFileName: "README.ar.md" },
+    { code: "ja", name: "日本語", readmeFileName: "README.ja.md" },
+    { code: "ko", name: "한국어", readmeFileName: "README.ko.md" },
+    { code: "zh", name: "中文", readmeFileName: "README.zh.md" },
+    { code: "nl", name: "Nederlands", readmeFileName: "README.nl.md" },
+    { code: "ru", name: "Русский", readmeFileName: "README.ru.md" },
+    { code: "tr", name: "Türkçe", readmeFileName: "README.tr.md" },
+    { code: "pl", name: "Polski", readmeFileName: "README.pl.md" },
   ]);
 });
 
@@ -79,6 +92,7 @@ test("renders a Grok Imagine Video empty-state README without inherited model co
 
 test("uses the verified ImagineVid product route", () => {
   assert.equal(getGrokImagineProductUrl(), "https://imaginevid.io/grok-imagine");
+  assert.equal(getGrokImagineProductUrl("ja"), "https://imaginevid.io/ja/grok-imagine");
 });
 
 test("groups a video prompt by its single production workflow", () => {
@@ -134,4 +148,29 @@ test("shows source and result frames for a video editing case", () => {
   assert.match(markdown, /source-frame\.jpg/);
   assert.match(markdown, /result-frame\.jpg/);
   assert.match(markdown, /edited-result\.mp4/);
+});
+
+test("keeps the English source prompt below a reviewed localization", () => {
+  const localizedPrompt = prompt({
+    title: "Acercamiento cinematográfico",
+    description: "Un movimiento de cámara controlado.",
+    translatedContent: "Acercamiento lento mientras las brasas cruzan el encuadre.",
+  });
+  const markdown = generateMarkdown(
+    {
+      all: [localizedPrompt],
+      featured: [],
+      regular: [localizedPrompt],
+      stats: { total: 1, featured: 0 },
+      categories,
+    },
+    1,
+    "es"
+  );
+
+  assert.match(markdown, /Prompt localizado/);
+  assert.match(markdown, /Prompt original/);
+  assert.match(markdown, /Acercamiento lento/);
+  assert.match(markdown, /Slow cinematic push-in/);
+  assert.match(markdown, /imaginevid\.io\/es\/grok-imagine/);
 });

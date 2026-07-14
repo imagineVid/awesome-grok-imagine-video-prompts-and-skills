@@ -17,7 +17,8 @@
 
 ---
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md)
+[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README.es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README.pt.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README.it.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README.de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README.fr.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-Click%20to%20View-lightgrey)](README.ar.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README.ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README.ko.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README.zh.md)
+[![Nederlands](https://img.shields.io/badge/Nederlands-Click%20to%20View-lightgrey)](README.nl.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-Click%20to%20View-lightgrey)](README.ru.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README.tr.md) [![Polski](https://img.shields.io/badge/Polski-Click%20to%20View-lightgrey)](README.pl.md)
 
 ---
 
@@ -99,7 +100,7 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 |--------|-------|
 | Verified Cases | **13** |
 | Editorial pick | **4** |
-| Generated | **Tuesday, July 14, 2026 at 1:50:29 PM UTC** |
+| Generated | **Tuesday, July 14, 2026 at 2:45:12 PM UTC** |
 
 </div>
 
@@ -113,7 +114,7 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 <a id="prompt-1"></a>
 
-### No. 1: Rapid spacecraft detail montage with hard transitions
+### #1: Rapid spacecraft detail montage with hard transitions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
@@ -145,7 +146,7 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 <a id="prompt-3"></a>
 
-### No. 2: Slow-motion cereal burst with dialogue and sound design
+### #2: Slow-motion cereal burst with dialogue and sound design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
@@ -187,7 +188,7 @@ Fun playful background music.
 
 <a id="prompt-5"></a>
 
-### No. 3: One-shot puppet fight with synchronized slapstick audio
+### #3: One-shot puppet fight with synchronized slapstick audio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
@@ -228,7 +229,7 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 <a id="prompt-11"></a>
 
-### No. 4: Luxury perfume reveal in five timed commercial shots
+### #4: Luxury perfume reveal in five timed commercial shots
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
@@ -277,7 +278,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 ## Community Prompt Cases
 
-> Twitter/X-sourced community prompt cases, ordered by source date and editorial value.
+> Ordered by source date and editorial value.
 
 <a id="workflow-camera-direction-shot-design"></a>
 
@@ -291,7 +292,7 @@ Shot briefs built around framing, camera path, blocking, pacing, reveals, and tr
 
 <a id="prompt-2"></a>
 
-#### No. 1: Tiny cameraman desk run with timed story beats
+#### #1: Tiny cameraman desk run with timed story beats
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -333,7 +334,7 @@ Performance-led prompts where speech, acting, ambience, music, or synchronized s
 
 <a id="prompt-4"></a>
 
-#### No. 2: Subtle argument driven by pauses and micro-expressions
+#### #2: Subtle argument driven by pauses and micro-expressions
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -374,7 +375,7 @@ Commercial clips that keep a product, offer, garment, dish, device, or brand mom
 
 <a id="prompt-12"></a>
 
-#### No. 3: Natural green-tea pour with product end card
+#### #3: Natural green-tea pour with product end card
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -416,7 +417,7 @@ Image-anchored workflows that animate a still while preserving identity, composi
 
 <a id="prompt-6"></a>
 
-#### No. 4: Torchlit fantasy kiss with practical-film continuity
+#### #4: Torchlit fantasy kiss with practical-film continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -454,7 +455,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### No. 5: High-speed dragon flight with fire, cloth, and audio physics
+#### #5: High-speed dragon flight with fire, cloth, and audio physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -498,7 +499,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### No. 6: Locked editorial grid with independent micro-motion
+#### #6: Locked editorial grid with independent micro-motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -595,7 +596,7 @@ Effects and animation patterns driven by transformations, simulation, surreal ph
 
 <a id="prompt-9"></a>
 
-#### No. 7: Moonlit dragon nuzzle in restrained slow motion
+#### #7: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -626,7 +627,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### No. 8: Continuous martial-arts traversal with heavy impact physics
+#### #8: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -663,7 +664,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### No. 9: Atomic cyberpunk restyle of an existing clip
+#### #9: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -751,6 +752,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-14T13:50:29.747Z</sub>
+<sub>Generated from versioned local data on 2026-07-14T14:45:12.551Z</sub>
 
 </div>

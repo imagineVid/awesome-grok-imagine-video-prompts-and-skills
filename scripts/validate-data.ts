@@ -1,6 +1,6 @@
 /**
- * [INPUT]: 依赖 data/ 的视频提示词、可选本地化元数据与案例，依赖 prompt-quality 及媒体审计工具
- * [OUTPUT]: 对外提供结构、来源、本地化覆盖、分类和重复媒体的发布前校验命令
+ * [INPUT]: 依赖 data/ 的视频提示词、十三语言本地化元数据与案例，依赖 prompt-quality 及媒体审计工具
+ * [OUTPUT]: 对外提供结构、来源、完整本地化覆盖、分类和重复媒体的发布前校验命令
  * [POS]: scripts 的质量闸门，被 README 生成与持续集成共同调用
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -24,7 +24,9 @@ const LOCALIZATION_PATHS = [
   path.join(ROOT_DIR, "data/prompt-localizations-core.json"),
   path.join(ROOT_DIR, "data/prompt-localizations-extended.json"),
 ];
-const REQUIRED_PROMPT_LOCALES = [] as const;
+const REQUIRED_PROMPT_LOCALES = [
+  "es", "pt", "it", "de", "fr", "ar", "ja", "ko", "zh", "nl", "ru", "tr", "pl",
+] as const;
 
 type LocalizedText = string | Record<string, string>;
 

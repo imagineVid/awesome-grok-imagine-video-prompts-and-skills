@@ -1,6 +1,6 @@
 /**
- * [INPUT]: 依赖 prompt-repository 的视频提示词契约、英文 i18n 文案与 workflow-copy 分类说明
- * [OUTPUT]: 对外提供 README、媒体表格、模型介绍、分类分组和 CTA 的 Markdown 生成能力
+ * [INPUT]: 依赖 prompt-repository 的视频提示词契约、十四语言 i18n 文案与 workflow-copy 分类说明
+ * [OUTPUT]: 对外提供多语言 README、媒体表格、模型介绍、分类分组和 CTA 的 Markdown 生成能力
  * [POS]: scripts/utils 的核心展示层，把 Grok Imagine Video 结构化数据渲染为 GitHub 原生页面
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -33,6 +33,19 @@ export interface LanguageConfig {
 
 export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: "en", name: "English", readmeFileName: "README.md" },
+  { code: "es", name: "Español", readmeFileName: "README.es.md" },
+  { code: "pt", name: "Português", readmeFileName: "README.pt.md" },
+  { code: "it", name: "Italiano", readmeFileName: "README.it.md" },
+  { code: "de", name: "Deutsch", readmeFileName: "README.de.md" },
+  { code: "fr", name: "Français", readmeFileName: "README.fr.md" },
+  { code: "ar", name: "العربية", readmeFileName: "README.ar.md" },
+  { code: "ja", name: "日本語", readmeFileName: "README.ja.md" },
+  { code: "ko", name: "한국어", readmeFileName: "README.ko.md" },
+  { code: "zh", name: "中文", readmeFileName: "README.zh.md" },
+  { code: "nl", name: "Nederlands", readmeFileName: "README.nl.md" },
+  { code: "ru", name: "Русский", readmeFileName: "README.ru.md" },
+  { code: "tr", name: "Türkçe", readmeFileName: "README.tr.md" },
+  { code: "pl", name: "Polski", readmeFileName: "README.pl.md" },
 ];
 
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
@@ -208,7 +221,7 @@ function generatePromptSection(
 
   const heading = "#".repeat(headingLevel);
   const detailHeading = "#".repeat(headingLevel + 1);
-  let md = `<a id="prompt-${prompt.id}"></a>\n\n${heading} No. ${index + 1}: ${prompt.title}\n\n`;
+  let md = `<a id="prompt-${prompt.id}"></a>\n\n${heading} #${index + 1}: ${prompt.title}\n\n`;
   md += `![Language-${prompt.language.toUpperCase()}](https://img.shields.io/badge/Language-${prompt.language.toUpperCase()}-blue)\n`;
 
   if (prompt.featured) {
@@ -288,7 +301,7 @@ function generateAllPromptsSection(
   if (categorizedPrompts.length === 0 && hiddenCount === 0) return "";
   let md = `<a id="community-prompt-cases"></a>\n\n`;
   md += `## ${communityCasesTitle(locale)}\n\n`;
-  md += `> Twitter/X-sourced community prompt cases, ${t("sortedByDate", locale).toLowerCase()}.\n\n`;
+  md += `> ${t("sortedByDate", locale)}.\n\n`;
   const groups = groupPromptsByWorkflow(categorizedPrompts, categories);
   let promptIndex = 0;
 
@@ -324,13 +337,11 @@ function generateAllPromptsSection(
 }
 
 function communityFeaturedTitle(locale: string): string {
-  return locale === "en"
-    ? "Featured Community Prompts"
-    : `Community · ${t("featuredPrompts", locale)}`;
+  return locale === "en" ? "Featured Community Prompts" : t("featuredPrompts", locale);
 }
 
 function communityCasesTitle(locale: string): string {
-  return locale === "en" ? "Community Prompt Cases" : `Community · ${t("allPrompts", locale)}`;
+  return locale === "en" ? "Community Prompt Cases" : t("allPrompts", locale);
 }
 
 function generateStats(stats: { total: number; featured: number }, locale: string): string {
@@ -541,8 +552,9 @@ ${t("variableWorkflowUsage", locale)}
 }
 
 function sourceBackedNote(locale: string): string {
-  void locale;
-  return "Every published case preserves the creator, canonical source, model evidence, full reusable prompt, and a playable result. Showcase-only posts are excluded.";
+  return locale === "en"
+    ? "Every published case preserves the creator, canonical source, model evidence, full reusable prompt, and a playable result. Showcase-only posts are excluded."
+    : t("noteContent", locale);
 }
 
 function generateContribute(locale: string): string {
