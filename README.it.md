@@ -100,7 +100,7 @@ Inizia con un'azione e un'idea per la camera. Aggiungi timing, audio e vincoli d
 |--------|-------|
 | Casi verificati | **13** |
 | Selezione editoriale | **4** |
-| Generato | **mercoledì 15 luglio 2026 alle ore 02:12:47 UTC** |
+| Generato | **mercoledì 15 luglio 2026 alle ore 06:12:41 UTC** |
 
 </div>
 
@@ -984,6 +984,6 @@ I testi editoriali e il codice realizzati da ImagineVid sono distribuiti con lic
 **[Invia un caso verificato](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Metti una stella alla raccolta](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generato dai dati locali versionati il 2026-07-15T02:12:47.960Z</sub>
+<sub>Generato dai dati locali versionati il 2026-07-15T06:12:41.971Z</sub>
 
 </div>
