@@ -100,7 +100,7 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 |--------|-------|
 | Zweryfikowane przykłady | **15** |
 | Wybór redakcji | **4** |
-| Wygenerowano | **sobota, 18 lipca 2026 06:03:07 UTC** |
+| Wygenerowano | **sobota, 18 lipca 2026 09:23:12 UTC** |
 
 </div>
 
@@ -1084,6 +1084,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-18T06:03:07.351Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-18T09:23:12.677Z</sub>
 
 </div>
