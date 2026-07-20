@@ -100,7 +100,7 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 |--------|-------|
 | Cas vérifiés | **15** |
 | Sélection éditoriale | **4** |
-| Généré | **lundi 20 juillet 2026 à 14:01:25 UTC** |
+| Généré | **lundi 20 juillet 2026 à 18:00:16 UTC** |
 
 </div>
 
@@ -1125,6 +1125,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-07-20T14:01:25.623Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-07-20T18:00:16.867Z</sub>
 
 </div>
