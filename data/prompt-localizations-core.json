@@ -74,6 +74,16 @@
       "title": "Gigante dormido en Times Square",
       "description": "Un plano surrealista de escala guiado por referencia que convierte a una persona en un gigante urbano dormido y usa el tráfico, las marcas viales, las pantallas y una vista oblicua de dron como referencias de tamaño.",
       "content": "Plano de dron con perspectiva extrema que usa el rostro subido como referencia y muestra al sujeto como un gigante dormido, acurrucado en medio de una concurrida intersección de Times Square. El tráfico se desvía alrededor de su cuerpo y los taxis amarillos parecen coches de juguete. Lleva pantalones deportivos grises extragrandes y cómodos y una sudadera con capucha. Las marcas del asfalto y los residuos de la calle refuerzan la escala. La vibrante luz eléctrica de las pantallas nocturnas de Times Square proyecta colores sobre la figura dormida. La cámara mira desde arriba con una ligera inclinación para revelar la altura de los edificios. Resolución 8K, multitudes y vehículos fotorrealistas, y una yuxtaposición surrealista entre intimidad y caos público."
+    },
+    "16": {
+      "title": "Mercado JRPG iluminado por faroles",
+      "description": "Escena jugable con mercado concurrido, cámara en tercera persona, interfaz legible, física de telas y efectos atmosféricos.",
+      "content": "Metraje cinematográfico de un JRPG moderno: un mercado bullicioso con PNJ y vendedores, faroles cálidos, cámara en tercera persona, rayos volumétricos, partículas, personajes detallados con física de telas, texturas realistas de motor de juego, profundidad de campo y desenfoque de movimiento. Dirección artística inspirada en el anime y narrativa ambiental. Mantén visibles las barras de PS/PM y el minimapa. Movimiento de cámara fluido a 60 fps y presentación 4K."
+    },
+    "17": {
+      "title": "Conejo corriendo por Nueva York",
+      "description": "Ejemplo oficial mínimo para probar movimiento, continuidad urbana y audio sincronizado a partir de una sola frase.",
+      "content": "Un conejo corre a toda velocidad por Nueva York. Síguelo a ras de calle con un avance enérgico, tráfico y peatones coherentes, pisadas realistas y perspectiva urbana continua."
     }
   },
   "de": {
@@ -151,6 +161,16 @@
       "title": "Schlafender Riese am Times Square",
       "description": "Eine referenzgestützte surreale Größeninszenierung, die eine Person in einen schlafenden Stadtriesen verwandelt und Verkehr, Fahrbahnmarkierungen, Leuchtreklamen und eine schräge Drohnenansicht als Maßstab nutzt.",
       "content": "Extreme Drohnenperspektive: Das hochgeladene Gesicht dient als Referenz für einen schlafenden Riesen, der zusammengerollt mitten auf einer belebten Kreuzung am Times Square liegt. Der Verkehr wird um den riesigen Körper herumgeführt; gelbe Taxis wirken daneben wie Spielzeugautos. Die Person trägt eine übergroße bequeme graue Jogginghose und einen Hoodie. Asphaltmarkierungen und Straßenschmutz liefern klare Größenhinweise. Das elektrische Leuchten der nächtlichen Times-Square-Bildschirme wirft vielfarbiges Licht auf die schlafende Figur. Die Kamera blickt von oben, ist jedoch leicht geneigt, damit die Höhe der Gebäude sichtbar bleibt. 8K, fotorealistische Menschen- und Fahrzeugdetails und ein surrealer Kontrast zwischen Intimität und öffentlichem Chaos."
+    },
+    "16": {
+      "title": "Laternenbeleuchteter JRPG-Marktplatz",
+      "description": "Gameplay-Szene mit belebtem Markt, Third-Person-Kamera, lesbarer UI, Stoffphysik und atmosphärischen Effekten.",
+      "content": "Cineastisches Gameplay aus einem modernen JRPG: ein belebter Marktplatz mit NPCs und Händlern, warmes Laternenlicht, Third-Person-Kamera, volumetrische Lichtstrahlen, Partikel, detaillierte Figuren mit Stoffphysik, realistische Engine-Texturen, Tiefenschärfe und Bewegungsunschärfe. Anime-inspirierte Art Direction und erzählerische Umgebung. HP/MP-Balken und Minikarte bleiben sichtbar. Flüssige Kamerafahrt mit 60 fps, 4K-Präsentation."
+    },
+    "17": {
+      "title": "Kaninchen sprintet durch New York",
+      "description": "Minimales offizielles Beispiel zum Testen von Bewegung, urbaner Kontinuität und synchronem Ton aus einem Satz.",
+      "content": "Ein Kaninchen sprintet durch New York City. Folge ihm auf Straßenhöhe mit energischer Vorwärtsbewegung, stimmigem Verkehr und Fußgängern, realistischen Schritten und durchgehender urbaner Perspektive."
     }
   },
   "fr": {
@@ -228,6 +248,16 @@
       "title": "Géant endormi à Times Square",
       "description": "Un plan surréaliste guidé par une référence transforme une personne en géant urbain endormi, tandis que circulation, marquages, écrans et vue oblique de drone donnent l’échelle.",
       "content": "Plan de drone en perspective extrême utilisant le visage importé comme référence : le sujet devient un géant endormi, recroquevillé au milieu d’un carrefour très fréquenté de Times Square. La circulation est déviée autour de son corps et les taxis jaunes paraissent minuscules comme des voitures miniatures. Il porte un pantalon de survêtement gris ample et confortable ainsi qu’un sweat à capuche. Les marquages au sol et les débris urbains servent de repères d’échelle. La lumière électrique des panneaux de Times Square la nuit projette des couleurs multiples sur la silhouette endormie. La caméra est en plongée, légèrement inclinée afin de montrer la hauteur des immeubles. Résolution 8K, foule et véhicules photoréalistes, contraste surréaliste entre intimité et chaos public."
+    },
+    "16": {
+      "title": "Marché de JRPG éclairé aux lanternes",
+      "description": "Scène de jeu mêlant marché animé, caméra à la troisième personne, interface lisible, tissus physiques et effets atmosphériques.",
+      "content": "Séquence de gameplay cinématographique d'un JRPG moderne : marché animé rempli de PNJ et de marchands, lanternes chaudes, caméra à la troisième personne, rayons volumétriques, particules, personnages détaillés avec physique des tissus, textures réalistes de moteur de jeu, profondeur de champ et flou de mouvement. Direction artistique inspirée de l'anime et narration environnementale. Garder visibles les barres PV/PM et la mini-carte. Mouvement de caméra fluide à 60 i/s, présentation 4K."
+    },
+    "17": {
+      "title": "Lapin lancé dans les rues de New York",
+      "description": "Exemple officiel minimal pour tester mouvement, continuité urbaine et son synchronisé à partir d'une seule phrase.",
+      "content": "Un lapin traverse New York à toute vitesse. Suivez-le au niveau de la rue avec un mouvement avant énergique, une circulation et des piétons cohérents, des foulées réalistes et une perspective urbaine continue."
     }
   },
   "ja": {
@@ -305,6 +335,16 @@
       "title": "タイムズスクエアに眠る巨人",
       "description": "人物を街中で眠る巨人へ変え、交通、路面表示、広告光、斜め俯瞰のドローン視点で巨大さを示す、参照画像ベースのシュールなスケール演出。",
       "content": "アップロードした顔を参照し、混雑したタイムズスクエアの交差点の中央で体を丸めて眠る巨人として描く、極端な遠近感のドローンショット。交通は巨大な身体を避けて流れ、黄色いタクシーは玩具の車のように小さく見える。人物はゆったりした大きめのグレーのスウェットパンツとフーディーを着用。アスファルトの路面表示や街の細かなごみがスケール感を支える。夜のタイムズスクエアの電光看板が鮮やかな多色光を眠る人物へ投げかける。カメラは真上に近い位置から、建物の高さが分かるよう少し傾ける。8K、写実的な群衆と車両、親密さと公共空間の混沌が同居するシュールな画面。"
+    },
+    "16": {
+      "title": "ランタンに照らされたJRPG市場",
+      "description": "にぎわう市場、三人称カメラ、読めるUI、布の物理表現、空気感のあるエフェクトを組み合わせたゲーム映像。",
+      "content": "現代的なJRPGのシネマティックなゲームプレイ映像。NPCと商人でにぎわう市場、暖かなランタン光、三人称カメラ、ボリュームライト、粒子表現、布の物理を備えた精密なキャラクター、リアルなゲームエンジン質感、被写界深度、モーションブラー。アニメ調の美術と環境による物語表現。HP/MPバーとミニマップは常に読める状態を保つ。60fpsの滑らかなカメラ、4K。"
+    },
+    "17": {
+      "title": "ニューヨークを疾走するウサギ",
+      "description": "一文から被写体の動き、都市の連続性、同期音声を試す最小構成の公式例。",
+      "content": "ウサギがニューヨークの街を全力で走る。地面に近い高さから勢いよく追跡し、交通と歩行者の整合性、自然な足音、途切れない都市遠近を保つ。"
     }
   },
   "ko": {
@@ -382,6 +422,16 @@
       "title": "타임스스퀘어에 잠든 거인",
       "description": "인물을 도심에 잠든 거인으로 바꾸고 교통, 도로 표시, 전광판과 비스듬한 드론 시점으로 규모를 보여 주는 참조 기반 초현실 영상입니다.",
       "content": "업로드한 얼굴을 참조해 붐비는 타임스스퀘어 교차로 한가운데 웅크려 잠든 거인으로 표현한 극단적 원근감의 드론 샷. 교통은 거대한 몸을 피해 흐르고 노란 택시는 장난감 자동차처럼 작아 보인다. 인물은 편안한 오버사이즈 회색 스웨트팬츠와 후디를 입고 있다. 아스팔트의 노면 표시와 거리의 작은 잔해가 크기 비교 기준을 만든다. 밤의 타임스스퀘어 전광판이 뿜는 화려한 전기빛이 잠든 인물 위로 여러 색을 드리운다. 카메라는 위에서 내려다보되 건물 높이가 드러나도록 살짝 기울인다. 8K 해상도, 사실적인 군중과 차량 디테일, 사적인 친밀함과 공공의 혼돈이 대비되는 초현실적 장면."
+    },
+    "16": {
+      "title": "등불이 빛나는 JRPG 시장",
+      "description": "붐비는 시장, 3인칭 카메라, 읽기 쉬운 UI, 옷감 물리와 대기 효과를 결합한 게임플레이 장면입니다.",
+      "content": "현대 JRPG의 시네마틱 게임플레이 영상. NPC와 상인으로 붐비는 시장, 따뜻한 등불, 3인칭 카메라, 볼류메트릭 광선과 파티클, 옷감 물리가 적용된 정교한 캐릭터, 사실적인 게임 엔진 텍스처, 피사계 심도와 모션 블러. 애니메이션풍 아트 디렉션과 환경 스토리텔링. HP/MP 바와 미니맵은 계속 보이게 유지합니다. 부드러운 60fps 카메라 움직임, 4K 화면."
+    },
+    "17": {
+      "title": "뉴욕을 질주하는 토끼",
+      "description": "한 문장으로 피사체 움직임, 도시 연속성, 동기화 오디오를 시험하는 최소 공식 예제입니다.",
+      "content": "토끼 한 마리가 뉴욕시를 전력 질주한다. 거리 높이에서 역동적으로 추적하며 차량과 보행자의 일관성, 사실적인 발소리, 끊김 없는 도시 원근을 유지한다."
     }
   },
   "zh": {
@@ -459,6 +509,16 @@
       "title": "沉睡在时代广场的巨人",
       "description": "以参考人脸把人物变成城市中沉睡的巨人，并用车流、路面标线、霓虹屏幕和倾斜航拍视角建立超现实尺度。",
       "content": "采用极端透视的无人机镜头，以上传的人脸为参考，将人物表现为蜷缩在繁忙时代广场十字路口中央沉睡的巨人。车流绕过巨大的身体，黄色出租车相比之下像玩具车。人物穿着宽松舒适的灰色运动裤和连帽衫。沥青路面标线与街道碎屑提供明确的尺度参照。夜晚时代广场广告屏的鲜艳电光把多彩光线投射在沉睡人物身上。镜头从上方俯拍，但略微倾斜，以呈现周围建筑的高度。8K 分辨率，写实的人群和车辆细节，在私密沉睡与公共空间混乱之间形成超现实并置。"
+    },
+    "16": {
+      "title": "灯笼照亮的 JRPG 市集",
+      "description": "融合拥挤市集、第三人称镜头、可读界面、布料物理和氛围特效的游戏画面。",
+      "content": "现代 JRPG 的电影感实机画面：NPC 与摊贩熙攘的市集、温暖灯笼光、第三人称镜头、体积光、粒子效果、带布料物理的精细角色、真实游戏引擎材质、景深和运动模糊。采用动画风美术与环境叙事。HP/MP 条和小地图始终清晰可见。镜头以 60fps 平滑运动，4K 呈现。"
+    },
+    "17": {
+      "title": "穿越纽约街头的疾跑兔子",
+      "description": "用一句话测试主体运动、城市连续性和同步音效的官方极简示例。",
+      "content": "一只兔子在纽约市全速奔跑。镜头贴近街面快速跟拍，保持车辆和行人逻辑一致、脚步声真实、城市透视连续。"
     }
   }
 }

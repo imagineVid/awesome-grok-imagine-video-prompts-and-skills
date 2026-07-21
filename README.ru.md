@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **15** |
+| Проверенные примеры | **17** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **вторник, 21 июля 2026 г. в 13:44:27 UTC** |
+| Сгенерировано | **вторник, 21 июля 2026 г. в 13:46:51 UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Диалог, исполнение и нативное аудио (3)
+### Диалог, исполнение и нативное аудио (4)
 
 Промпты на основе исполнения, где речь, актёрская игра, атмосфера, музыка или синхронный звук несут сцену.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: Кролик мчится по Нью-Йорку
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Минимальный официальный пример для проверки движения, городской непрерывности и синхронного звука по одной фразе.
+
+##### Локализованный промпт
+
+```
+Кролик мчится по Нью-Йорку. Камера энергично следует за ним на уровне улицы, сохраняя логичное движение транспорта и пешеходов, реалистичный топот и непрерывную городскую перспективу.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Кролик мчится по Нью-Йорку - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [@vercel_dev](https://x.com/vercel_dev)
+- **Канонический источник:** [Канонический источник](https://x.com/vercel_dev/status/2062331926296641565)
+- **Опубликовано:** 4 июня 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Движение продукта и рекламные ролики (2)
@@ -486,7 +530,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: Натуральная подача зелёного чая с финальной карточкой продукта
+#### #4: Натуральная подача зелёного чая с финальной карточкой продукта
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #4: Поцелуй в свете факелов с непрерывностью практического кино
+#### #5: Поцелуй в свете факелов с непрерывностью практического кино
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Скоростной полёт дракона с огнём, тканью и аудиофизикой
+#### #6: Скоростной полёт дракона с огнём, тканью и аудиофизикой
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Зафиксированная редакционная сетка с независимым микродвижением
+#### #7: Зафиксированная редакционная сетка с независимым микродвижением
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -811,7 +855,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #7: Спящий гигант на Таймс-сквер
+#### #8: Спящий гигант на Таймс-сквер
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -856,13 +900,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Стилизованное движение и визуальные эффекты (3)
+### Стилизованное движение и визуальные эффекты (4)
 
 Паттерны эффектов и анимации на основе трансформаций, симуляции, сюрреалистической физики, графического движения или особой медиатехники.
 
 <a id="prompt-9"></a>
 
-#### #8: Лунный драконий нос в сдержанном замедлении
+#### #9: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -906,7 +950,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #10: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -950,7 +994,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Водяная сфера с обратным потоком
+#### #11: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -992,6 +1036,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: Рынок JRPG в свете фонарей
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Игровая сцена с оживленным рынком, камерой от третьего лица, читаемым интерфейсом, физикой ткани и атмосферными эффектами.
+
+##### Локализованный промпт
+
+```
+Кинематографический геймплей современной JRPG: оживленный рынок с NPC и торговцами, теплый свет фонарей, камера от третьего лица, объемные лучи, частицы, детализированные персонажи с физикой ткани, реалистичные игровые текстуры, глубина резкости и размытие движения. Аниме-стилистика и повествование через окружение. Полосы HP/MP и мини-карта остаются видимыми. Плавная камера 60 кадров/с, 4K.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Рынок JRPG в свете фонарей - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [@icreatelife](https://x.com/icreatelife)
+- **Канонический источник:** [Канонический источник](https://x.com/icreatelife/status/1987063774449430763)
+- **Опубликовано:** 8 ноября 2025 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Монтаж видео, рестайлинг и контроль сцены (1)
@@ -1000,7 +1088,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #11: Атомный киберпанк-рестайлинг существующего клипа
+#### #13: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1078,10 +1166,10 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1101,6 +1189,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-21T13:44:27.084Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-21T13:46:51.249Z</sub>
 
 </div>

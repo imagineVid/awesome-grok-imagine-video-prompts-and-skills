@@ -98,9 +98,9 @@ Beginne mit einer Handlung und einer Kameridee. Füge Timing, Audio und Erhaltun
 
 | Sammlungsfeld | Aktueller Wert |
 |--------|-------|
-| Verifizierte Fälle | **15** |
+| Verifizierte Fälle | **17** |
 | Redaktionelle Auswahl | **4** |
-| Generiert | **Dienstag, 21. Juli 2026 um 13:44:27 UTC** |
+| Generiert | **Dienstag, 21. Juli 2026 um 13:46:51 UTC** |
 
 </div>
 
@@ -148,7 +148,7 @@ Ultra-fast flight. Create a multi-scene, fast-paced live-action video. Use sharp
 
 #### Nachweise
 
-- **Creator:** [Dogan Ural](https://x.com/doganuraldesign)
+- **Erstellt von:** [Dogan Ural](https://x.com/doganuraldesign)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/doganuraldesign/status/2044049325299204120)
 - **Veröffentlicht:** 14. April 2026
 - **Prompt-Sprache:** en
@@ -213,7 +213,7 @@ Fun playful background music.
 
 #### Nachweise
 
-- **Creator:** [BMX](https://x.com/bmx_ai13)
+- **Erstellt von:** [BMX](https://x.com/bmx_ai13)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/bmx_ai13/status/2069395522088030511)
 - **Veröffentlicht:** 23. Juni 2026
 - **Prompt-Sprache:** en
@@ -275,7 +275,7 @@ Audio: roaring puppet crowd, short clear lip sync, punch impacts, chair clanks, 
 
 #### Nachweise
 
-- **Creator:** [Krista Gable](https://x.com/DomainDomme)
+- **Erstellt von:** [Krista Gable](https://x.com/DomainDomme)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/DomainDomme/status/2062228580851974229)
 - **Veröffentlicht:** 3. Juni 2026
 - **Prompt-Sprache:** en
@@ -350,7 +350,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 #### Nachweise
 
-- **Creator:** [Mr Das](https://x.com/MrDasOnX)
+- **Erstellt von:** [Mr Das](https://x.com/MrDasOnX)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/MrDasOnX/status/2038574814378783159)
 - **Veröffentlicht:** 30. März 2026
 - **Prompt-Sprache:** en
@@ -410,7 +410,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 ##### Nachweise
 
-- **Creator:** [BMX](https://x.com/bmx_ai13)
+- **Erstellt von:** [BMX](https://x.com/bmx_ai13)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/bmx_ai13/status/2073857648848716232)
 - **Veröffentlicht:** 5. Juli 2026
 - **Prompt-Sprache:** en
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Dialog, Performance und nativer Ton (3)
+### Dialog, Performance und nativer Ton (4)
 
 Performance-orientierte Prompts, in denen Sprache, Schauspiel, Atmosphäre, Musik oder synchroner Ton die Szene tragen.
 
@@ -465,9 +465,53 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ##### Nachweise
 
-- **Creator:** [Kiri](https://x.com/Kyrannio)
+- **Erstellt von:** [Kiri](https://x.com/Kyrannio)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/Kyrannio/status/2070218164609405380)
 - **Veröffentlicht:** 25. Juni 2026
+- **Prompt-Sprache:** en
+
+**[Mit dieser Regie erstellen · ImagineVid](https://imaginevid.io/de/grok-imagine)**
+
+---
+
+<a id="prompt-17"></a>
+
+#### #3: Kaninchen sprintet durch New York
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Warum der Workflow wichtig ist
+
+Minimales offizielles Beispiel zum Testen von Bewegung, urbaner Kontinuität und synchronem Ton aus einem Satz.
+
+##### Lokalisierter Prompt
+
+```
+Ein Kaninchen sprintet durch New York City. Folge ihm auf Straßenhöhe mit energischer Vorwärtsbewegung, stimmigem Verkehr und Fußgängern, realistischen Schritten und durchgehender urbaner Perspektive.
+```
+
+<details>
+<summary>Originaler Quellprompt</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Kaninchen sprintet durch New York - Motion preview"></a>
+
+*Klicke auf die Vorschau, um das Video zu öffnen* · **[▶ Video ansehen →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Nachweise
+
+- **Erstellt von:** [@vercel_dev](https://x.com/vercel_dev)
+- **Kanonische Quelle:** [Kanonische Quelle](https://x.com/vercel_dev/status/2062331926296641565)
+- **Veröffentlicht:** 4. Juni 2026
 - **Prompt-Sprache:** en
 
 **[Mit dieser Regie erstellen · ImagineVid](https://imaginevid.io/de/grok-imagine)**
@@ -486,7 +530,7 @@ Werbeclips, die ein Produkt, Angebot, Kleidungsstück, Gericht, Gerät oder eine
 
 <a id="prompt-12"></a>
 
-#### #3: Natürlicher Grüntee-Aufguss mit Produkt-Endcard
+#### #4: Natürlicher Grüntee-Aufguss mit Produkt-Endcard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -529,7 +573,7 @@ On-screen text sequence:
 
 ##### Nachweise
 
-- **Creator:** [Ur Meer](https://x.com/UrMeer289)
+- **Erstellt von:** [Ur Meer](https://x.com/UrMeer289)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/UrMeer289/status/2054167234290082149)
 - **Veröffentlicht:** 12. Mai 2026
 - **Prompt-Sprache:** en
@@ -546,7 +590,7 @@ Bildverankerte Workflows, die ein Standbild animieren und dabei Identität, Komp
 
 <a id="prompt-6"></a>
 
-#### #4: Fackelbeleuchteter Fantasy-Kuss mit Kontinuität eines praktischen Films
+#### #5: Fackelbeleuchteter Fantasy-Kuss mit Kontinuität eines praktischen Films
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -592,7 +636,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 ##### Nachweise
 
-- **Creator:** [Brent Lynch](https://x.com/BrentLynch)
+- **Erstellt von:** [Brent Lynch](https://x.com/BrentLynch)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/BrentLynch/status/2064437767963332901)
 - **Veröffentlicht:** 9. Juni 2026
 - **Prompt-Sprache:** en
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Hochgeschwindigkeitsflug des Drachen mit Feuer, Stoff und Audio-Physik
+#### #6: Hochgeschwindigkeitsflug des Drachen mit Feuer, Stoff und Audio-Physik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -661,7 +705,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 ##### Nachweise
 
-- **Creator:** [AYi](https://x.com/AYi_AInotes)
+- **Erstellt von:** [AYi](https://x.com/AYi_AInotes)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/AYi_AInotes/status/2067227900399562775)
 - **Veröffentlicht:** 17. Juni 2026
 - **Prompt-Sprache:** en
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Fixiertes redaktionelles Raster mit unabhängiger Mikrobewegung
+#### #7: Fixiertes redaktionelles Raster mit unabhängiger Mikrobewegung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -824,7 +868,7 @@ Ein strukturiertes Stabilitätsexperiment, das ein Acht-Panel-Layout und die Kam
 
 ##### Nachweise
 
-- **Creator:** [Özge Döner](https://x.com/astronomerozge1)
+- **Erstellt von:** [Özge Döner](https://x.com/astronomerozge1)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/astronomerozge1/status/2024901494290743510)
 - **Veröffentlicht:** 20. Februar 2026
 - **Prompt-Sprache:** en
@@ -835,7 +879,7 @@ Ein strukturiertes Stabilitätsexperiment, das ein Acht-Panel-Layout und die Kam
 
 <a id="prompt-15"></a>
 
-#### #7: Schlafender Riese am Times Square
+#### #8: Schlafender Riese am Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -869,7 +913,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ##### Nachweise
 
-- **Creator:** [Mr Das](https://x.com/MrDasOnX)
+- **Erstellt von:** [Mr Das](https://x.com/MrDasOnX)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/MrDasOnX/status/2077443101631926682)
 - **Veröffentlicht:** 15. Juli 2026
 - **Prompt-Sprache:** en
@@ -880,13 +924,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stilisierte Bewegung und visuelle Effekte (3)
+### Stilisierte Bewegung und visuelle Effekte (4)
 
 Effekt- und Animationsmuster, die von Transformationen, Simulation, surrealer Physik, grafischer Bewegung oder einer markanten medialen Gestaltung angetrieben werden.
 
 <a id="prompt-9"></a>
 
-#### #8: Drachenzärtlichkeit im Mondlicht in zurückhaltender Zeitlupe
+#### #9: Drachenzärtlichkeit im Mondlicht in zurückhaltender Zeitlupe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -919,7 +963,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 ##### Nachweise
 
-- **Creator:** [auqib](https://x.com/auqibhabib)
+- **Erstellt von:** [auqib](https://x.com/auqibhabib)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/auqibhabib/status/2053639419266322623)
 - **Veröffentlicht:** 11. Mai 2026
 - **Prompt-Sprache:** en
@@ -930,7 +974,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Durchgehende Kampfkunstbewegung mit schwerer Aufprallphysik
+#### #10: Durchgehende Kampfkunstbewegung mit schwerer Aufprallphysik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -963,7 +1007,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 ##### Nachweise
 
-- **Creator:** [⭕Kisalay](https://x.com/Kisalay_)
+- **Erstellt von:** [⭕Kisalay](https://x.com/Kisalay_)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/Kisalay_/status/2067298200520896673)
 - **Veröffentlicht:** 17. Juni 2026
 - **Prompt-Sprache:** en
@@ -974,7 +1018,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Wasserkugel mit umgekehrter Strömung
+#### #11: Wasserkugel mit umgekehrter Strömung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1007,9 +1051,53 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ##### Nachweise
 
-- **Creator:** [atmen](https://x.com/atmen189)
+- **Erstellt von:** [atmen](https://x.com/atmen189)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/atmen189/status/2077238726120669192)
 - **Veröffentlicht:** 15. Juli 2026
+- **Prompt-Sprache:** en
+
+**[Mit dieser Regie erstellen · ImagineVid](https://imaginevid.io/de/grok-imagine)**
+
+---
+
+<a id="prompt-16"></a>
+
+#### #12: Laternenbeleuchteter JRPG-Marktplatz
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Warum der Workflow wichtig ist
+
+Gameplay-Szene mit belebtem Markt, Third-Person-Kamera, lesbarer UI, Stoffphysik und atmosphärischen Effekten.
+
+##### Lokalisierter Prompt
+
+```
+Cineastisches Gameplay aus einem modernen JRPG: ein belebter Marktplatz mit NPCs und Händlern, warmes Laternenlicht, Third-Person-Kamera, volumetrische Lichtstrahlen, Partikel, detaillierte Figuren mit Stoffphysik, realistische Engine-Texturen, Tiefenschärfe und Bewegungsunschärfe. Anime-inspirierte Art Direction und erzählerische Umgebung. HP/MP-Balken und Minikarte bleiben sichtbar. Flüssige Kamerafahrt mit 60 fps, 4K-Präsentation.
+```
+
+<details>
+<summary>Originaler Quellprompt</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Laternenbeleuchteter JRPG-Marktplatz - Motion preview"></a>
+
+*Klicke auf die Vorschau, um das Video zu öffnen* · **[▶ Video ansehen →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Nachweise
+
+- **Erstellt von:** [@icreatelife](https://x.com/icreatelife)
+- **Kanonische Quelle:** [Kanonische Quelle](https://x.com/icreatelife/status/1987063774449430763)
+- **Veröffentlicht:** 8. November 2025
 - **Prompt-Sprache:** en
 
 **[Mit dieser Regie erstellen · ImagineVid](https://imaginevid.io/de/grok-imagine)**
@@ -1024,7 +1112,7 @@ Workflows mit bestehendem Video, die einen Teil der Szene restylen, verlängern,
 
 <a id="prompt-13"></a>
 
-#### #11: Radikales Cyberpunk-Restyling eines vorhandenen Clips
+#### #13: Radikales Cyberpunk-Restyling eines vorhandenen Clips
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1066,7 +1154,7 @@ Change the style to futuristic Cyberpunk
 
 ##### Nachweise
 
-- **Creator:** [Tyler Keehner](https://x.com/STFUnion)
+- **Erstellt von:** [Tyler Keehner](https://x.com/STFUnion)
 - **Kanonische Quelle:** [Kanonische Quelle](https://x.com/STFUnion/status/2018049167839400312)
 - **Veröffentlicht:** 1. Februar 2026
 - **Prompt-Sprache:** en
@@ -1102,10 +1190,10 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 ## Credits der Creator
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1125,6 +1213,6 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 **[Einen verifizierten Fall einreichen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Die Sammlung mit einem Stern markieren](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generiert aus versionierten lokalen Daten am 2026-07-21T13:44:27.049Z</sub>
+<sub>Generiert aus versionierten lokalen Daten am 2026-07-21T13:46:51.227Z</sub>
 
 </div>

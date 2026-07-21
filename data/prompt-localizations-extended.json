@@ -74,6 +74,16 @@
       "title": "Gigante adormecido em Times Square",
       "description": "Um plano surrealista orientado por referência transforma uma pessoa num gigante urbano adormecido, usando trânsito, marcas rodoviárias, ecrãs e uma vista oblíqua de drone como escala.",
       "content": "Plano de drone com perspetiva extrema, usando o rosto carregado como referência para mostrar o sujeito como um gigante adormecido, enroscado no centro de uma movimentada interseção de Times Square. O trânsito é desviado à volta do corpo e os táxis amarelos parecem carros de brincar. O sujeito veste calças de fato de treino cinzentas, largas e confortáveis, e uma sweatshirt com capuz. As marcas do asfalto e os detritos da rua fornecem referências de escala. A vibração elétrica dos painéis de Times Square à noite projeta luz multicolorida sobre a figura adormecida. A câmara fica por cima, mas ligeiramente inclinada para mostrar a altura dos edifícios. Resolução 8K, multidões e veículos fotorrealistas e uma justaposição surreal entre intimidade e caos público."
+    },
+    "16": {
+      "title": "Mercado de JRPG iluminado por lanternas",
+      "description": "Cena de jogo com mercado cheio, câmara na terceira pessoa, interface legível, física de tecidos e efeitos atmosféricos.",
+      "content": "Filmagem cinematográfica de um JRPG moderno: mercado movimentado com NPCs e vendedores, luz quente de lanternas, câmara na terceira pessoa, raios volumétricos, partículas, personagens detalhadas com física de tecidos, texturas realistas de motor de jogo, profundidade de campo e desfoque de movimento. Direção artística inspirada em anime e narrativa ambiental. Mantenha visíveis as barras de PV/PM e o minimapa. Movimento suave de câmara a 60 fps e apresentação 4K."
+    },
+    "17": {
+      "title": "Coelho a correr por Nova Iorque",
+      "description": "Exemplo oficial mínimo para testar movimento, continuidade urbana e áudio sincronizado a partir de uma frase.",
+      "content": "Um coelho corre a toda a velocidade por Nova Iorque. Acompanhe-o ao nível da rua com avanço enérgico, tráfego e peões coerentes, passadas realistas e perspetiva urbana contínua."
     }
   },
   "it": {
@@ -151,6 +161,16 @@
       "title": "Gigante addormentato a Times Square",
       "description": "Un’inquadratura surreale guidata da un riferimento trasforma una persona in un gigante urbano addormentato, usando traffico, segnaletica, schermi e una vista obliqua dal drone come riferimenti di scala.",
       "content": "Inquadratura da drone con prospettiva estrema che usa il volto caricato come riferimento e mostra il soggetto come un gigante addormentato, rannicchiato al centro di un incrocio affollato di Times Square. Il traffico viene deviato intorno al corpo e i taxi gialli sembrano macchinine giocattolo. Il soggetto indossa comodi pantaloni della tuta grigi oversize e una felpa con cappuccio. La segnaletica sull’asfalto e i piccoli detriti stradali offrono riferimenti di scala. La vibrante luce elettrica dei cartelloni notturni di Times Square proietta colori diversi sulla figura addormentata. La camera è dall’alto ma leggermente inclinata per mostrare l’altezza degli edifici. Risoluzione 8K, folla e veicoli fotorealistici, contrasto surreale tra intimità e caos pubblico."
+    },
+    "16": {
+      "title": "Mercato JRPG illuminato dalle lanterne",
+      "description": "Scena di gioco con mercato affollato, camera in terza persona, interfaccia leggibile, fisica dei tessuti ed effetti atmosferici.",
+      "content": "Filmato cinematografico di un moderno JRPG: mercato vivace con PNG e venditori, calde lanterne, camera in terza persona, raggi volumetrici, particelle, personaggi dettagliati con fisica dei tessuti, texture realistiche da motore di gioco, profondità di campo e motion blur. Direzione artistica ispirata agli anime e narrazione ambientale. Mantieni visibili barre HP/MP e minimappa. Movimento fluido della camera a 60 fps, presentazione 4K."
+    },
+    "17": {
+      "title": "Coniglio in corsa per New York",
+      "description": "Esempio ufficiale minimo per verificare movimento, continuità urbana e audio sincronizzato da una sola frase.",
+      "content": "Un coniglio corre a tutta velocità per New York. Seguilo a livello stradale con avanzamento energico, traffico e pedoni coerenti, passi realistici e prospettiva urbana continua."
     }
   },
   "ar": {
@@ -228,6 +248,16 @@
       "title": "عملاق نائم في تايمز سكوير",
       "description": "لقطة سريالية قائمة على صورة مرجعية تحوّل الشخص إلى عملاق نائم وسط المدينة، مع استخدام المرور وعلامات الطريق والشاشات وزاوية الطائرة المسيّرة المائلة لإظهار الحجم.",
       "content": "لقطة بطائرة مسيّرة ذات منظور شديد تستخدم الوجه المرفوع كمرجع، وتُظهر الشخص كعملاق نائم متكور في منتصف تقاطع مزدحم في تايمز سكوير. تتحول حركة المرور حول جسده الضخم، وتبدو سيارات الأجرة الصفراء كأنها ألعاب صغيرة. يرتدي بنطالًا رياضيًا رماديًا واسعًا ومريحًا وسترة بغطاء رأس. تمنح علامات الإسفلت ومخلفات الشارع إشارات واضحة للحجم. تلقي شاشات تايمز سكوير المتوهجة ليلًا أضواء متعددة الألوان على الشخصية النائمة. تكون الكاميرا من أعلى مع ميل خفيف لإظهار ارتفاع المباني. دقة 8K، تفاصيل واقعية للحشود والمركبات، وتجاور سريالي بين الحميمية وفوضى المكان العام."
+    },
+    "16": {
+      "title": "سوق JRPG مضاء بالفوانيس",
+      "description": "مشهد لعب يجمع سوقا مزدحما وكاميرا من منظور الشخص الثالث وواجهة مقروءة وفيزياء أقمشة ومؤثرات جوية.",
+      "content": "لقطات لعب سينمائية من لعبة JRPG حديثة: سوق صاخب مليء بالشخصيات والبائعين، إضاءة فوانيس دافئة، كاميرا من منظور الشخص الثالث، أشعة ضوئية حجمية وجسيمات وشخصيات مفصلة بفيزياء أقمشة وخامات واقعية وعمق ميدان وضبابية حركة. إخراج فني مستلهم من الأنمي وسرد بيئي. أبق أشرطة HP وMP والخريطة المصغرة ظاهرة، مع حركة كاميرا سلسة بمعدل 60 إطارا وعرض 4K."
+    },
+    "17": {
+      "title": "أرنب يركض عبر نيويورك",
+      "description": "مثال رسمي موجز لاختبار الحركة والاستمرارية الحضرية والصوت المتزامن من جملة واحدة.",
+      "content": "أرنب يركض بسرعة عبر مدينة نيويورك. تتبعه الكاميرا عند مستوى الشارع بحركة أمامية نشطة، مع مرور ومشاة متسقين وخطوات واقعية ومنظور حضري متصل."
     }
   },
   "nl": {
@@ -305,6 +335,16 @@
       "title": "Slapende reus op Times Square",
       "description": "Een referentiegestuurd surrealistisch schaalbeeld verandert een persoon in een slapende stadsreus en gebruikt verkeer, wegmarkeringen, billboards en een schuine dronehoek als maatstaf.",
       "content": "Een droneshot met extreem perspectief gebruikt het geüploade gezicht als referentie en toont de persoon als een slapende reus die midden op een druk kruispunt van Times Square ligt opgekruld. Het verkeer wordt om het enorme lichaam heen geleid en gele taxi’s lijken speelgoedauto’s. De persoon draagt een comfortabele oversized grijze joggingbroek en hoodie. Wegmarkeringen en straatvuil geven duidelijke schaalreferenties. De elektrische gloed van de billboards op Times Square werpt ’s nachts veelkleurig licht over de slapende figuur. De camera kijkt van boven, maar staat iets schuin zodat de hoogte van de gebouwen zichtbaar blijft. 8K, fotorealistische menigten en voertuigen en een surrealistisch contrast tussen intimiteit en openbare chaos."
+    },
+    "16": {
+      "title": "JRPG-markt bij lantaarnlicht",
+      "description": "Gameplay met een drukke markt, derdepersoonscamera, leesbare interface, stofsimulatie en atmosferische effecten.",
+      "content": "Cinematische gameplay uit een moderne JRPG: een levendige markt met NPC's en verkopers, warm lantaarnlicht, derdepersoonscamera, volumetrische lichtstralen, deeltjes, gedetailleerde personages met stofsimulatie, realistische engine-texturen, scherptediepte en bewegingsonscherpte. Anime-geïnspireerde artdirection en omgevingsverhaal. Houd HP/MP-balken en minimap zichtbaar. Vloeiende camerabeweging op 60 fps, 4K-presentatie."
+    },
+    "17": {
+      "title": "Konijn sprint door New York",
+      "description": "Minimaal officieel voorbeeld om beweging, stedelijke continuïteit en gesynchroniseerd geluid vanuit één zin te testen.",
+      "content": "Een konijn sprint door New York City. Volg het op straathoogte met energieke voorwaartse beweging, logisch verkeer en voetgangers, realistische voetstappen en een doorlopend stedelijk perspectief."
     }
   },
   "ru": {
@@ -382,6 +422,16 @@
       "title": "Спящий гигант на Таймс-сквер",
       "description": "Сюрреалистичный кадр по референсу превращает человека в спящего городского гиганта, а транспорт, разметка, экраны и наклонный ракурс дрона задают масштаб.",
       "content": "Дрон снимает с экстремальной перспективой: загруженное лицо используется как референс, а человек показан спящим гигантом, свернувшимся посреди оживлённого перекрёстка на Таймс-сквер. Поток машин огибает огромное тело, и жёлтые такси выглядят игрушечными. На герое удобные свободные серые спортивные брюки и худи. Разметка на асфальте и мелкий уличный мусор служат ориентирами масштаба. Ночные экраны Таймс-сквер отбрасывают на спящую фигуру яркий разноцветный свет. Камера находится сверху, но слегка наклонена, чтобы показать высоту зданий. Разрешение 8K, фотореалистичные толпы и автомобили, сюрреалистичное соседство интимности и общественного хаоса."
+    },
+    "16": {
+      "title": "Рынок JRPG в свете фонарей",
+      "description": "Игровая сцена с оживленным рынком, камерой от третьего лица, читаемым интерфейсом, физикой ткани и атмосферными эффектами.",
+      "content": "Кинематографический геймплей современной JRPG: оживленный рынок с NPC и торговцами, теплый свет фонарей, камера от третьего лица, объемные лучи, частицы, детализированные персонажи с физикой ткани, реалистичные игровые текстуры, глубина резкости и размытие движения. Аниме-стилистика и повествование через окружение. Полосы HP/MP и мини-карта остаются видимыми. Плавная камера 60 кадров/с, 4K."
+    },
+    "17": {
+      "title": "Кролик мчится по Нью-Йорку",
+      "description": "Минимальный официальный пример для проверки движения, городской непрерывности и синхронного звука по одной фразе.",
+      "content": "Кролик мчится по Нью-Йорку. Камера энергично следует за ним на уровне улицы, сохраняя логичное движение транспорта и пешеходов, реалистичный топот и непрерывную городскую перспективу."
     }
   },
   "tr": {
@@ -459,6 +509,16 @@
       "title": "Times Square’de uyuyan dev",
       "description": "Referansla yönlendirilen gerçeküstü ölçek çekimi, kişiyi şehirde uyuyan bir deve dönüştürür; trafik, yol çizgileri, ekranlar ve eğik drone açısı ölçeği belirler.",
       "content": "Yüklenen yüzü referans alan aşırı perspektifli drone çekimi; kişiyi Times Square’deki yoğun bir kavşağın ortasında kıvrılıp uyuyan bir dev olarak gösterir. Trafik dev bedenin çevresinden yönlendirilir ve sarı taksiler oyuncak arabalar kadar küçük görünür. Kişi bol, rahat gri eşofman altı ve kapüşonlu üst giyer. Asfalt işaretleri ve sokaktaki küçük parçalar ölçek ipuçları sağlar. Gece Times Square reklam panolarının elektrikli canlılığı, uyuyan figürün üzerine çok renkli ışık düşürür. Kamera yukarıdan bakar ancak binaların yüksekliğini göstermek için hafifçe eğimlidir. 8K çözünürlük, fotogerçekçi kalabalık ve araç ayrıntıları, mahremiyet ile kamusal kaosun gerçeküstü karşıtlığı."
+    },
+    "16": {
+      "title": "Fener ışıklı JRPG pazarı",
+      "description": "Kalabalık pazar, üçüncü şahıs kamera, okunaklı arayüz, kumaş fiziği ve atmosfer efektlerini birleştiren oyun sahnesi.",
+      "content": "Modern bir JRPG'den sinematik oynanış: NPC'ler ve satıcılarla dolu hareketli pazar, sıcak fener ışığı, üçüncü şahıs kamera, hacimsel ışınlar, parçacıklar, kumaş fiziğine sahip ayrıntılı karakterler, gerçekçi oyun motoru dokuları, alan derinliği ve hareket bulanıklığı. Anime esintili sanat yönetimi ve çevresel hikaye anlatımı. HP/MP çubukları ve mini harita görünür kalsın. 60 fps akıcı kamera, 4K sunum."
+    },
+    "17": {
+      "title": "New York'ta koşan tavşan",
+      "description": "Tek cümleden hareketi, kentsel sürekliliği ve senkron sesi sınayan kısa resmi örnek.",
+      "content": "Bir tavşan New York sokaklarında hızla koşuyor. Kamerayı sokak seviyesinde enerjik biçimde takip ettir; trafik ve yayalar tutarlı, ayak sesleri gerçekçi, şehir perspektifi kesintisiz olsun."
     }
   },
   "pl": {
@@ -536,6 +596,16 @@
       "title": "Śpiący olbrzym na Times Square",
       "description": "Surrealistyczne ujęcie oparte na referencji zmienia osobę w śpiącego miejskiego olbrzyma, a ruch uliczny, oznaczenia, ekrany i ukośny kadr z drona budują skalę.",
       "content": "Ujęcie z drona o skrajnej perspektywie wykorzystuje przesłaną twarz jako referencję i pokazuje osobę jako śpiącego olbrzyma zwiniętego pośrodku ruchliwego skrzyżowania na Times Square. Ruch uliczny omija ogromne ciało, a żółte taksówki wyglądają jak zabawkowe samochody. Bohater ma na sobie luźne, wygodne szare spodnie dresowe i bluzę z kapturem. Oznaczenia asfaltu i drobne śmieci na ulicy tworzą czytelne punkty odniesienia skali. Nocne ekrany Times Square rzucają na śpiącą postać wielobarwne światło. Kamera patrzy z góry, ale jest lekko pochylona, by pokazać wysokość budynków. Rozdzielczość 8K, fotorealistyczne tłumy i pojazdy oraz surrealistyczne zestawienie intymności z publicznym chaosem."
+    },
+    "16": {
+      "title": "Targ JRPG oświetlony lampionami",
+      "description": "Scena rozgrywki łącząca tłoczny targ, kamerę trzecioosobową, czytelny interfejs, fizykę tkanin i efekty atmosferyczne.",
+      "content": "Filmowa rozgrywka z nowoczesnego JRPG: tętniący życiem targ z NPC i sprzedawcami, ciepłe lampiony, kamera trzecioosobowa, promienie wolumetryczne, cząsteczki, szczegółowe postacie z fizyką tkanin, realistyczne tekstury silnika gry, głębia ostrości i rozmycie ruchu. Kierunek artystyczny inspirowany anime i narracja otoczeniem. Paski HP/MP i minimapa pozostają widoczne. Płynny ruch kamery 60 kl./s, prezentacja 4K."
+    },
+    "17": {
+      "title": "Królik pędzący przez Nowy Jork",
+      "description": "Minimalny oficjalny przykład do testowania ruchu, ciągłości miasta i zsynchronizowanego dźwięku na podstawie jednego zdania.",
+      "content": "Królik pędzi ulicami Nowego Jorku. Kamera śledzi go energicznie z poziomu ulicy, zachowując spójny ruch pojazdów i pieszych, realistyczne odgłosy łap oraz ciągłą perspektywę miejską."
     }
   }
 }

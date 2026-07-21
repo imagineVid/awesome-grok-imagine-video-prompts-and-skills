@@ -28,7 +28,7 @@ package.json - Node 24 and pnpm commands for validation, tests, and generation.
 - README output is generated for English plus every locale supported by ImagineVid. Video cases use a GitHub-safe clickable-preview pattern with an explicit localized playback link; public data and generated views must pass structural, localization, and duplicate checks before publication.
 
 ## Launch Boundary
-- `data/prompts.json` contains 15 Grok Imagine-specific community cases; `data/official-cases.json` remains empty until first-party cases have reusable prompt and media evidence.
+- `data/prompts.json` contains 17 Grok Imagine-specific community cases; `data/official-cases.json` remains empty until first-party cases have reusable prompt and media evidence.
 - The repository publishes 14 README surfaces: English plus Spanish, Portuguese, Italian, German, French, Arabic, Japanese, Korean, Simplified Chinese, Dutch, Russian, Turkish, and Polish.
 - The workflow taxonomy is video-native: camera direction, native audio, commercial motion, image-to-video continuity, stylized motion, and video editing.
 - Before committing, run `pnpm run generate`, `pnpm test`, and `pnpm run typecheck`.

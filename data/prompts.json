@@ -757,5 +757,111 @@
         }
       ]
     }
+  },
+  {
+    "id": 16,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Lantern-lit JRPG marketplace gameplay"
+    },
+    "description": {
+      "en": "A text-to-video gameplay shot combining a crowded anime-inspired market, third-person camera language, readable UI, cloth physics, and atmospheric effects."
+    },
+    "content": {
+      "en": "Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation."
+    },
+    "sourceLink": "https://x.com/icreatelife/status/1987063774449430763",
+    "sourcePublishedAt": "2025-11-08T07:44:56.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg"
+    },
+    "author": {
+      "name": "@icreatelife",
+      "link": "https://x.com/icreatelife"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 16,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "1987063774449430763",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 558,
+      "replyCount": 3212,
+      "likeCount": 3591,
+      "quoteCount": 43,
+      "viewCount": 1259156,
+      "bookmarkCount": 589,
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 65,
+          "title": "Stylized Motion & Visual Effects",
+          "slug": "stylized-motion-visual-effects"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Rabbit sprinting through New York"
+    },
+    "description": {
+      "en": "A minimal official API example useful for testing subject motion, urban continuity, and native synchronized audio from a single sentence."
+    },
+    "content": {
+      "en": "A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective."
+    },
+    "sourceLink": "https://x.com/vercel_dev/status/2062331926296641565",
+    "sourcePublishedAt": "2026-06-04T00:33:42.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg"
+    },
+    "author": {
+      "name": "@vercel_dev",
+      "link": "https://x.com/vercel_dev"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 17,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2062331926296641565",
+      "prompt_source": "tweet_text_prompt_editorially_expanded",
+      "retweetCount": 119,
+      "replyCount": 184,
+      "likeCount": 914,
+      "quoteCount": 49,
+      "viewCount": 5394292,
+      "bookmarkCount": 181,
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-19",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review."
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Dialogue, Performance & Native Audio",
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
   }
 ]

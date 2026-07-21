@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **15** |
+| 已核验案例 | **17** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年7月21日星期二 UTC 13:44:27** |
+| 生成时间 | **2026年7月21日星期二 UTC 13:46:51** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 对白、表演与原生音频 (3)
+### 对白、表演与原生音频 (4)
 
 以对白、表演、环境声、音乐或同步声音推动场景的表演型提示词。
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: 穿越纽约街头的疾跑兔子
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+用一句话测试主体运动、城市连续性和同步音效的官方极简示例。
+
+##### 本地化提示词
+
+```
+一只兔子在纽约市全速奔跑。镜头贴近街面快速跟拍，保持车辆和行人逻辑一致、脚步声真实、城市透视连续。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="穿越纽约街头的疾跑兔子 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### 证据
+
+- **创作者:** [@vercel_dev](https://x.com/vercel_dev)
+- **规范来源:** [规范来源](https://x.com/vercel_dev/status/2062331926296641565)
+- **发布时间:** 2026年6月4日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### 产品运动与商业广告 (2)
@@ -486,7 +530,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: 自然绿茶倾倒与产品片尾卡
+#### #4: 自然绿茶倾倒与产品片尾卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #4: 火炬照明的奇幻亲吻与实拍电影连续性
+#### #5: 火炬照明的奇幻亲吻与实拍电影连续性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: 高速飞龙飞行与火焰、布料及音频物理
+#### #6: 高速飞龙飞行与火焰、布料及音频物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: 锁定的编辑网格与独立微运动
+#### #7: 锁定的编辑网格与独立微运动
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -811,7 +855,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #7: 沉睡在时代广场的巨人
+#### #8: 沉睡在时代广场的巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -856,13 +900,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### 风格化运动与视觉特效 (3)
+### 风格化运动与视觉特效 (4)
 
 由变形、模拟、超现实物理、图形运动或独特媒介处理驱动的特效与动画模式。
 
 <a id="prompt-9"></a>
 
-#### #8: 月光下飞龙克制的依偎
+#### #9: 月光下飞龙克制的依偎
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -906,7 +950,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: 连续武术穿越与沉重冲击物理
+#### #10: 连续武术穿越与沉重冲击物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -950,7 +994,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: 逆流悬浮的水球
+#### #11: 逆流悬浮的水球
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -992,6 +1036,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: 灯笼照亮的 JRPG 市集
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+融合拥挤市集、第三人称镜头、可读界面、布料物理和氛围特效的游戏画面。
+
+##### 本地化提示词
+
+```
+现代 JRPG 的电影感实机画面：NPC 与摊贩熙攘的市集、温暖灯笼光、第三人称镜头、体积光、粒子效果、带布料物理的精细角色、真实游戏引擎材质、景深和运动模糊。采用动画风美术与环境叙事。HP/MP 条和小地图始终清晰可见。镜头以 60fps 平滑运动，4K 呈现。
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="灯笼照亮的 JRPG 市集 - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### 证据
+
+- **创作者:** [@icreatelife](https://x.com/icreatelife)
+- **规范来源:** [规范来源](https://x.com/icreatelife/status/1987063774449430763)
+- **发布时间:** 2025年11月8日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### 视频编辑、重塑风格与场景控制 (1)
@@ -1000,7 +1088,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #11: 现有片段的原子级赛博朋克重塑
+#### #13: 现有片段的原子级赛博朋克重塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1078,10 +1166,10 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (13)</summary>
+<summary>查看并感谢社区作者 (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1101,6 +1189,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-21T13:44:27.073Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-21T13:46:51.243Z</sub>
 
 </div>

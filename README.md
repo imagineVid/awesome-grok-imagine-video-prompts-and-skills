@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **15** |
+| Verified Cases | **17** |
 | Editorial pick | **4** |
-| Generated | **Tuesday, July 21, 2026 at 1:44:26 PM UTC** |
+| Generated | **Tuesday, July 21, 2026 at 1:46:51 PM UTC** |
 
 </div>
 
@@ -343,7 +343,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Dialogue, Performance & Native Audio (3)
+### Dialogue, Performance & Native Audio (4)
 
 Performance-led prompts where speech, acting, ambience, music, or synchronized sound carries the scene.
 
@@ -387,6 +387,41 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: Rabbit sprinting through New York
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A minimal official API example useful for testing subject motion, urban continuity, and native synchronized audio from a single sentence.
+
+##### Source prompt
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Rabbit sprinting through New York - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Evidence
+
+- **Creator:** [@vercel_dev](https://x.com/vercel_dev)
+- **Canonical source:** [Canonical source](https://x.com/vercel_dev/status/2062331926296641565)
+- **Published:** June 4, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Product Motion & Commercial Spots (2)
@@ -399,7 +434,7 @@ Commercial clips that keep a product, offer, garment, dish, device, or brand mom
 
 <a id="prompt-12"></a>
 
-#### #3: Natural green-tea pour with product end card
+#### #4: Natural green-tea pour with product end card
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -445,7 +480,7 @@ Image-anchored workflows that animate a still while preserving identity, composi
 
 <a id="prompt-6"></a>
 
-#### #4: Torchlit fantasy kiss with practical-film continuity
+#### #5: Torchlit fantasy kiss with practical-film continuity
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -487,7 +522,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: High-speed dragon flight with fire, cloth, and audio physics
+#### #6: High-speed dragon flight with fire, cloth, and audio physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -535,7 +570,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Locked editorial grid with independent micro-motion
+#### #7: Locked editorial grid with independent micro-motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -630,7 +665,7 @@ A structured stability experiment that freezes an eight-panel layout and camera 
 
 <a id="prompt-15"></a>
 
-#### #7: Sleeping giant in Times Square
+#### #8: Sleeping giant in Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -666,13 +701,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stylized Motion & Visual Effects (3)
+### Stylized Motion & Visual Effects (4)
 
 Effects and animation patterns driven by transformations, simulation, surreal physics, graphic motion, or a distinctive media treatment.
 
 <a id="prompt-9"></a>
 
-#### #8: Moonlit dragon nuzzle in restrained slow motion
+#### #9: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -707,7 +742,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Continuous martial-arts traversal with heavy impact physics
+#### #10: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -742,7 +777,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Reverse-flow water sphere
+#### #11: Reverse-flow water sphere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -775,6 +810,41 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: Lantern-lit JRPG marketplace gameplay
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Why the workflow matters
+
+A text-to-video gameplay shot combining a crowded anime-inspired market, third-person camera language, readable UI, cloth physics, and atmospheric effects.
+
+##### Source prompt
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Lantern-lit JRPG marketplace gameplay - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Evidence
+
+- **Creator:** [@icreatelife](https://x.com/icreatelife)
+- **Canonical source:** [Canonical source](https://x.com/icreatelife/status/1987063774449430763)
+- **Published:** November 8, 2025
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Video Editing, Restyling & Scene Control (1)
@@ -783,7 +853,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #11: Atomic cyberpunk restyle of an existing clip
+#### #13: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -852,10 +922,10 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -875,6 +945,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-21T13:44:27.026Z</sub>
+<sub>Generated from versioned local data on 2026-07-21T13:46:51.214Z</sub>
 
 </div>

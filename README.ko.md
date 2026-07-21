@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **15** |
+| 검증된 사례 | **17** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 21일 화요일 오후 1시 44분 27초 UTC** |
+| 생성 시각 | **2026년 7월 21일 화요일 PM 1시 46분 51초 UTC** |
 
 </div>
 
@@ -420,7 +420,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 대사, 연기 및 네이티브 오디오 (3)
+### 대사, 연기 및 네이티브 오디오 (4)
 
 대사, 연기, 분위기음, 음악 또는 동기화된 사운드가 장면을 이끄는 퍼포먼스 중심 프롬프트입니다.
 
@@ -473,6 +473,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: 뉴욕을 질주하는 토끼
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+한 문장으로 피사체 움직임, 도시 연속성, 동기화 오디오를 시험하는 최소 공식 예제입니다.
+
+##### 현지화 프롬프트
+
+```
+토끼 한 마리가 뉴욕시를 전력 질주한다. 거리 높이에서 역동적으로 추적하며 차량과 보행자의 일관성, 사실적인 발소리, 끊김 없는 도시 원근을 유지한다.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="뉴욕을 질주하는 토끼 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### 근거
+
+- **제작자:** [@vercel_dev](https://x.com/vercel_dev)
+- **정식 출처:** [정식 출처](https://x.com/vercel_dev/status/2062331926296641565)
+- **게시일:** 2026년 6월 4일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### 제품 모션 및 광고 스팟 (2)
@@ -485,7 +529,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: 자연스러운 녹차 따르기와 제품 엔드 카드
+#### #4: 자연스러운 녹차 따르기와 제품 엔드 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -545,7 +589,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #4: 실사 영화 연속성을 살린 횃불빛 판타지 키스
+#### #5: 실사 영화 연속성을 살린 횃불빛 판타지 키스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -602,7 +646,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
+#### #6: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -671,7 +715,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
+#### #7: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -834,7 +878,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #7: 타임스스퀘어에 잠든 거인
+#### #8: 타임스스퀘어에 잠든 거인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -879,13 +923,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### 스타일라이즈드 모션 및 시각 효과 (3)
+### 스타일라이즈드 모션 및 시각 효과 (4)
 
 변형, 시뮬레이션, 초현실적 물리, 그래픽 모션 또는 독특한 미디어 처리로 구동되는 효과 및 애니메이션 패턴입니다.
 
 <a id="prompt-9"></a>
 
-#### #8: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #9: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -929,7 +973,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #10: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -973,7 +1017,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: 역류해 떠오르는 물 구체
+#### #11: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1015,6 +1059,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: 등불이 빛나는 JRPG 시장
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+붐비는 시장, 3인칭 카메라, 읽기 쉬운 UI, 옷감 물리와 대기 효과를 결합한 게임플레이 장면입니다.
+
+##### 현지화 프롬프트
+
+```
+현대 JRPG의 시네마틱 게임플레이 영상. NPC와 상인으로 붐비는 시장, 따뜻한 등불, 3인칭 카메라, 볼류메트릭 광선과 파티클, 옷감 물리가 적용된 정교한 캐릭터, 사실적인 게임 엔진 텍스처, 피사계 심도와 모션 블러. 애니메이션풍 아트 디렉션과 환경 스토리텔링. HP/MP 바와 미니맵은 계속 보이게 유지합니다. 부드러운 60fps 카메라 움직임, 4K 화면.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="등불이 빛나는 JRPG 시장 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### 근거
+
+- **제작자:** [@icreatelife](https://x.com/icreatelife)
+- **정식 출처:** [정식 출처](https://x.com/icreatelife/status/1987063774449430763)
+- **게시일:** 2025년 11월 8일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### 비디오 편집, 스타일 변경 및 장면 제어 (1)
@@ -1023,7 +1111,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #11: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #13: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,10 +1189,10 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1124,6 +1212,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T13:44:27.068Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-21T13:46:51.240Z</sub>
 
 </div>

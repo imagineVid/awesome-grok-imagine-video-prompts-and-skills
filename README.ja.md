@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **15** |
+| 検証済みケース | **17** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月21日火曜日 13:44:27 UTC** |
+| 生成日時 | **2026年7月21日火曜日 13:46:51 UTC** |
 
 </div>
 
@@ -417,7 +417,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 台詞、演技、ネイティブ音声 (3)
+### 台詞、演技、ネイティブ音声 (4)
 
 台詞、演技、環境音、音楽、同期音がシーンを動かすパフォーマンス中心のプロンプト。
 
@@ -470,6 +470,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: ニューヨークを疾走するウサギ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+一文から被写体の動き、都市の連続性、同期音声を試す最小構成の公式例。
+
+##### ローカライズ済みプロンプト
+
+```
+ウサギがニューヨークの街を全力で走る。地面に近い高さから勢いよく追跡し、交通と歩行者の整合性、自然な足音、途切れない都市遠近を保つ。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="ニューヨークを疾走するウサギ - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [@vercel_dev](https://x.com/vercel_dev)
+- **正規の出典:** [正規の出典](https://x.com/vercel_dev/status/2062331926296641565)
+- **公開日:** 2026年6月4日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### プロダクトモーションとCMスポット (2)
@@ -482,7 +526,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: 自然な緑茶の注ぎと商品エンドカード
+#### #4: 自然な緑茶の注ぎと商品エンドカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -542,7 +586,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #4: 松明に照らされたファンタジーのキスと実写フィルムの連続性
+#### #5: 松明に照らされたファンタジーのキスと実写フィルムの連続性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -599,7 +643,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: 火、布、音声の物理を伴う高速ドラゴン飛行
+#### #6: 火、布、音声の物理を伴う高速ドラゴン飛行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -668,7 +712,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: 固定されたエディトリアルグリッドと独立した微細運動
+#### #7: 固定されたエディトリアルグリッドと独立した微細運動
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -807,7 +851,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #7: タイムズスクエアに眠る巨人
+#### #8: タイムズスクエアに眠る巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -852,13 +896,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### スタイライズドモーションと視覚効果 (3)
+### スタイライズドモーションと視覚効果 (4)
 
 変形、シミュレーション、シュールな物理、グラフィックモーション、独自のメディア処理によるエフェクトとアニメーションのパターン。
 
 <a id="prompt-9"></a>
 
-#### #8: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
+#### #9: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -902,7 +946,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: 重い衝撃物理を伴う連続武術トラバーサル
+#### #10: 重い衝撃物理を伴う連続武術トラバーサル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -946,7 +990,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: 逆流して浮かぶ水の球体
+#### #11: 逆流して浮かぶ水の球体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -988,6 +1032,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: ランタンに照らされたJRPG市場
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+にぎわう市場、三人称カメラ、読めるUI、布の物理表現、空気感のあるエフェクトを組み合わせたゲーム映像。
+
+##### ローカライズ済みプロンプト
+
+```
+現代的なJRPGのシネマティックなゲームプレイ映像。NPCと商人でにぎわう市場、暖かなランタン光、三人称カメラ、ボリュームライト、粒子表現、布の物理を備えた精密なキャラクター、リアルなゲームエンジン質感、被写界深度、モーションブラー。アニメ調の美術と環境による物語表現。HP/MPバーとミニマップは常に読める状態を保つ。60fpsの滑らかなカメラ、4K。
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="ランタンに照らされたJRPG市場 - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [@icreatelife](https://x.com/icreatelife)
+- **正規の出典:** [正規の出典](https://x.com/icreatelife/status/1987063774449430763)
+- **公開日:** 2025年11月8日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### 動画編集、リスタイル、シーン制御 (1)
@@ -996,7 +1084,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #11: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #13: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1074,10 +1162,10 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1097,6 +1185,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-21T13:44:27.063Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-21T13:46:51.237Z</sub>
 
 </div>

@@ -98,9 +98,9 @@ Zacznij od jednej akcji i jednego pomysłu na kamerę. Dodawaj timing, audio i o
 
 | Pole kolekcji | Bieżąca wartość |
 |--------|-------|
-| Zweryfikowane przykłady | **15** |
+| Zweryfikowane przykłady | **17** |
 | Wybór redakcji | **4** |
-| Wygenerowano | **wtorek, 21 lipca 2026 13:44:27 UTC** |
+| Wygenerowano | **wtorek, 21 lipca 2026 13:46:51 UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Dialog, występ i natywne audio (3)
+### Dialog, występ i natywne audio (4)
 
 Prompty oparte na występie, w których mowę, aktorstwo, atmosferę, muzykę lub zsynchronizowany dźwięk niesie scena.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: Królik pędzący przez Nowy Jork
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Minimalny oficjalny przykład do testowania ruchu, ciągłości miasta i zsynchronizowanego dźwięku na podstawie jednego zdania.
+
+##### Prompt zlokalizowany
+
+```
+Królik pędzi ulicami Nowego Jorku. Kamera śledzi go energicznie z poziomu ulicy, zachowując spójny ruch pojazdów i pieszych, realistyczne odgłosy łap oraz ciągłą perspektywę miejską.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Królik pędzący przez Nowy Jork - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [@vercel_dev](https://x.com/vercel_dev)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/vercel_dev/status/2062331926296641565)
+- **Opublikowano:** 4 czerwca 2026
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/pl/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Ruch produktu i spoty reklamowe (2)
@@ -486,7 +530,7 @@ Klipy komercyjne, które stawiają produkt, ofertę, ubranie, danie, urządzenie
 
 <a id="prompt-12"></a>
 
-#### #3: Naturalne nalewanie zielonej herbaty z końcową kartą produktu
+#### #4: Naturalne nalewanie zielonej herbaty z końcową kartą produktu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ Workflowy zakotwiczone w obrazie, które animują still, zachowując tożsamoś�
 
 <a id="prompt-6"></a>
 
-#### #4: Pocałunek przy świetle pochodni z ciągłością filmu praktycznego
+#### #5: Pocałunek przy świetle pochodni z ciągłością filmu praktycznego
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Szybki lot smoka z ogniem, tkaniną i fizyką audio
+#### #6: Szybki lot smoka z ogniem, tkaniną i fizyką audio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Zablokowana siatka redakcyjna z niezależnym mikroruchem
+#### #7: Zablokowana siatka redakcyjna z niezależnym mikroruchem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -794,7 +838,7 @@ Ustrukturyzowany test stabilności, który zamraża układ ośmiu paneli i kamer
 
 <a id="prompt-15"></a>
 
-#### #7: Śpiący olbrzym na Times Square
+#### #8: Śpiący olbrzym na Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -839,13 +883,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stylizowany ruch i efekty wizualne (3)
+### Stylizowany ruch i efekty wizualne (4)
 
 Wzorce efektów i animacji napędzane transformacjami, symulacją, surrealistyczną fizyką, ruchem graficznym lub charakterystyczną obróbką medium.
 
 <a id="prompt-9"></a>
 
-#### #8: Smok dotykający pyskiem w blasku księżyca w powściągliwym slow motion
+#### #9: Smok dotykający pyskiem w blasku księżyca w powściągliwym slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -889,7 +933,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Ciągłe przejście sztuk walki z ciężką fizyką uderzeń
+#### #10: Ciągłe przejście sztuk walki z ciężką fizyką uderzeń
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -933,7 +977,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Kula wody płynącej wstecz
+#### #11: Kula wody płynącej wstecz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -975,6 +1019,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: Targ JRPG oświetlony lampionami
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Dlaczego ten workflow ma znaczenie
+
+Scena rozgrywki łącząca tłoczny targ, kamerę trzecioosobową, czytelny interfejs, fizykę tkanin i efekty atmosferyczne.
+
+##### Prompt zlokalizowany
+
+```
+Filmowa rozgrywka z nowoczesnego JRPG: tętniący życiem targ z NPC i sprzedawcami, ciepłe lampiony, kamera trzecioosobowa, promienie wolumetryczne, cząsteczki, szczegółowe postacie z fizyką tkanin, realistyczne tekstury silnika gry, głębia ostrości i rozmycie ruchu. Kierunek artystyczny inspirowany anime i narracja otoczeniem. Paski HP/MP i minimapa pozostają widoczne. Płynny ruch kamery 60 kl./s, prezentacja 4K.
+```
+
+<details>
+<summary>Oryginalny prompt źródłowy</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Wideo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Targ JRPG oświetlony lampionami - Motion preview"></a>
+
+*Kliknij podgląd, aby otworzyć wideo* · **[▶ Obejrzyj wideo →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Dowody
+
+- **Twórca:** [@icreatelife](https://x.com/icreatelife)
+- **Źródło kanoniczne:** [Źródło kanoniczne](https://x.com/icreatelife/status/1987063774449430763)
+- **Opublikowano:** 8 listopada 2025
+- **Język promptu:** en
+
+**[Utwórz z tym kierunkiem · ImagineVid](https://imaginevid.io/pl/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Edycja wideo, restyling i kontrola sceny (1)
@@ -983,7 +1071,7 @@ Workflowy istniejącego wideo, które restylizują, wydłużają, dodają, usuwa
 
 <a id="prompt-13"></a>
 
-#### #11: Atomowy cyberpunkowy restyling istniejącego klipu
+#### #13: Atomowy cyberpunkowy restyling istniejącego klipu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1061,10 +1149,10 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 ## Kredyty twórców
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1084,6 +1172,6 @@ Tekst redakcyjny i kod ImagineVid są objęte licencją [CC BY 4.0](https://crea
 **[Prześlij zweryfikowany przykład](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dodaj gwiazdkę kolekcji](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T13:44:27.092Z</sub>
+<sub>Wygenerowano z wersjonowanych danych lokalnych dnia 2026-07-21T13:46:51.255Z</sub>
 
 </div>

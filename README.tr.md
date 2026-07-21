@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **15** |
+| Doğrulanmış örnekler | **17** |
 | Editör seçimi | **4** |
-| Oluşturulma | **21 Temmuz 2026 Salı 13:44:27 UTC** |
+| Oluşturulma | **21 Temmuz 2026 Salı 13:46:51 UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Diyalog, performans ve yerel ses (3)
+### Diyalog, performans ve yerel ses (4)
 
 Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı performans odaklı promptlar.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: New York'ta koşan tavşan
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Tek cümleden hareketi, kentsel sürekliliği ve senkron sesi sınayan kısa resmi örnek.
+
+##### Yerelleştirilmiş prompt
+
+```
+Bir tavşan New York sokaklarında hızla koşuyor. Kamerayı sokak seviyesinde enerjik biçimde takip ettir; trafik ve yayalar tutarlı, ayak sesleri gerçekçi, şehir perspektifi kesintisiz olsun.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="New York'ta koşan tavşan - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [@vercel_dev](https://x.com/vercel_dev)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/vercel_dev/status/2062331926296641565)
+- **Yayımlandı:** 4 Haziran 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Ürün hareketi ve reklam spotları (2)
@@ -486,7 +530,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: Ürün son kartıyla doğal yeşil çay dökümü
+#### #4: Ürün son kartıyla doğal yeşil çay dökümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini 
 
 <a id="prompt-6"></a>
 
-#### #4: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
+#### #5: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
+#### #6: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Bağımsız mikro hareketli sabit editoryal grid
+#### #7: Bağımsız mikro hareketli sabit editoryal grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -794,7 +838,7 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 <a id="prompt-15"></a>
 
-#### #7: Times Square’de uyuyan dev
+#### #8: Times Square’de uyuyan dev
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -839,13 +883,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Stilize hareket ve görsel efektler (3)
+### Stilize hareket ve görsel efektler (4)
 
 Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya işlemiyle yönlendirilen efekt ve animasyon kalıpları.
 
 <a id="prompt-9"></a>
 
-#### #8: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #9: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -889,7 +933,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #10: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -933,7 +977,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Ters akışlı su küresi
+#### #11: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -975,6 +1019,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: Fener ışıklı JRPG pazarı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+Kalabalık pazar, üçüncü şahıs kamera, okunaklı arayüz, kumaş fiziği ve atmosfer efektlerini birleştiren oyun sahnesi.
+
+##### Yerelleştirilmiş prompt
+
+```
+Modern bir JRPG'den sinematik oynanış: NPC'ler ve satıcılarla dolu hareketli pazar, sıcak fener ışığı, üçüncü şahıs kamera, hacimsel ışınlar, parçacıklar, kumaş fiziğine sahip ayrıntılı karakterler, gerçekçi oyun motoru dokuları, alan derinliği ve hareket bulanıklığı. Anime esintili sanat yönetimi ve çevresel hikaye anlatımı. HP/MP çubukları ve mini harita görünür kalsın. 60 fps akıcı kamera, 4K sunum.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Fener ışıklı JRPG pazarı - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [@icreatelife](https://x.com/icreatelife)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/icreatelife/status/1987063774449430763)
+- **Yayımlandı:** 8 Kasım 2025
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Video düzenleme, yeniden stillendirme ve sahne kontrolü (1)
@@ -983,7 +1071,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #11: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #13: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1061,10 +1149,10 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1084,6 +1172,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T13:44:27.088Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-21T13:46:51.252Z</sub>
 
 </div>

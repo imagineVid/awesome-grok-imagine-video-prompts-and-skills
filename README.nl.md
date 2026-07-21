@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **15** |
+| Geverifieerde voorbeelden | **17** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **dinsdag 21 juli 2026 om 13:44:27 UTC** |
+| Gegenereerd | **dinsdag 21 juli 2026 om 13:46:51 UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Dialoog, performance en native audio (3)
+### Dialoog, performance en native audio (4)
 
 Performancegerichte prompts waarin spraak, acteren, ambiance, muziek of gesynchroniseerd geluid de scène dragen.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: Konijn sprint door New York
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Minimaal officieel voorbeeld om beweging, stedelijke continuïteit en gesynchroniseerd geluid vanuit één zin te testen.
+
+##### Gelokaliseerde prompt
+
+```
+Een konijn sprint door New York City. Volg het op straathoogte met energieke voorwaartse beweging, logisch verkeer en voetgangers, realistische voetstappen en een doorlopend stedelijk perspectief.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Konijn sprint door New York - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [@vercel_dev](https://x.com/vercel_dev)
+- **Canonieke bron:** [Canonieke bron](https://x.com/vercel_dev/status/2062331926296641565)
+- **Gepubliceerd:** 4 juni 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Productbeweging en reclamespots (2)
@@ -486,7 +530,7 @@ Commerciële clips waarin een product, aanbod, kledingstuk, gerecht, apparaat of
 
 <a id="prompt-12"></a>
 
-#### #3: Natuurlijke groene-theepour met product-eindkaart
+#### #4: Natuurlijke groene-theepour met product-eindkaart
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ Op een afbeelding gebaseerde workflows die een stilstaand beeld animeren en iden
 
 <a id="prompt-6"></a>
 
-#### #4: Kus bij fakkellicht met continuïteit van praktische film
+#### #5: Kus bij fakkellicht met continuïteit van praktische film
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Supersnelle drakenvlucht met vuur, stof en audiofysica
+#### #6: Supersnelle drakenvlucht met vuur, stof en audiofysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Vastgezette redactionele grid met onafhankelijke microbeweging
+#### #7: Vastgezette redactionele grid met onafhankelijke microbeweging
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -835,7 +879,7 @@ Een gestructureerd stabiliteitsexperiment dat een layout met acht panelen en de 
 
 <a id="prompt-15"></a>
 
-#### #7: Slapende reus op Times Square
+#### #8: Slapende reus op Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -880,13 +924,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Gestileerde beweging en visuele effecten (3)
+### Gestileerde beweging en visuele effecten (4)
 
 Effect- en animatiepatronen rond transformaties, simulatie, surrealistische fysica, grafische beweging of een onderscheidende mediabewerking.
 
 <a id="prompt-9"></a>
 
-#### #8: Drakenneusje bij maanlicht in beheerste slow motion
+#### #9: Drakenneusje bij maanlicht in beheerste slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -930,7 +974,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Doorlopende krijgskunstdoorgang met zware impactfysica
+#### #10: Doorlopende krijgskunstdoorgang met zware impactfysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -974,7 +1018,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Waterbol met omgekeerde stroming
+#### #11: Waterbol met omgekeerde stroming
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1016,6 +1060,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: JRPG-markt bij lantaarnlicht
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Gameplay met een drukke markt, derdepersoonscamera, leesbare interface, stofsimulatie en atmosferische effecten.
+
+##### Gelokaliseerde prompt
+
+```
+Cinematische gameplay uit een moderne JRPG: een levendige markt met NPC's en verkopers, warm lantaarnlicht, derdepersoonscamera, volumetrische lichtstralen, deeltjes, gedetailleerde personages met stofsimulatie, realistische engine-texturen, scherptediepte en bewegingsonscherpte. Anime-geïnspireerde artdirection en omgevingsverhaal. Houd HP/MP-balken en minimap zichtbaar. Vloeiende camerabeweging op 60 fps, 4K-presentatie.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="JRPG-markt bij lantaarnlicht - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [@icreatelife](https://x.com/icreatelife)
+- **Canonieke bron:** [Canonieke bron](https://x.com/icreatelife/status/1987063774449430763)
+- **Gepubliceerd:** 8 november 2025
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Videobewerking, restyling en scènecontrole (1)
@@ -1024,7 +1112,7 @@ Workflows voor bestaand videomateriaal die een scène restylen, verlengen, eleme
 
 <a id="prompt-13"></a>
 
-#### #11: Atomische cyberpunk-restyling van een bestaande clip
+#### #13: Atomische cyberpunk-restyling van een bestaande clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,10 +1190,10 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1125,6 +1213,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T13:44:27.080Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-21T13:46:51.246Z</sub>
 
 </div>

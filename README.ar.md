@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **15** |
+| أمثلة موثّقة | **17** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 1:44:27 م UTC** |
+| تاريخ التوليد | **الثلاثاء، 21 يوليو 2026 في 1:46:51 م UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### الحوار والأداء والصوت الأصلي (3)
+### الحوار والأداء والصوت الأصلي (4)
 
 مطالبات يقود فيها الكلام أو التمثيل أو الأجواء أو الموسيقى أو الصوت المتزامن المشهد.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: أرنب يركض عبر نيويورك
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+مثال رسمي موجز لاختبار الحركة والاستمرارية الحضرية والصوت المتزامن من جملة واحدة.
+
+##### المطالبة المترجمة
+
+```
+أرنب يركض بسرعة عبر مدينة نيويورك. تتبعه الكاميرا عند مستوى الشارع بحركة أمامية نشطة، مع مرور ومشاة متسقين وخطوات واقعية ومنظور حضري متصل.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="أرنب يركض عبر نيويورك - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [@vercel_dev](https://x.com/vercel_dev)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/vercel_dev/status/2062331926296641565)
+- **تاريخ النشر:** 4 يونيو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### حركة المنتج والإعلانات التجارية (2)
@@ -486,7 +530,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-12"></a>
 
-#### #3: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
+#### #4: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #4: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
+#### #5: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
+#### #6: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
+#### #7: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -827,7 +871,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #7: عملاق نائم في تايمز سكوير
+#### #8: عملاق نائم في تايمز سكوير
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -872,13 +916,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### الحركة المنمّقة والمؤثرات البصرية (3)
+### الحركة المنمّقة والمؤثرات البصرية (4)
 
 أنماط مؤثرات ورسوم متحركة تقودها التحولات أو المحاكاة أو الفيزياء السريالية أو الحركة الرسومية أو المعالجة الإعلامية المميزة.
 
 <a id="prompt-9"></a>
 
-#### #8: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
+#### #9: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -922,7 +966,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
+#### #10: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -966,7 +1010,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: كرة ماء بتدفق عكسي
+#### #11: كرة ماء بتدفق عكسي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1008,6 +1052,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: سوق JRPG مضاء بالفوانيس
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+مشهد لعب يجمع سوقا مزدحما وكاميرا من منظور الشخص الثالث وواجهة مقروءة وفيزياء أقمشة ومؤثرات جوية.
+
+##### المطالبة المترجمة
+
+```
+لقطات لعب سينمائية من لعبة JRPG حديثة: سوق صاخب مليء بالشخصيات والبائعين، إضاءة فوانيس دافئة، كاميرا من منظور الشخص الثالث، أشعة ضوئية حجمية وجسيمات وشخصيات مفصلة بفيزياء أقمشة وخامات واقعية وعمق ميدان وضبابية حركة. إخراج فني مستلهم من الأنمي وسرد بيئي. أبق أشرطة HP وMP والخريطة المصغرة ظاهرة، مع حركة كاميرا سلسة بمعدل 60 إطارا وعرض 4K.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="سوق JRPG مضاء بالفوانيس - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [@icreatelife](https://x.com/icreatelife)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/icreatelife/status/1987063774449430763)
+- **تاريخ النشر:** 8 نوفمبر 2025
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### تحرير الفيديو وإعادة تصميم الأسلوب والتحكم بالمشهد (1)
@@ -1016,7 +1104,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-13"></a>
 
-#### #11: إعادة تصميم سيبرانية ذرية لمقطع موجود
+#### #13: إعادة تصميم سيبرانية ذرية لمقطع موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1094,10 +1182,10 @@ Change the style to futuristic Cyberpunk
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1117,6 +1205,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T13:44:27.059Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-21T13:46:51.234Z</sub>
 
 </div>

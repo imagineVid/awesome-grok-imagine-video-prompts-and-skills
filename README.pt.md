@@ -98,9 +98,9 @@ Comece com uma ação e uma ideia de câmara. Acrescente timing, áudio e restri
 
 | Campo da coleção | Valor atual |
 |--------|-------|
-| Casos verificados | **15** |
+| Casos verificados | **17** |
 | Seleção editorial | **4** |
-| Gerado | **terça-feira, 21 de julho de 2026 às 13:44:27 UTC** |
+| Gerado | **terça-feira, 21 de julho de 2026 às 13:46:51 UTC** |
 
 </div>
 
@@ -421,7 +421,7 @@ Create a 15 second cinematic video in 16:9. From the POV of a tiny 3 inch camera
 
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Diálogo, interpretação e áudio nativo (3)
+### Diálogo, interpretação e áudio nativo (4)
 
 Prompts em que a fala, a interpretação, o ambiente sonoro, a música ou o som sincronizado conduzem a cena.
 
@@ -474,6 +474,50 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 ---
 
+<a id="prompt-17"></a>
+
+#### #3: Coelho a correr por Nova Iorque
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Porque é que o fluxo é importante
+
+Exemplo oficial mínimo para testar movimento, continuidade urbana e áudio sincronizado a partir de uma frase.
+
+##### Prompt localizado
+
+```
+Um coelho corre a toda a velocidade por Nova Iorque. Acompanhe-o ao nível da rua com avanço enérgico, tráfego e peões coerentes, passadas realistas e perspetiva urbana contínua.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+A rabbit sprinting through New York City. Track it at street level with energetic forward motion, coherent traffic and pedestrian ambience, realistic footfalls, and continuous urban perspective.
+```
+
+</details>
+
+##### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14"><img src="https://pbs.twimg.com/amplify_video_thumb/2062331873305759744/img/xIyH77VNCyxnAPUR.jpg" height="420" alt="Coelho a correr por Nova Iorque - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/2062331873305759744/vid/avc1/1280x720/xqRipmxEF1bG32eX.mp4?tag=14)**
+</div>
+
+##### Evidência
+
+- **Criador:** [@vercel_dev](https://x.com/vercel_dev)
+- **Fonte canónica:** [Fonte canónica](https://x.com/vercel_dev/status/2062331926296641565)
+- **Publicado:** 4 de junho de 2026
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Movimento de produto e anúncios comerciais (2)
@@ -486,7 +530,7 @@ Clips comerciais que mantêm um produto, uma oferta, uma peça de vestuário, um
 
 <a id="prompt-12"></a>
 
-#### #3: Servir natural de chá verde com cartão final do produto
+#### #4: Servir natural de chá verde com cartão final do produto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -546,7 +590,7 @@ Fluxos ancorados numa imagem que animam uma imagem fixa preservando a identidade
 
 <a id="prompt-6"></a>
 
-#### #4: Beijo fantástico à luz de tochas com continuidade de filme prático
+#### #5: Beijo fantástico à luz de tochas com continuidade de filme prático
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -603,7 +647,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #5: Voo de dragão a alta velocidade com fogo, tecido e física sonora
+#### #6: Voo de dragão a alta velocidade com fogo, tecido e física sonora
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -672,7 +716,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #6: Grelha editorial fixa com micromovimento independente
+#### #7: Grelha editorial fixa com micromovimento independente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -835,7 +879,7 @@ Uma experiência estruturada de estabilidade que congela uma composição de oit
 
 <a id="prompt-15"></a>
 
-#### #7: Gigante adormecido em Times Square
+#### #8: Gigante adormecido em Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -880,13 +924,13 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="workflow-stylized-motion-visual-effects"></a>
 
-### Movimento estilizado e efeitos visuais (3)
+### Movimento estilizado e efeitos visuais (4)
 
 Padrões de efeitos e animação conduzidos por transformações, simulação, física surrealista, movimento gráfico ou um tratamento visual distinto.
 
 <a id="prompt-9"></a>
 
-#### #8: Carícia de dragões ao luar em câmara lenta contida
+#### #9: Carícia de dragões ao luar em câmara lenta contida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -930,7 +974,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #9: Travessia contínua de artes marciais com física de impactos pesados
+#### #10: Travessia contínua de artes marciais com física de impactos pesados
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -974,7 +1018,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #10: Esfera de água em fluxo inverso
+#### #11: Esfera de água em fluxo inverso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1016,6 +1060,50 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 ---
 
+<a id="prompt-16"></a>
+
+#### #12: Mercado de JRPG iluminado por lanternas
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Porque é que o fluxo é importante
+
+Cena de jogo com mercado cheio, câmara na terceira pessoa, interface legível, física de tecidos e efeitos atmosféricos.
+
+##### Prompt localizado
+
+```
+Filmagem cinematográfica de um JRPG moderno: mercado movimentado com NPCs e vendedores, luz quente de lanternas, câmara na terceira pessoa, raios volumétricos, partículas, personagens detalhadas com física de tecidos, texturas realistas de motor de jogo, profundidade de campo e desfoque de movimento. Direção artística inspirada em anime e narrativa ambiental. Mantenha visíveis as barras de PV/PM e o minimapa. Movimento suave de câmara a 60 fps e apresentação 4K.
+```
+
+<details>
+<summary>Prompt original da fonte</summary>
+
+```
+Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace filled with NPCs and vendors, warm lantern lighting, third-person camera angle, dynamic volumetric god rays, particle effects, detailed character models with cloth physics, photorealistic game-engine textures, depth of field, and motion blur. Anime-inspired art direction with atmospheric environmental storytelling. Keep UI elements visible, including HP/MP bars and a minimap. Smooth 60 fps camera movement, 4K presentation.
+```
+
+</details>
+
+##### Vídeo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23"><img src="https://pbs.twimg.com/amplify_video_thumb/1987063720108040194/img/VuuPeYmBCr09uM7y.jpg" height="420" alt="Mercado de JRPG iluminado por lanternas - Motion preview"></a>
+
+*Clique na prévia para abrir o vídeo* · **[▶ Ver vídeo →](https://video.twimg.com/amplify_video/1987063720108040194/vid/avc1/464x688/pa6Bp_3lB7jCXuMF.mp4?tag=23)**
+</div>
+
+##### Evidência
+
+- **Criador:** [@icreatelife](https://x.com/icreatelife)
+- **Fonte canónica:** [Fonte canónica](https://x.com/icreatelife/status/1987063774449430763)
+- **Publicado:** 8 de novembro de 2025
+- **Idioma do prompt:** en
+
+**[Criar com esta direção · ImagineVid](https://imaginevid.io/pt/grok-imagine)**
+
+---
+
 <a id="workflow-video-editing-restyling-scene-control"></a>
 
 ### Edição de vídeo, restyling e controlo de cena (1)
@@ -1024,7 +1112,7 @@ Fluxos para vídeo existente que mudam o estilo, prolongam, adicionam, removem, 
 
 <a id="prompt-13"></a>
 
-#### #11: Restyling cyberpunk elementar de um clip existente
+#### #13: Restyling cyberpunk elementar de um clip existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1102,10 +1190,10 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 ## Créditos dos criadores
 
 <details>
-<summary>Community creators we thank (13)</summary>
+<summary>Community creators we thank (15)</summary>
 
-[⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio)<br>
-[Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1125,6 +1213,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-07-21T13:44:27.039Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-07-21T13:46:51.222Z</sub>
 
 </div>
