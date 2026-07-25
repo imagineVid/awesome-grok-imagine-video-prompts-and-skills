@@ -100,7 +100,7 @@
 |--------|-------|
 | 検証済みケース | **18** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月24日金曜日 21:00:16 UTC** |
+| 生成日時 | **2026年7月25日土曜日 2:28:09 UTC** |
 
 </div>
 
@@ -1229,6 +1229,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-24T21:00:16.941Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-25T02:28:09.670Z</sub>
 
 </div>
