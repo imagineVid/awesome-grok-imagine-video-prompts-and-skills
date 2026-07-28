@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **18** |
+| 検証済みケース | **21** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年7月28日火曜日 14:02:00 UTC** |
+| 生成日時 | **2026年7月28日火曜日 10:56:32 UTC** |
 
 </div>
 
@@ -363,7 +363,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### カメラ演出とショット設計 (3)
+### カメラ演出とショット設計 (4)
 
 フレーミング、カメラパス、ブロッキング、テンポ、見せ場、トランジションを軸にしたショットブリーフ。
 
@@ -459,9 +459,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: 新規ケース: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。
+
+##### ローカライズ済みプロンプト
+
+```
+ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="新規ケース: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Kim Maria](https://x.com/KimMaria8ry)
+- **正規の出典:** [正規の出典](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **公開日:** 2026年7月27日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 台詞、演技、ネイティブ音声 (4)
+### 台詞、演技、ネイティブ音声 (6)
 
 台詞、演技、環境音、音楽、同期音がシーンを動かすパフォーマンス中心のプロンプト。
 
@@ -472,7 +518,7 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 <a id="prompt-4"></a>
 
-#### #3: 間と微表情で進む微妙な口論
+#### #4: 間と微表情で進む微妙な口論
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -516,7 +562,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: ニューヨークを疾走するウサギ
+#### #5: ニューヨークを疾走するウサギ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -558,6 +604,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: 新規ケース: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+X の公開ソースに基づく再利用可能なプロンプト例。構図、制約、制作意図を明確に保ちます。
+
+##### ローカライズ済みプロンプト
+
+```
+ローカライズ版: 以下の英語ソースプロンプトのカメラ、タイミング、主体の一貫性、制約を維持し、表示文字や台詞だけをこの言語に置き換えてください。
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="新規ケース: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **正規の出典:** [正規の出典](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **公開日:** 2026年7月27日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### このワークフローが重要な理由
+
+X から選別したプロンプト事例で、明確な視覚目標、制御しやすい構図、公開メディア証拠、追跡可能な出典を保ちます。
+
+##### ローカライズ済みプロンプト
+
+```
+ローカライズ版：次の英語ソースプロンプトのカメラ、構図、被写体の一貫性、制約を保ち、表示文字や台詞だけをこの言語に置き換えてください。
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Kisalay](https://x.com/Kisalay_)
+- **正規の出典:** [正規の出典](https://x.com/Kisalay_/status/2067323749532316148)
+- **公開日:** 2026年6月17日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### プロダクトモーションとCMスポット (2)
@@ -570,7 +708,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: 自然な緑茶の注ぎと商品エンドカード
+#### #8: 自然な緑茶の注ぎと商品エンドカード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -630,7 +768,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #6: 松明に照らされたファンタジーのキスと実写フィルムの連続性
+#### #9: 松明に照らされたファンタジーのキスと実写フィルムの連続性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -687,7 +825,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: 火、布、音声の物理を伴う高速ドラゴン飛行
+#### #10: 火、布、音声の物理を伴う高速ドラゴン飛行
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -756,7 +894,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: 固定されたエディトリアルグリッドと独立した微細運動
+#### #11: 固定されたエディトリアルグリッドと独立した微細運動
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -895,7 +1033,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #9: タイムズスクエアに眠る巨人
+#### #12: タイムズスクエアに眠る巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -946,7 +1084,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #10: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
+#### #13: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -990,7 +1128,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: 重い衝撃物理を伴う連続武術トラバーサル
+#### #14: 重い衝撃物理を伴う連続武術トラバーサル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1034,7 +1172,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: 逆流して浮かぶ水の球体
+#### #15: 逆流して浮かぶ水の球体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1078,7 +1216,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: ランタンに照らされたJRPG市場
+#### #16: ランタンに照らされたJRPG市場
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1128,7 +1266,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #14: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #17: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1206,10 +1344,11 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1229,6 +1368,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-07-28T14:02:00.920Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-07-28T10:56:32.141Z</sub>
 
 </div>

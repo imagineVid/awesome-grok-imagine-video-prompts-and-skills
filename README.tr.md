@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **18** |
+| Doğrulanmış örnekler | **21** |
 | Editör seçimi | **4** |
-| Oluşturulma | **28 Temmuz 2026 Salı 14:02:00 UTC** |
+| Oluşturulma | **28 Temmuz 2026 Salı 10:56:32 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Kamera yönetimi ve çekim tasarımı (3)
+### Kamera yönetimi ve çekim tasarımı (4)
 
 Kadraj, kamera yolu, blocking, tempo, açığa çıkarmalar ve geçişler etrafında kurulan çekim brifleri.
 
@@ -463,9 +463,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: Yeni örnek: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="Yeni örnek: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Kim Maria](https://x.com/KimMaria8ry)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **Yayımlandı:** 27 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Diyalog, performans ve yerel ses (4)
+### Diyalog, performans ve yerel ses (6)
 
 Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı performans odaklı promptlar.
 
@@ -476,7 +522,7 @@ Konuşma, oyunculuk, ambiyans, müzik veya senkron sesin sahneyi taşıdığı p
 
 <a id="prompt-4"></a>
 
-#### #3: Duraklamalar ve mikro ifadelerle taşınan ince tartışma
+#### #4: Duraklamalar ve mikro ifadelerle taşınan ince tartışma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -520,7 +566,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: New York'ta koşan tavşan
+#### #5: New York'ta koşan tavşan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,6 +608,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: Yeni örnek: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+X üzerindeki açık bir kaynağa dayanan, net görsel yönlendirme ve doğrulanabilir üretim kısıtları içeren yeniden kullanılabilir prompt.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yerelleştirilmiş sürüm: İngilizce kaynak prompttaki kamera, zamanlama, özne sürekliliği ve kısıtları koru; yalnızca görünen metni veya diyaloğu bu dile uyarla.
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="Yeni örnek: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **Yayımlandı:** 27 Temmuz 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### İş akışı neden önemli
+
+X uzerinden secilen, net gorsel hedefi, kontrol edilebilir kompozisyonu, acik medya kaniti ve izlenebilir kaynagi olan prompt ornegi.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yerellestirilmis surum: Ingilizce kaynak istemdeki kamera, kompozisyon, konu tutarliligi ve kisitlari koruyun; yalnizca gorunen metni veya diyalogu bu dile uyarlayin.
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Kisalay](https://x.com/Kisalay_)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/Kisalay_/status/2067323749532316148)
+- **Yayımlandı:** 17 Haziran 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Ürün hareketi ve reklam spotları (2)
@@ -574,7 +712,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: Ürün son kartıyla doğal yeşil çay dökümü
+#### #8: Ürün son kartıyla doğal yeşil çay dökümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -634,7 +772,7 @@ Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini 
 
 <a id="prompt-6"></a>
 
-#### #6: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
+#### #9: Pratik film sürekliliğiyle meşale ışığında fantastik öpücük
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -691,7 +829,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
+#### #10: Ateş, kumaş ve ses fiziğiyle yüksek hızlı ejderha uçuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -760,7 +898,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: Bağımsız mikro hareketli sabit editoryal grid
+#### #11: Bağımsız mikro hareketli sabit editoryal grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -882,7 +1020,7 @@ Sekiz panelli yerleşimi ve kamerayı dondururken kontrollü nefes, göz kırpma
 
 <a id="prompt-15"></a>
 
-#### #9: Times Square’de uyuyan dev
+#### #12: Times Square’de uyuyan dev
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -933,7 +1071,7 @@ Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya
 
 <a id="prompt-9"></a>
 
-#### #10: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #13: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -977,7 +1115,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #14: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1021,7 +1159,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: Ters akışlı su küresi
+#### #15: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1065,7 +1203,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: Fener ışıklı JRPG pazarı
+#### #16: Fener ışıklı JRPG pazarı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1115,7 +1253,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #14: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #17: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1193,10 +1331,11 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1216,6 +1355,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-28T14:02:00.951Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-28T10:56:32.163Z</sub>
 
 </div>

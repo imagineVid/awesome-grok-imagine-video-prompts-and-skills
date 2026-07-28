@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **18** |
+| 검증된 사례 | **21** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 28일 화요일 오후 2시 2분 0초 UTC** |
+| 생성 시각 | **2026년 7월 28일 화요일 AM 10시 56분 32초 UTC** |
 
 </div>
 
@@ -366,7 +366,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### 카메라 연출 및 샷 디자인 (3)
+### 카메라 연출 및 샷 디자인 (4)
 
 프레이밍, 카메라 경로, 블로킹, 페이싱, 공개 순서, 전환을 중심으로 구성한 샷 브리프입니다.
 
@@ -462,9 +462,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: 신규 사례: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.
+
+##### 현지화 프롬프트
+
+```
+현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="신규 사례: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Kim Maria](https://x.com/KimMaria8ry)
+- **정식 출처:** [정식 출처](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **게시일:** 2026년 7월 27일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 대사, 연기 및 네이티브 오디오 (4)
+### 대사, 연기 및 네이티브 오디오 (6)
 
 대사, 연기, 분위기음, 음악 또는 동기화된 사운드가 장면을 이끄는 퍼포먼스 중심 프롬프트입니다.
 
@@ -475,7 +521,7 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 <a id="prompt-4"></a>
 
-#### #3: 멈춤과 미세 표정으로 이끄는 미묘한 말다툼
+#### #4: 멈춤과 미세 표정으로 이끄는 미묘한 말다툼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -519,7 +565,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: 뉴욕을 질주하는 토끼
+#### #5: 뉴욕을 질주하는 토끼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -561,6 +607,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: 신규 사례: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+X 공개 출처를 바탕으로 정리한 재사용 가능한 프롬프트 사례입니다. 구도와 제약 조건을 명확히 유지합니다.
+
+##### 현지화 프롬프트
+
+```
+현지화 버전: 아래 영어 원본 프롬프트의 카메라, 타이밍, 주체 일관성, 제약 조건은 유지하고 표시 텍스트나 대사만 이 언어로 바꾸세요.
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="신규 사례: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **정식 출처:** [정식 출처](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **게시일:** 2026년 7월 27일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+X에서 선별한 프롬프트 사례로, 명확한 시각 목표와 제어 가능한 구도, 공개 미디어 증거, 추적 가능한 출처를 보존합니다.
+
+##### 현지화 프롬프트
+
+```
+현지화 버전: 아래 영어 원본 프롬프트의 카메라, 구도, 주체 일관성, 제약을 유지하고 화면 텍스트나 대사만 이 언어로 바꾸세요.
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Kisalay](https://x.com/Kisalay_)
+- **정식 출처:** [정식 출처](https://x.com/Kisalay_/status/2067323749532316148)
+- **게시일:** 2026년 6월 17일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### 제품 모션 및 광고 스팟 (2)
@@ -573,7 +711,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: 자연스러운 녹차 따르기와 제품 엔드 카드
+#### #8: 자연스러운 녹차 따르기와 제품 엔드 카드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -633,7 +771,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #6: 실사 영화 연속성을 살린 횃불빛 판타지 키스
+#### #9: 실사 영화 연속성을 살린 횃불빛 판타지 키스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -690,7 +828,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
+#### #10: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -759,7 +897,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
+#### #11: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -922,7 +1060,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #9: 타임스스퀘어에 잠든 거인
+#### #12: 타임스스퀘어에 잠든 거인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -973,7 +1111,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #10: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #13: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1017,7 +1155,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #14: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1061,7 +1199,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: 역류해 떠오르는 물 구체
+#### #15: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1243,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: 등불이 빛나는 JRPG 시장
+#### #16: 등불이 빛나는 JRPG 시장
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1155,7 +1293,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #14: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #17: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1233,10 +1371,11 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1256,6 +1395,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-28T14:02:00.927Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-28T10:56:32.146Z</sub>
 
 </div>

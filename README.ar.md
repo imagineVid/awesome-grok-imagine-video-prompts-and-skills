@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **18** |
+| أمثلة موثّقة | **21** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الثلاثاء، 28 يوليو 2026 في 2:02:00 م UTC** |
+| تاريخ التوليد | **الثلاثاء، 28 يوليو 2026 في 10:56:32 ص UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### إخراج الكاميرا وتصميم اللقطات (3)
+### إخراج الكاميرا وتصميم اللقطات (4)
 
 موجزات لقطات تتمحور حول التأطير ومسار الكاميرا والتوزيع والإيقاع والكشف والانتقالات.
 
@@ -463,9 +463,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: حالة جديدة: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.
+
+##### المطالبة المترجمة
+
+```
+نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="حالة جديدة: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Kim Maria](https://x.com/KimMaria8ry)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **تاريخ النشر:** 27 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### الحوار والأداء والصوت الأصلي (4)
+### الحوار والأداء والصوت الأصلي (6)
 
 مطالبات يقود فيها الكلام أو التمثيل أو الأجواء أو الموسيقى أو الصوت المتزامن المشهد.
 
@@ -476,7 +522,7 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 <a id="prompt-4"></a>
 
-#### #3: شجار دقيق تقوده الوقفات والتعابير المجهرية
+#### #4: شجار دقيق تقوده الوقفات والتعابير المجهرية
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -520,7 +566,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: أرنب يركض عبر نيويورك
+#### #5: أرنب يركض عبر نيويورك
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,6 +608,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: حالة جديدة: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+مثال قابل لإعادة الاستخدام مبني على مصدر عام من X، مع توجيه بصري واضح وقيود إنتاج قابلة للتحقق.
+
+##### المطالبة المترجمة
+
+```
+نسخة محلية: حافظ على الكاميرا والتوقيت واتساق الموضوع وقيود الموجه الإنجليزي الأصلي؛ وبدّل فقط النص الظاهر أو الحوار إلى هذه اللغة.
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="حالة جديدة: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **تاريخ النشر:** 27 يوليو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+حالة منتقاة من X تحافظ على هدف بصري واضح وتكوين قابل للتحكم ودليل وسائط عام ومصدر قابل للتتبع.
+
+##### المطالبة المترجمة
+
+```
+نسخة محلية: حافظ على الكاميرا والتكوين واتساق الموضوع وقيود الوصف الإنجليزي الأصلي، وغيّر فقط النص الظاهر أو الحوار إلى هذه اللغة.
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Kisalay](https://x.com/Kisalay_)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/Kisalay_/status/2067323749532316148)
+- **تاريخ النشر:** 17 يونيو 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### حركة المنتج والإعلانات التجارية (2)
@@ -574,7 +712,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
+#### #8: سكب شاي أخضر طبيعي مع بطاقة ختامية للمنتج
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -634,7 +772,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #6: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
+#### #9: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -691,7 +829,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
+#### #10: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -760,7 +898,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
+#### #11: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -915,7 +1053,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #9: عملاق نائم في تايمز سكوير
+#### #12: عملاق نائم في تايمز سكوير
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -966,7 +1104,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #10: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
+#### #13: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1010,7 +1148,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
+#### #14: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1054,7 +1192,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: كرة ماء بتدفق عكسي
+#### #15: كرة ماء بتدفق عكسي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1098,7 +1236,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: سوق JRPG مضاء بالفوانيس
+#### #16: سوق JRPG مضاء بالفوانيس
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1148,7 +1286,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #14: إعادة تصميم سيبرانية ذرية لمقطع موجود
+#### #17: إعادة تصميم سيبرانية ذرية لمقطع موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1226,10 +1364,11 @@ Change the style to futuristic Cyberpunk
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1249,6 +1388,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-28T14:02:00.912Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-07-28T10:56:32.136Z</sub>
 
 </div>

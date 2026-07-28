@@ -916,5 +916,209 @@
       ]
     },
     "sort": 18
+  },
+  {
+    "id": 19,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Draw a picture of Max Huang as Kung Lao"
+    },
+    "description": {
+      "en": "A source-backed video prompt focused on timed action, tactile sound cues, and production-ready pacing."
+    },
+    "content": {
+      "en": "Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . \"Overcast diffused light\", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, \"Blade Runner Feel\", \"King Fu Vibe\", -- ar 16. 9, ultra realistic cinematic 4k style film He says: \"You'll never defeat me!!!\" Grok Imagine"
+    },
+    "sourceLink": "https://x.com/KimMaria8ry/status/2081548593610019268",
+    "sourcePublishedAt": "2026-07-27T01:13:52.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg"
+    },
+    "author": {
+      "name": "Kim Maria",
+      "link": "https://x.com/KimMaria8ry"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 19,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081548593610019268",
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 209,
+      "bookmarkCount": 1
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 61,
+          "title": {
+            "en": "Camera Direction & Shot Design",
+            "es": "Dirección de cámara y diseño de planos",
+            "pt": "Direção de câmara e conceção de planos",
+            "it": "Regia della camera e design delle inquadrature",
+            "de": "Kameraregie und Shot-Design",
+            "fr": "Direction de caméra et conception de plans",
+            "ar": "إخراج الكاميرا وتصميم اللقطات",
+            "ja": "カメラ演出とショット設計",
+            "ko": "카메라 연출 및 샷 디자인",
+            "zh": "镜头方向与镜头设计",
+            "nl": "Cameraregie en shotontwerp",
+            "ru": "Режиссура камеры и дизайн кадра",
+            "tr": "Kamera yönetimi ve çekim tasarımı",
+            "pl": "Reżyseria kamery i projektowanie ujęć"
+          },
+          "slug": "camera-direction-shot-design"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Aurora eye of the storm 👁️ The center of"
+    },
+    "description": {
+      "en": "A source-backed community video prompt rebuilt as a reusable cinematic brief with clear motion, camera, and continuity constraints."
+    },
+    "content": {
+      "en": "Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye."
+    },
+    "sourceLink": "https://x.com/PhilipCarrn7711/status/2081589888055414945",
+    "sourcePublishedAt": "2026-07-27T03:57:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg"
+    },
+    "author": {
+      "name": "Philip Carr",
+      "link": "https://x.com/PhilipCarrn7711"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 20,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2081589888055414945",
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-27",
+      "curation_note": "Passed explicit prompt, source attribution, media availability, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14,
+      "bookmarkCount": 0
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": {
+            "en": "Dialogue, Performance & Native Audio",
+            "es": "Diálogo, interpretación y audio nativo",
+            "pt": "Diálogo, interpretação e áudio nativo",
+            "it": "Dialogo, performance e audio nativo",
+            "de": "Dialog, Performance und nativer Ton",
+            "fr": "Dialogue, interprétation et audio natif",
+            "ar": "الحوار والأداء والصوت الأصلي",
+            "ja": "台詞、演技、ネイティブ音声",
+            "ko": "대사, 연기 및 네이티브 오디오",
+            "zh": "对白、表演与原生音频",
+            "nl": "Dialoog, performance en native audio",
+            "ru": "Диалог, исполнение и нативное аудио",
+            "tr": "Diyalog, performans ve yerel ses",
+            "pl": "Dialog, występ i natywne audio"
+          },
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Floating Chinese palace fantasy flight"
+    },
+    "description": {
+      "en": "A Grok Imagine Video prompt for a majestic cloudborne palace with epic scale and cinematic atmosphere."
+    },
+    "content": {
+      "en": "Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution."
+    },
+    "sourceLink": "https://x.com/Kisalay_/status/2067323749532316148",
+    "sourcePublishedAt": "Wed Jun 17 19:09:25 +0000 2026",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg"
+    ],
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg"
+    },
+    "author": {
+      "name": "Kisalay",
+      "link": "https://x.com/Kisalay_"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 21,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2067323749532316148",
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-07-28",
+      "curation_note": "Second-wave twitterapi.io candidate accepted after explicit prompt, media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_normalized",
+      "retweetCount": 2,
+      "replyCount": 5,
+      "likeCount": 24,
+      "quoteCount": 2,
+      "viewCount": 488,
+      "bookmarkCount": 1
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 62,
+          "title": {
+            "en": "Dialogue, Performance & Native Audio",
+            "es": "Diálogo, interpretación y audio nativo",
+            "pt": "Diálogo, interpretação e áudio nativo",
+            "it": "Dialogo, performance e audio nativo",
+            "de": "Dialog, Performance und nativer Ton",
+            "fr": "Dialogue, interprétation et audio natif",
+            "ar": "الحوار والأداء والصوت الأصلي",
+            "ja": "台詞、演技、ネイティブ音声",
+            "ko": "대사, 연기 및 네이티브 오디오",
+            "zh": "对白、表演与原生音频",
+            "nl": "Dialoog, performance en native audio",
+            "ru": "Диалог, исполнение и нативное аудио",
+            "tr": "Diyalog, performans ve yerel ses",
+            "pl": "Dialog, występ i natywne audio"
+          },
+          "slug": "dialogue-performance-native-audio"
+        }
+      ]
+    }
   }
 ]

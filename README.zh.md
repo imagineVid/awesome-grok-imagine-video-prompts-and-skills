@@ -98,9 +98,9 @@
 
 | 集合字段 | 当前值 |
 |--------|-------|
-| 已核验案例 | **18** |
+| 已核验案例 | **21** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年7月28日星期二 UTC 14:02:00** |
+| 生成时间 | **2026年7月28日星期二 UTC 10:56:32** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### 镜头方向与镜头设计 (3)
+### 镜头方向与镜头设计 (4)
 
 围绕构图、镜头路径、调度、节奏、揭示和转场构建的镜头简报。
 
@@ -463,9 +463,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: 新增案例：Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。
+
+##### 本地化提示词
+
+```
+本地化版本：保留以下英文源提示词的镜头、时间、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="新增案例：Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [Kim Maria](https://x.com/KimMaria8ry)
+- **规范来源:** [规范来源](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **发布时间:** 2026年7月27日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### 对白、表演与原生音频 (4)
+### 对白、表演与原生音频 (6)
 
 以对白、表演、环境声、音乐或同步声音推动场景的表演型提示词。
 
@@ -476,7 +522,7 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 <a id="prompt-4"></a>
 
-#### #3: 由停顿与微表情驱动的微妙争吵
+#### #4: 由停顿与微表情驱动的微妙争吵
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -520,7 +566,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: 穿越纽约街头的疾跑兔子
+#### #5: 穿越纽约街头的疾跑兔子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,6 +608,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: 新增案例：Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+来自 X 的可复用提示词案例，重点保留清晰的视觉目标、可控构图和来源可追溯性。
+
+##### 本地化提示词
+
+```
+本地化版本：保留以下英文源提示词的镜头、时间、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="新增案例：Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **规范来源:** [规范来源](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **发布时间:** 2026年7月27日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 工作流为何重要
+
+来自 X 的精选提示词案例，保留清晰视觉目标、可控构图、公开素材证据与来源可追溯性。
+
+##### 本地化提示词
+
+```
+本地化版本：保留以下英文源提示词的镜头、构图、主体一致性和负面约束；如需出现文字或对白，请替换为本语言。
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>原始来源提示词</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### 视频
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*点击预览图打开视频* · **[▶ 观看视频 →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### 证据
+
+- **创作者:** [Kisalay](https://x.com/Kisalay_)
+- **规范来源:** [规范来源](https://x.com/Kisalay_/status/2067323749532316148)
+- **发布时间:** 2026年6月17日
+- **提示词语言:** en
+
+**[按此方向创作 · ImagineVid](https://imaginevid.io/zh/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### 产品运动与商业广告 (2)
@@ -574,7 +712,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: 自然绿茶倾倒与产品片尾卡
+#### #8: 自然绿茶倾倒与产品片尾卡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -634,7 +772,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #6: 火炬照明的奇幻亲吻与实拍电影连续性
+#### #9: 火炬照明的奇幻亲吻与实拍电影连续性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -691,7 +829,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: 高速飞龙飞行与火焰、布料及音频物理
+#### #10: 高速飞龙飞行与火焰、布料及音频物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -760,7 +898,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: 锁定的编辑网格与独立微运动
+#### #11: 锁定的编辑网格与独立微运动
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -899,7 +1037,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #9: 沉睡在时代广场的巨人
+#### #12: 沉睡在时代广场的巨人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -950,7 +1088,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #10: 月光下飞龙克制的依偎
+#### #13: 月光下飞龙克制的依偎
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +1132,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: 连续武术穿越与沉重冲击物理
+#### #14: 连续武术穿越与沉重冲击物理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1176,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: 逆流悬浮的水球
+#### #15: 逆流悬浮的水球
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1082,7 +1220,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: 灯笼照亮的 JRPG 市集
+#### #16: 灯笼照亮的 JRPG 市集
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1132,7 +1270,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #14: 现有片段的原子级赛博朋克重塑
+#### #17: 现有片段的原子级赛博朋克重塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1210,10 +1348,11 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 ## 创作者鸣谢
 
 <details>
-<summary>查看并感谢社区作者 (16)</summary>
+<summary>查看并感谢社区作者 (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1233,6 +1372,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-07-28T14:02:00.932Z</sub>
+<sub>根据版本化本地数据生成于 2026-07-28T10:56:32.150Z</sub>
 
 </div>

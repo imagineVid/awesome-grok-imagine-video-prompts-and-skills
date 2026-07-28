@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **18** |
+| Проверенные примеры | **21** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **вторник, 28 июля 2026 г. в 14:02:00 UTC** |
+| Сгенерировано | **вторник, 28 июля 2026 г. в 10:56:32 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Режиссура камеры и дизайн кадра (3)
+### Режиссура камеры и дизайн кадра (4)
 
 Брифы кадров с композицией, маршрутом камеры, мизансценой, темпом, раскрытиями и переходами.
 
@@ -463,9 +463,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: Новый пример: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.
+
+##### Локализованный промпт
+
+```
+Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="Новый пример: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Kim Maria](https://x.com/KimMaria8ry)
+- **Канонический источник:** [Канонический источник](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **Опубликовано:** 27 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Диалог, исполнение и нативное аудио (4)
+### Диалог, исполнение и нативное аудио (6)
 
 Промпты на основе исполнения, где речь, актёрская игра, атмосфера, музыка или синхронный звук несут сцену.
 
@@ -476,7 +522,7 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 <a id="prompt-4"></a>
 
-#### #3: Сдержанная ссора через паузы и микровыражения
+#### #4: Сдержанная ссора через паузы и микровыражения
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -520,7 +566,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: Кролик мчится по Нью-Йорку
+#### #5: Кролик мчится по Нью-Йорку
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,6 +608,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: Новый пример: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Многоразовый пример промпта из открытого источника X с ясной визуальной задачей и проверяемыми ограничениями.
+
+##### Локализованный промпт
+
+```
+Локализованная версия: сохраняйте камеру, тайминг, непрерывность объекта и ограничения английского исходного промпта; меняйте только видимый текст или реплики на этот язык.
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="Новый пример: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **Канонический источник:** [Канонический источник](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **Опубликовано:** 27 июля 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Отобранный пример из X с ясной визуальной целью, управляемой композицией, публичным медиа-доказательством и отслеживаемым источником.
+
+##### Локализованный промпт
+
+```
+Локализованная версия: сохраните камеру, композицию, непрерывность объекта и ограничения английского исходного промпта; адаптируйте только видимый текст или диалог.
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Kisalay](https://x.com/Kisalay_)
+- **Канонический источник:** [Канонический источник](https://x.com/Kisalay_/status/2067323749532316148)
+- **Опубликовано:** 17 июня 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Движение продукта и рекламные ролики (2)
@@ -574,7 +712,7 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 <a id="prompt-12"></a>
 
-#### #5: Натуральная подача зелёного чая с финальной карточкой продукта
+#### #8: Натуральная подача зелёного чая с финальной карточкой продукта
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -634,7 +772,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #6: Поцелуй в свете факелов с непрерывностью практического кино
+#### #9: Поцелуй в свете факелов с непрерывностью практического кино
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -691,7 +829,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: Скоростной полёт дракона с огнём, тканью и аудиофизикой
+#### #10: Скоростной полёт дракона с огнём, тканью и аудиофизикой
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -760,7 +898,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: Зафиксированная редакционная сетка с независимым микродвижением
+#### #11: Зафиксированная редакционная сетка с независимым микродвижением
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -899,7 +1037,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #9: Спящий гигант на Таймс-сквер
+#### #12: Спящий гигант на Таймс-сквер
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -950,7 +1088,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #10: Лунный драконий нос в сдержанном замедлении
+#### #13: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -994,7 +1132,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #14: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1176,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: Водяная сфера с обратным потоком
+#### #15: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1082,7 +1220,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: Рынок JRPG в свете фонарей
+#### #16: Рынок JRPG в свете фонарей
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1132,7 +1270,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #14: Атомный киберпанк-рестайлинг существующего клипа
+#### #17: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1210,10 +1348,11 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1233,6 +1372,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-28T14:02:00.944Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-07-28T10:56:32.158Z</sub>
 
 </div>

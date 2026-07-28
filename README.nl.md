@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **18** |
+| Geverifieerde voorbeelden | **21** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **dinsdag 28 juli 2026 om 14:02:00 UTC** |
+| Gegenereerd | **dinsdag 28 juli 2026 om 10:56:32 UTC** |
 
 </div>
 
@@ -367,7 +367,7 @@ ultra realistic, cinematic lighting, luxury advertisement, macro detail, glass r
 
 <a id="workflow-camera-direction-shot-design"></a>
 
-### Cameraregie en shotontwerp (3)
+### Cameraregie en shotontwerp (4)
 
 Shotbriefings rond kadrering, camerapad, blocking, tempo, onthullingen en overgangen.
 
@@ -463,9 +463,55 @@ Morning after a full night of gentle rain. Frame wet pine branches in soft overc
 
 ---
 
+<a id="prompt-19"></a>
+
+#### #3: Nieuwe case: Draw a picture of Max Huang as Kung Lao
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.
+
+##### Gelokaliseerde prompt
+
+```
+Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.
+
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Draw a picture of Max Huang as Kung Lao from Mortal Kombat in a fight, ultra realistic, atmospheric depth of field. He is fighting with his blade sombrero hat gleaming brilliantly black and silver. He utilizes his Kung Fu skills to vanquish the enemy. . "Overcast diffused light", 85 mm lens treatment, dolly-in, volumetric lighting, parallax effect, camera pans to the left, cross fade, glow effect, physics simulation, slow motion, particles effect, high resolution output, native audio generation, "Blade Runner Feel", "King Fu Vibe", -- ar 16. 9, ultra realistic cinematic 4k style film He says: "You'll never defeat me!!!" Grok Imagine
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081548578355363840/img/-dieVRq3-e_ertPc.jpg" height="420" alt="Nieuwe case: Draw a picture of Max Huang as Kung Lao - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2081548578355363840/vid/avc1/544x544/B7dbUPYKQ9ciD_3w.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Kim Maria](https://x.com/KimMaria8ry)
+- **Canonieke bron:** [Canonieke bron](https://x.com/KimMaria8ry/status/2081548593610019268)
+- **Gepubliceerd:** 27 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-dialogue-performance-native-audio"></a>
 
-### Dialoog, performance en native audio (4)
+### Dialoog, performance en native audio (6)
 
 Performancegerichte prompts waarin spraak, acteren, ambiance, muziek of gesynchroniseerd geluid de scène dragen.
 
@@ -476,7 +522,7 @@ Performancegerichte prompts waarin spraak, acteren, ambiance, muziek of gesynchr
 
 <a id="prompt-4"></a>
 
-#### #3: Subtiele ruzie gedragen door pauzes en micro-expressies
+#### #4: Subtiele ruzie gedragen door pauzes en micro-expressies
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -520,7 +566,7 @@ Create an emotional scene of an angry couple, limited punchy dialogue, appropria
 
 <a id="prompt-17"></a>
 
-#### #4: Konijn sprint door New York
+#### #5: Konijn sprint door New York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -562,6 +608,98 @@ A rabbit sprinting through New York City. Track it at street level with energeti
 
 ---
 
+<a id="prompt-20"></a>
+
+#### #6: Nieuwe case: Aurora eye of the storm 👁️ The center of
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Herbruikbare promptcase uit een openbare X-bron, met duidelijke visuele regie en controleerbare productie-eisen.
+
+##### Gelokaliseerde prompt
+
+```
+Gelokaliseerde versie: behoud camera, timing, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan naar deze taal.
+
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Aurora eye of the storm 👁️ The center of the storm becomes an actual large hazel brown eye 👁️ that has flashes of blue and green and spins opposite that of the surrounding storm. Deep purple lightning ⚡️ bolts emerge from behind the eye.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2081589860490477568/img/Ejbq53qB4lQ_PAcY.jpg" height="420" alt="Nieuwe case: Aurora eye of the storm 👁️ The center of - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2081589860490477568/vid/avc1/480x640/QDUd0aMtEL7RL99g.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Philip Carr](https://x.com/PhilipCarrn7711)
+- **Canonieke bron:** [Canonieke bron](https://x.com/PhilipCarrn7711/status/2081589888055414945)
+- **Gepubliceerd:** 27 juli 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
+<a id="prompt-21"></a>
+
+#### #7: New case: Floating Chinese palace fantasy flight
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Geselecteerde X-prompt met helder visueel doel, controleerbare compositie, openbaar mediabewijs en traceerbare bron.
+
+##### Gelokaliseerde prompt
+
+```
+Gelokaliseerde versie: behoud camera, compositie, onderwerpcontinuiteit en beperkingen van de Engelse bronprompt; pas alleen zichtbare tekst of dialoog aan.
+
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Masterpiece, best quality, ultra-detailed cinematic digital painting of a massive floating Chinese palace built like a grand ancient ship, hovering among the clouds. The structure features multiple ornate tiers with traditional Chinese architecture, golden details, red lanterns, and intricate woodwork. It is surrounded by dramatic clouds and floating rocky mountains under a bright sky with sunlight breaking through. Epic scale, majestic and mystical atmosphere with soft god rays and floating particles. Highly detailed architecture, clouds, and lighting. In the bottom left corner, add a small elegant signature reading exactly 'Kisalay' in refined handwritten calligraphy style. No other text or watermarks. Cinematic composition, vibrant yet elegant colors, best quality, 8K resolution.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2067323574327926784/img/divzOWDSFShXRsHy.jpg" height="420" alt="New case: Floating Chinese palace fantasy flight - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2067323574327926784/vid/avc1/480x624/iU8tr8S0eo-t8Ati.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Kisalay](https://x.com/Kisalay_)
+- **Canonieke bron:** [Canonieke bron](https://x.com/Kisalay_/status/2067323749532316148)
+- **Gepubliceerd:** 17 juni 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-product-motion-commercial-spots"></a>
 
 ### Productbeweging en reclamespots (2)
@@ -574,7 +712,7 @@ Commerciële clips waarin een product, aanbod, kledingstuk, gerecht, apparaat of
 
 <a id="prompt-12"></a>
 
-#### #5: Natuurlijke groene-theepour met product-eindkaart
+#### #8: Natuurlijke groene-theepour met product-eindkaart
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -634,7 +772,7 @@ Op een afbeelding gebaseerde workflows die een stilstaand beeld animeren en iden
 
 <a id="prompt-6"></a>
 
-#### #6: Kus bij fakkellicht met continuïteit van praktische film
+#### #9: Kus bij fakkellicht met continuïteit van praktische film
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -691,7 +829,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #7: Supersnelle drakenvlucht met vuur, stof en audiofysica
+#### #10: Supersnelle drakenvlucht met vuur, stof en audiofysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -760,7 +898,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #8: Vastgezette redactionele grid met onafhankelijke microbeweging
+#### #11: Vastgezette redactionele grid met onafhankelijke microbeweging
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -923,7 +1061,7 @@ Een gestructureerd stabiliteitsexperiment dat een layout met acht panelen en de 
 
 <a id="prompt-15"></a>
 
-#### #9: Slapende reus op Times Square
+#### #12: Slapende reus op Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -974,7 +1112,7 @@ Effect- en animatiepatronen rond transformaties, simulatie, surrealistische fysi
 
 <a id="prompt-9"></a>
 
-#### #10: Drakenneusje bij maanlicht in beheerste slow motion
+#### #13: Drakenneusje bij maanlicht in beheerste slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1018,7 +1156,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #11: Doorlopende krijgskunstdoorgang met zware impactfysica
+#### #14: Doorlopende krijgskunstdoorgang met zware impactfysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,7 +1200,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #12: Waterbol met omgekeerde stroming
+#### #15: Waterbol met omgekeerde stroming
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1106,7 +1244,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #13: JRPG-markt bij lantaarnlicht
+#### #16: JRPG-markt bij lantaarnlicht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1156,7 +1294,7 @@ Workflows voor bestaand videomateriaal die een scène restylen, verlengen, eleme
 
 <a id="prompt-13"></a>
 
-#### #14: Atomische cyberpunk-restyling van een bestaande clip
+#### #17: Atomische cyberpunk-restyling van een bestaande clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1234,10 +1372,11 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (16)</summary>
+<summary>Community creators we thank (18)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [⭕Kisalay](https://x.com/Kisalay_) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch)<br>
-[Dogan Ural](https://x.com/doganuraldesign) · [Kiri](https://x.com/Kyrannio) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
+[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1257,6 +1396,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-28T14:02:00.939Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-28T10:56:32.154Z</sub>
 
 </div>
