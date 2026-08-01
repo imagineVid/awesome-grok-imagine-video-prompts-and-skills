@@ -100,7 +100,7 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 |--------|-------|
 | Verified Cases | **21** |
 | Editorial pick | **4** |
-| Generated | **Saturday, August 1, 2026 at 9:56:28 AM UTC** |
+| Generated | **Saturday, August 1, 2026 at 1:15:14 PM UTC** |
 
 </div>
 
@@ -1086,6 +1086,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-08-01T09:56:28.811Z</sub>
+<sub>Generated from versioned local data on 2026-08-01T13:15:14.916Z</sub>
 
 </div>
