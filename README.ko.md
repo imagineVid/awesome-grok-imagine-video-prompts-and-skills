@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **23** |
+| 검증된 사례 | **24** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 8월 3일 월요일 오후 2시 33분 53초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 3시 12분 30초 UTC** |
 
 </div>
 
@@ -701,7 +701,7 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 
 <a id="workflow-product-motion-commercial-spots"></a>
 
-### 제품 모션 및 광고 스팟 (2)
+### 제품 모션 및 광고 스팟 (3)
 
 제품, 오퍼, 의상, 요리, 기기 또는 브랜드 순간을 움직임의 중심에 두는 광고 클립입니다.
 
@@ -763,6 +763,52 @@ On-screen text sequence:
 
 ---
 
+<a id="prompt-24"></a>
+
+#### #9: 고급 주택 투어 속 코코넛 오일 제품 공개
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### 이 워크플로가 중요한 이유
+
+고급 주택 투어를 코코넛 오일 히어로 샷으로 자연스럽게 연결하는 출처 기반 Grok Imagine Video 제품 필름 사례입니다.
+
+##### 현지화 프롬프트
+
+```
+실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:
+
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+</details>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg" height="420" alt="고급 주택 투어 속 코코넛 오일 제품 공개 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Coconut Chris](https://x.com/chb2xx)
+- **정식 출처:** [정식 출처](https://x.com/chb2xx/status/2084271627819253782)
+- **게시일:** 2026년 8월 3일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-image-to-video-subject-continuity"></a>
 
 ### 이미지-투-비디오 및 주제 연속성 (6)
@@ -771,7 +817,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #9: 실사 영화 연속성을 살린 횃불빛 판타지 키스
+#### #10: 실사 영화 연속성을 살린 횃불빛 판타지 키스
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -828,7 +874,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #10: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
+#### #11: 불꽃, 천, 오디오 물리학을 동반한 초고속 드래곤 비행
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -897,7 +943,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #11: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
+#### #12: 독립적인 미세 움직임을 가진 고정 에디토리얼 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1060,7 +1106,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #12: 타임스스퀘어에 잠든 거인
+#### #13: 타임스스퀘어에 잠든 거인
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1105,7 +1151,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-22"></a>
 
-#### #13: 정지한 피사체를 한 번에 도는 오비트 쇼트
+#### #14: 정지한 피사체를 한 번에 도는 오비트 쇼트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1161,7 +1207,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-23"></a>
 
-#### #14: 기존 세로 클립을 위한 반짝임 오버레이
+#### #15: 기존 세로 클립을 위한 반짝임 오버레이
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1214,7 +1260,7 @@ Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded
 
 <a id="prompt-9"></a>
 
-#### #15: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #16: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1258,7 +1304,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #16: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #17: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1302,7 +1348,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #17: 역류해 떠오르는 물 구체
+#### #18: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1346,7 +1392,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #18: 등불이 빛나는 JRPG 시장
+#### #19: 등불이 빛나는 JRPG 시장
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1396,7 +1442,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #19: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #20: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1474,11 +1520,11 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (20)</summary>
+<summary>Community creators we thank (21)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
-[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Coconut Chris](https://x.com/chb2xx)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX)<br>
+[Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1498,6 +1544,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T14:33:53.887Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T15:12:30.598Z</sub>
 
 </div>

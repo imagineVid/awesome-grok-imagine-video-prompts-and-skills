@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **23** |
+| Проверенные примеры | **24** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **понедельник, 3 августа 2026 г. в 14:33:53 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 15:12:30 UTC** |
 
 </div>
 
@@ -702,7 +702,7 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 
 <a id="workflow-product-motion-commercial-spots"></a>
 
-### Движение продукта и рекламные ролики (2)
+### Движение продукта и рекламные ролики (3)
 
 Рекламные клипы, в которых продукт, предложение, одежда, блюдо, устройство или брендовый момент находятся в центре движения.
 
@@ -764,6 +764,52 @@ On-screen text sequence:
 
 ---
 
+<a id="prompt-24"></a>
+
+#### #9: Презентация кокосового масла во время экскурсии по роскошному дому
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Зачем нужен этот рабочий процесс
+
+Документированный кейс продуктового ролика Grok Imagine Video, превращающий экскурсию по роскошному дому в ясный путь к финальному hero-кадру кокосового масла.
+
+##### Локализованный промпт
+
+```
+Канонический промпт сохранён на английском для единообразного результата; эта заметка передаёт локализованный замысел:
+
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg" height="420" alt="Презентация кокосового масла во время экскурсии по роскошному дому - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Coconut Chris](https://x.com/chb2xx)
+- **Канонический источник:** [Канонический источник](https://x.com/chb2xx/status/2084271627819253782)
+- **Опубликовано:** 3 августа 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-image-to-video-subject-continuity"></a>
 
 ### Image-to-video и непрерывность объекта (6)
@@ -772,7 +818,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #9: Поцелуй в свете факелов с непрерывностью практического кино
+#### #10: Поцелуй в свете факелов с непрерывностью практического кино
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -829,7 +875,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #10: Скоростной полёт дракона с огнём, тканью и аудиофизикой
+#### #11: Скоростной полёт дракона с огнём, тканью и аудиофизикой
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -898,7 +944,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #11: Зафиксированная редакционная сетка с независимым микродвижением
+#### #12: Зафиксированная редакционная сетка с независимым микродвижением
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1037,7 +1083,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #12: Спящий гигант на Таймс-сквер
+#### #13: Спящий гигант на Таймс-сквер
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1082,7 +1128,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-22"></a>
 
-#### #13: Облёт неподвижного объекта одним дублем
+#### #14: Облёт неподвижного объекта одним дублем
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1138,7 +1184,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-23"></a>
 
-#### #14: Мерцающий оверлей для существующего вертикального клипа
+#### #15: Мерцающий оверлей для существующего вертикального клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1191,7 +1237,7 @@ Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded
 
 <a id="prompt-9"></a>
 
-#### #15: Лунный драконий нос в сдержанном замедлении
+#### #16: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1235,7 +1281,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #16: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #17: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1279,7 +1325,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #17: Водяная сфера с обратным потоком
+#### #18: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1323,7 +1369,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #18: Рынок JRPG в свете фонарей
+#### #19: Рынок JRPG в свете фонарей
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1373,7 +1419,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #19: Атомный киберпанк-рестайлинг существующего клипа
+#### #20: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1451,11 +1497,11 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (20)</summary>
+<summary>Community creators we thank (21)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
-[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Coconut Chris](https://x.com/chb2xx)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX)<br>
+[Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1475,6 +1521,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T14:33:53.908Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T15:12:30.623Z</sub>
 
 </div>

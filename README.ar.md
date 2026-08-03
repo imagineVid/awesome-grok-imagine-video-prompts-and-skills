@@ -98,9 +98,9 @@
 
 | حقل المجموعة | القيمة الحالية |
 |--------|-------|
-| أمثلة موثّقة | **23** |
+| أمثلة موثّقة | **24** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 2:33:53 م UTC** |
+| تاريخ التوليد | **الاثنين، 3 أغسطس 2026 في 3:12:30 م UTC** |
 
 </div>
 
@@ -702,7 +702,7 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 
 <a id="workflow-product-motion-commercial-spots"></a>
 
-### حركة المنتج والإعلانات التجارية (2)
+### حركة المنتج والإعلانات التجارية (3)
 
 مقاطع تجارية يبقى فيها المنتج أو العرض أو الزي أو الطبق أو الجهاز أو لحظة العلامة التجارية محور الحركة.
 
@@ -764,6 +764,52 @@ On-screen text sequence:
 
 ---
 
+<a id="prompt-24"></a>
+
+#### #9: إظهار منتج زيت جوز الهند داخل جولة في منزل فاخر
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### أهمية سير العمل
+
+حالة فيلم منتج لـ Grok Imagine موثقة المصدر، تحول جولة منزل فاخر إلى مسار واضح ينتهي بلقطة بطولية لزيت جوز الهند.
+
+##### المطالبة المترجمة
+
+```
+يبقى الموجّه الأساسي باللغة الإنجليزية للحفاظ على اتساق التنفيذ؛ يلخّص هذا التنبيه المقصد المحلي:
+
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+<details>
+<summary>المطالبة المصدرية الأصلية</summary>
+
+```
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+</details>
+
+##### الفيديو
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg" height="420" alt="إظهار منتج زيت جوز الهند داخل جولة في منزل فاخر - Motion preview"></a>
+
+*انقر على المعاينة لفتح الفيديو* · **[▶ مشاهدة الفيديو →](https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25)**
+</div>
+
+##### الأدلة
+
+- **المبدع:** [Coconut Chris](https://x.com/chb2xx)
+- **المصدر الأصلي:** [المصدر الأصلي](https://x.com/chb2xx/status/2084271627819253782)
+- **تاريخ النشر:** 3 أغسطس 2026
+- **لغة المطالبة:** en
+
+**[أنشئ بهذا التوجيه · ImagineVid](https://imaginevid.io/ar/grok-imagine)**
+
+---
+
 <a id="workflow-image-to-video-subject-continuity"></a>
 
 ### الصورة إلى الفيديو واستمرارية الموضوع (6)
@@ -772,7 +818,7 @@ On-screen text sequence:
 
 <a id="prompt-6"></a>
 
-#### #9: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
+#### #10: قبلة خيالية على ضوء المشاعل مع استمرارية الفيلم العملي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -829,7 +875,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #10: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
+#### #11: تحليق تنين عالي السرعة مع فيزياء النار والقماش والصوت
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -898,7 +944,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #11: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
+#### #12: شبكة تحريرية مقفلة مع حركة مجهرية مستقلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1053,7 +1099,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-15"></a>
 
-#### #12: عملاق نائم في تايمز سكوير
+#### #13: عملاق نائم في تايمز سكوير
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1098,7 +1144,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-22"></a>
 
-#### #13: دوران بلقطة واحدة حول موضوع ساكن
+#### #14: دوران بلقطة واحدة حول موضوع ساكن
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1154,7 +1200,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-23"></a>
 
-#### #14: طبقة بريق فوق مقطع عمودي موجود
+#### #15: طبقة بريق فوق مقطع عمودي موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1207,7 +1253,7 @@ Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded
 
 <a id="prompt-9"></a>
 
-#### #15: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
+#### #16: مداعبة تنينين في ضوء القمر بالحركة البطيئة المتحفظة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1251,7 +1297,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #16: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
+#### #17: اجتياز متواصل بفنون قتالية مع فيزياء اصطدام ثقيلة
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1295,7 +1341,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #17: كرة ماء بتدفق عكسي
+#### #18: كرة ماء بتدفق عكسي
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1339,7 +1385,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #18: سوق JRPG مضاء بالفوانيس
+#### #19: سوق JRPG مضاء بالفوانيس
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1389,7 +1435,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #19: إعادة تصميم سيبرانية ذرية لمقطع موجود
+#### #20: إعادة تصميم سيبرانية ذرية لمقطع موجود
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1467,11 +1513,11 @@ Change the style to futuristic Cyberpunk
 ## اعتمادات المبدعين
 
 <details>
-<summary>Community creators we thank (20)</summary>
+<summary>Community creators we thank (21)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
-[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Coconut Chris](https://x.com/chb2xx)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX)<br>
+[Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1491,6 +1537,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T14:33:53.871Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-08-03T15:12:30.582Z</sub>
 
 </div>

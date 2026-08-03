@@ -1255,5 +1255,73 @@
         }
       ]
     }
+  },
+  {
+    "id": 24,
+    "model": "grok-imagine-video",
+    "title": {
+      "en": "Coconut-oil product reveal in a luxury-home walkthrough"
+    },
+    "description": {
+      "en": "A source-backed Grok Imagine Video product-film case that turns a luxury-home walkthrough into a clean, legible path to a final coconut-oil hero shot."
+    },
+    "content": {
+      "en": "Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography."
+    },
+    "sourceLink": "https://x.com/chb2xx/status/2084271627819253782",
+    "sourcePublishedAt": "2026-08-03T13:34:14.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg"
+    ],
+    "author": {
+      "name": "Coconut Chris",
+      "link": "https://x.com/chb2xx"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 24,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2084271627819253782",
+      "prompt_source": "tweet_text_prompt_editorial_reconstruction",
+      "model_evidence": "grok-imagine-video",
+      "collected_at": "2026-08-03",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 39,
+      "bookmarkCount": 1,
+      "source_note": "The source post describes a coconut-oil product video staged like a luxury real-estate walkthrough. The reusable prompt is an editorial reconstruction of that concept, not a verbatim hidden prompt."
+    },
+    "video": {
+      "url": "https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25",
+      "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg"
+    },
+    "videoCategories": {
+      "workflows": [
+        {
+          "id": 63,
+          "title": {
+            "en": "Product Motion & Commercial Spots",
+            "es": "Movimiento de producto y spots comerciales",
+            "pt": "Movimento de produto e anúncios comerciais",
+            "it": "Movimento del prodotto e spot commerciali",
+            "de": "Produktbewegung und Werbespots",
+            "fr": "Mouvement produit et spots publicitaires",
+            "ar": "حركة المنتج والإعلانات التجارية",
+            "ja": "プロダクトモーションとCMスポット",
+            "ko": "제품 모션 및 광고 스팟",
+            "zh": "产品运动与商业广告",
+            "nl": "Productbeweging en reclamespots",
+            "ru": "Движение продукта и рекламные ролики",
+            "tr": "Ürün hareketi ve reklam spotları",
+            "pl": "Ruch produktu i spoty reklamowe"
+          },
+          "slug": "product-motion-commercial-spots"
+        }
+      ]
+    }
   }
 ]
