@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **22** |
+| Проверенные примеры | **23** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **понедельник, 3 августа 2026 г. в 13:27:06 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 14:15:42 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-video и непрерывность объекта (5)
+### Image-to-video и непрерывность объекта (6)
 
 Рабочие процессы, оживляющие изображение с сохранением личности, композиции, геометрии продукта или раскадровки.
 
@@ -1136,6 +1136,53 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 ---
 
+<a id="prompt-23"></a>
+
+#### #14: Мерцающий оверлей для существующего вертикального клипа
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Зачем нужен этот рабочий процесс
+
+Проверенный источником рабочий процесс редактирования в Grok Imagine: сдержанное звёздное поле добавляется без изменения исходного объекта, движения, кадрирования и звука.
+
+##### Локализованный промпт
+
+```
+Канонический промпт сохранён на английском для единообразного результата; эта заметка передаёт локализованный замысел:
+
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+</details>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084257818056466433/img/IDGBWJ9OdXB-BdvC.jpg" height="420" alt="Мерцающий оверлей для существующего вертикального клипа - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Lucy](https://x.com/princess414141)
+- **Канонический источник:** [Канонический источник](https://x.com/princess414141/status/2084260167915376826)
+- **Опубликовано:** 3 августа 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Стилизованное движение и визуальные эффекты (4)
@@ -1144,7 +1191,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-9"></a>
 
-#### #14: Лунный драконий нос в сдержанном замедлении
+#### #15: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1188,7 +1235,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #15: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #16: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1232,7 +1279,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #16: Водяная сфера с обратным потоком
+#### #17: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1276,7 +1323,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #17: Рынок JRPG в свете фонарей
+#### #18: Рынок JRPG в свете фонарей
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1326,7 +1373,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #18: Атомный киберпанк-рестайлинг существующего клипа
+#### #19: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1404,11 +1451,11 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (19)</summary>
+<summary>Community creators we thank (20)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
+[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1428,6 +1475,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T13:27:06.400Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T14:15:42.174Z</sub>
 
 </div>

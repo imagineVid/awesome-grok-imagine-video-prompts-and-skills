@@ -98,9 +98,9 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **22** |
+| Casos verificados | **23** |
 | Selección editorial | **4** |
-| Generado | **lunes, 3 de agosto de 2026, 13:27:06 UTC** |
+| Generado | **lunes, 3 de agosto de 2026, 14:15:42 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Imagen a vídeo y continuidad del sujeto (5)
+### Imagen a vídeo y continuidad del sujeto (6)
 
 Flujos anclados en una imagen que animan un fotograma estático mientras conservan la identidad, la composición, la geometría del producto o el diseño del storyboard.
 
@@ -1160,6 +1160,53 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 ---
 
+<a id="prompt-23"></a>
+
+#### #14: Capa de destellos sobre un clip vertical existente
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Por qué importa este flujo de trabajo
+
+Un flujo de edición de Grok Imagine basado en una fuente que añade estrellas sutiles y conserva el sujeto, el movimiento, el encuadre y el sonido originales.
+
+##### Prompt localizado
+
+```
+El prompt canónico se conserva en inglés para mantener la consistencia de ejecución; esta nota resume la intención localizada:
+
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084257818056466433/img/IDGBWJ9OdXB-BdvC.jpg" height="420" alt="Capa de destellos sobre un clip vertical existente - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [Lucy](https://x.com/princess414141)
+- **Fuente canónica:** [Fuente canónica](https://x.com/princess414141/status/2084260167915376826)
+- **Publicado:** 3 de agosto de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/es/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Movimiento estilizado y efectos visuales (4)
@@ -1168,7 +1215,7 @@ Efectos y patrones de animación impulsados por transformaciones, simulación, f
 
 <a id="prompt-9"></a>
 
-#### #14: Roce de dragones a la luz de la luna en cámara lenta contenida
+#### #15: Roce de dragones a la luz de la luna en cámara lenta contenida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1212,7 +1259,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #15: Recorrido continuo de artes marciales con física de impactos contundentes
+#### #16: Recorrido continuo de artes marciales con física de impactos contundentes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1256,7 +1303,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #16: Esfera de agua de flujo inverso
+#### #17: Esfera de agua de flujo inverso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1300,7 +1347,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #17: Mercado JRPG iluminado por faroles
+#### #18: Mercado JRPG iluminado por faroles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1350,7 +1397,7 @@ Flujos de vídeo existente que cambian el estilo, amplían, añaden, eliminan, s
 
 <a id="prompt-13"></a>
 
-#### #18: Cambio de estilo ciberpunk atómico de un clip existente
+#### #19: Cambio de estilo ciberpunk atómico de un clip existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1428,11 +1475,11 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 ## Créditos de los creadores
 
 <details>
-<summary>Community creators we thank (19)</summary>
+<summary>Community creators we thank (20)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
+[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1452,6 +1499,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-08-03T13:27:06.324Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-08-03T14:15:42.126Z</sub>
 
 </div>

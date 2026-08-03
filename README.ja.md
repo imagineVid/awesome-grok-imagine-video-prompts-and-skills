@@ -98,9 +98,9 @@
 
 | コレクション項目 | 現在値 |
 |--------|-------|
-| 検証済みケース | **22** |
+| 検証済みケース | **23** |
 | 編集部のおすすめ | **4** |
-| 生成日時 | **2026年8月3日月曜日 13:27:06 UTC** |
+| 生成日時 | **2026年8月3日月曜日 14:15:42 UTC** |
 
 </div>
 
@@ -762,7 +762,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### 画像から動画と被写体の連続性 (5)
+### 画像から動画と被写体の連続性 (6)
 
 静止画を動かしながら、人物の同一性、構図、製品形状、絵コンテのレイアウトを保つ画像起点のワークフロー。
 
@@ -1132,6 +1132,53 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 ---
 
+<a id="prompt-23"></a>
+
+#### #14: 既存の縦動画に加えるきらめきオーバーレイ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### このワークフローが重要な理由
+
+元の被写体、動き、構図、音声を保ったまま控えめな星のフィールドを加える、出典付きGrok Imagine編集ワークフロー。
+
+##### ローカライズ済みプロンプト
+
+```
+実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：
+
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+<details>
+<summary>元のソースプロンプト</summary>
+
+```
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+</details>
+
+##### 動画
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084257818056466433/img/IDGBWJ9OdXB-BdvC.jpg" height="420" alt="既存の縦動画に加えるきらめきオーバーレイ - Motion preview"></a>
+
+*プレビューをクリックして動画を開く* · **[▶ 動画を見る →](https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29)**
+</div>
+
+##### エビデンス
+
+- **クリエイター:** [Lucy](https://x.com/princess414141)
+- **正規の出典:** [正規の出典](https://x.com/princess414141/status/2084260167915376826)
+- **公開日:** 2026年8月3日
+- **プロンプト言語:** en
+
+**[この方向性で制作する · ImagineVid](https://imaginevid.io/ja/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### スタイライズドモーションと視覚効果 (4)
@@ -1140,7 +1187,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-9"></a>
 
-#### #14: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
+#### #15: 月明かりの下で寄り添うドラゴン、抑制されたスローモーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1231,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #15: 重い衝撃物理を伴う連続武術トラバーサル
+#### #16: 重い衝撃物理を伴う連続武術トラバーサル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1228,7 +1275,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #16: 逆流して浮かぶ水の球体
+#### #17: 逆流して浮かぶ水の球体
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1272,7 +1319,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #17: ランタンに照らされたJRPG市場
+#### #18: ランタンに照らされたJRPG市場
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1322,7 +1369,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #18: 既存クリップを原子力級サイバーパンクにリスタイル
+#### #19: 既存クリップを原子力級サイバーパンクにリスタイル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1400,11 +1447,11 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 ## クリエイタークレジット
 
 <details>
-<summary>Community creators we thank (19)</summary>
+<summary>Community creators we thank (20)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
+[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1424,6 +1471,6 @@ ImagineVidが作成した編集テキストとコードは[CC BY 4.0](https://cr
 **[検証済みケースを投稿する](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[コレクションにスターを付ける](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>バージョン管理されたローカルデータから生成： 2026-08-03T13:27:06.370Z</sub>
+<sub>バージョン管理されたローカルデータから生成： 2026-08-03T14:15:42.155Z</sub>
 
 </div>

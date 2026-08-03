@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **22** |
+| Doğrulanmış örnekler | **23** |
 | Editör seçimi | **4** |
-| Oluşturulma | **3 Ağustos 2026 Pazartesi 13:27:06 UTC** |
+| Oluşturulma | **3 Ağustos 2026 Pazartesi 14:15:42 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Görselden videoya ve konu sürekliliği (5)
+### Görselden videoya ve konu sürekliliği (6)
 
 Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini veya storyboard yerleşimini koruyan görsel temelli iş akışları.
 
@@ -1119,6 +1119,53 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 ---
 
+<a id="prompt-23"></a>
+
+#### #14: Mevcut dikey klip için ışıltı katmanı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### İş akışı neden önemli
+
+Kaynağa dayalı bu Grok Imagine düzenleme iş akışı, özgün özneyi, hareketi, kadrajı ve sesi korurken ölçülü bir yıldız alanı ekler.
+
+##### Yerelleştirilmiş prompt
+
+```
+Tutarlı sonuçlar için kanonik prompt İngilizce bırakılmıştır; bu not yerelleştirilmiş amacı özetler:
+
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084257818056466433/img/IDGBWJ9OdXB-BdvC.jpg" height="420" alt="Mevcut dikey klip için ışıltı katmanı - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Lucy](https://x.com/princess414141)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/princess414141/status/2084260167915376826)
+- **Yayımlandı:** 3 Ağustos 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stilize hareket ve görsel efektler (4)
@@ -1127,7 +1174,7 @@ Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya
 
 <a id="prompt-9"></a>
 
-#### #14: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #15: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1218,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #15: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #16: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1215,7 +1262,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #16: Ters akışlı su küresi
+#### #17: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,7 +1306,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #17: Fener ışıklı JRPG pazarı
+#### #18: Fener ışıklı JRPG pazarı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1309,7 +1356,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #18: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #19: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1387,11 +1434,11 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (19)</summary>
+<summary>Community creators we thank (20)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
+[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1411,6 +1458,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T13:27:06.407Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T14:15:42.179Z</sub>
 
 </div>

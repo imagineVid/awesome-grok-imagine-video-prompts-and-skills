@@ -94,6 +94,11 @@
       "title": "Órbita en una sola toma alrededor de un sujeto inmóvil",
       "description": "Un caso respaldado por fuentes que explora «Órbita en una sola toma alrededor de un sujeto inmóvil», con instrucciones reutilizables y medios de resultado verificables.",
       "content": "Versión localizada: conserva la intención visual, la continuidad del sujeto y todas las restricciones del prompt canónico en inglés.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "Capa de destellos sobre un clip vertical existente",
+      "description": "Un flujo de edición de Grok Imagine basado en una fuente que añade estrellas sutiles y conserva el sujeto, el movimiento, el encuadre y el sonido originales.",
+      "content": "El prompt canónico se conserva en inglés para mantener la consistencia de ejecución; esta nota resume la intención localizada:\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   },
   "de": {
@@ -191,6 +196,11 @@
       "title": "Ein-Take-Orbit um ein regungsloses Motiv",
       "description": "Ein quellenbelegter Fall zu „Ein-Take-Orbit um ein regungsloses Motiv“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien.",
       "content": "Lokalisierte Fassung: Bewahre die visuelle Absicht, die Motivkontinuität und alle Einschränkungen des englischen kanonischen Prompts.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "Funkelndes Overlay für einen bestehenden Hochkantclip",
+      "description": "Ein quellenbasierter Grok-Imagine-Workflow, der ein zurückhaltendes Sternenfeld ergänzt und Motiv, Bewegung, Bildausschnitt und Ton bewahrt.",
+      "content": "Der kanonische Prompt bleibt zur konsistenten Ausführung auf Englisch; diese Notiz fasst die lokalisierte Absicht zusammen:\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   },
   "fr": {
@@ -288,6 +298,11 @@
       "title": "Orbite en un seul plan autour d’un sujet immobile",
       "description": "Un cas documenté par une source autour de « Orbite en un seul plan autour d’un sujet immobile », avec des instructions réutilisables et un résultat vérifiable.",
       "content": "Version localisée : conservez l’intention visuelle, la continuité du sujet et toutes les contraintes du prompt canonique anglais.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "Overlay scintillant pour un clip vertical existant",
+      "description": "Un workflow d’édition Grok Imagine documenté par une source, qui ajoute un champ d’étoiles discret tout en préservant sujet, mouvement, cadrage et son.",
+      "content": "Le prompt canonique reste en anglais pour garantir une exécution cohérente ; cette note résume l’intention localisée :\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   },
   "ja": {
@@ -385,6 +400,11 @@
       "title": "静止した被写体を一周するワンテイク",
       "description": "「静止した被写体を一周するワンテイク」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。",
       "content": "ローカライズ版：英語の基準プロンプトにある視覚的意図、被写体の連続性、すべての制約を維持します。\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "既存の縦動画に加えるきらめきオーバーレイ",
+      "description": "元の被写体、動き、構図、音声を保ったまま控えめな星のフィールドを加える、出典付きGrok Imagine編集ワークフロー。",
+      "content": "実行結果の一貫性を保つため、基準プロンプトは英語のまま掲載します。以下はローカライズした意図の要約です：\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   },
   "ko": {
@@ -482,6 +502,11 @@
       "title": "정지한 피사체를 한 번에 도는 오비트 쇼트",
       "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '정지한 피사체를 한 번에 도는 오비트 쇼트'을 테스트하는 출처 기반 사례입니다.",
       "content": "현지화 버전: 영어 기준 프롬프트의 시각적 의도, 피사체 연속성, 모든 제약을 유지합니다.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "기존 세로 클립을 위한 반짝임 오버레이",
+      "description": "원본 피사체, 움직임, 구도, 사운드를 유지하면서 절제된 별빛을 더하는 출처 기반 Grok Imagine 편집 워크플로입니다.",
+      "content": "실행 결과의 일관성을 위해 기준 프롬프트는 영어로 유지합니다. 다음은 현지화된 의도의 요약입니다:\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   },
   "zh": {
@@ -579,6 +604,11 @@
       "title": "围绕静止主体的一镜到底环绕镜头",
       "description": "以可复用指令和可核验结果媒体测试“围绕静止主体的一镜到底环绕镜头”的来源明确案例。",
       "content": "本地化版本：保留英文基准提示词的视觉意图、主体连续性和全部约束。\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
+    },
+    "23": {
+      "title": "为现有竖屏视频添加闪烁叠加效果",
+      "description": "在保留原主体、动作、构图和声音的同时加入克制星光的来源明确 Grok Imagine 编辑流程。",
+      "content": "为保持执行结果一致，标准提示词保留英文；下面是本地化意图摘要：\n\nAdd a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects."
     }
   }
 }

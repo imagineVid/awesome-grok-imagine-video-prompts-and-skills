@@ -18,7 +18,7 @@ package.json - Node 24 and pnpm commands for validation, tests, and generation.
 - The target repository is `imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills`.
 - The collection covers Grok Imagine video workflows, with current official facts anchored to xAI's generally available `grok-imagine-video-1.5` model.
 - The primary product route is `https://imaginevid.io/grok-imagine`; model-version notes may also link to `https://imaginevid.io/grok-imagine-1-5`.
-- The public collection contains 22 independently sourced Grok Imagine Video community cases. No inherited sibling-repository example or placeholder case may enter the data set.
+- The public collection contains 23 independently sourced Grok Imagine Video community cases. No inherited sibling-repository example or placeholder case may enter the data set.
 
 ## Content Rules
 - English is the canonical source language. Thirteen reviewed locale overlays are derived only from this repository's rewritten English source, never from sibling repositories.
@@ -28,7 +28,7 @@ package.json - Node 24 and pnpm commands for validation, tests, and generation.
 - README output is generated for English plus every locale supported by ImagineVid. Video cases use a GitHub-safe clickable-preview pattern with an explicit localized playback link; public data and generated views must pass structural, localization, and duplicate checks before publication.
 
 ## Launch Boundary
-- `data/prompts.json` contains 22 Grok Imagine-specific community cases; `data/official-cases.json` remains empty until first-party cases have reusable prompt and media evidence.
+- `data/prompts.json` contains 23 Grok Imagine-specific community cases; `data/official-cases.json` remains empty until first-party cases have reusable prompt and media evidence.
 - The repository publishes 14 README surfaces: English plus Spanish, Portuguese, Italian, German, French, Arabic, Japanese, Korean, Simplified Chinese, Dutch, Russian, Turkish, and Polish.
 - The workflow taxonomy is video-native: camera direction, native audio, commercial motion, image-to-video continuity, stylized motion, and video editing.
 - Before committing, run `pnpm run generate`, `pnpm test`, and `pnpm run typecheck`.

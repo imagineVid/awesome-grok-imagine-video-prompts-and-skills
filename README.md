@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **22** |
+| Verified Cases | **23** |
 | Editorial pick | **4** |
-| Generated | **Monday, August 3, 2026 at 1:27:06 PM UTC** |
+| Generated | **Monday, August 3, 2026 at 2:15:42 PM UTC** |
 
 </div>
 
@@ -614,7 +614,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-Video & Subject Continuity (5)
+### Image-to-Video & Subject Continuity (6)
 
 Image-anchored workflows that animate a still while preserving identity, composition, product geometry, or storyboard layout.
 
@@ -884,6 +884,42 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 ---
 
+<a id="prompt-23"></a>
+
+#### #14: Sparkle overlay for an existing vertical clip
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Why the workflow matters
+
+A source-backed Grok Imagine editing workflow that adds a restrained star field while preserving the original subject, motion, framing, and sound.
+
+##### Source prompt
+
+```
+Add a subtle twinkling overlay of pink, purple, and silver stars to the uploaded vertical video. Keep the original subject, timing, framing, colors, motion, and audio unchanged. Vary the stars by size, focus, opacity, depth, and gentle parallax; use physically plausible glow and short soft trails. Keep the effect sparse enough to protect faces and important details. Do not add text, logos, borders, transitions, or new objects.
+```
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29"><img src="https://pbs.twimg.com/amplify_video_thumb/2084257818056466433/img/IDGBWJ9OdXB-BdvC.jpg" height="420" alt="Sparkle overlay for an existing vertical clip - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2084257818056466433/vid/avc1/720x1280/NonNOhxVj7Jzq_Ca.mp4?tag=29)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Lucy](https://x.com/princess414141)
+- **Canonical source:** [Canonical source](https://x.com/princess414141/status/2084260167915376826)
+- **Published:** August 3, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stylized Motion & Visual Effects (4)
@@ -892,7 +928,7 @@ Effects and animation patterns driven by transformations, simulation, surreal ph
 
 <a id="prompt-9"></a>
 
-#### #14: Moonlit dragon nuzzle in restrained slow motion
+#### #15: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -927,7 +963,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #15: Continuous martial-arts traversal with heavy impact physics
+#### #16: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -962,7 +998,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #16: Reverse-flow water sphere
+#### #17: Reverse-flow water sphere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -997,7 +1033,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #17: Lantern-lit JRPG marketplace gameplay
+#### #18: Lantern-lit JRPG marketplace gameplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1074,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #18: Atomic cyberpunk restyle of an existing clip
+#### #19: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1107,11 +1143,11 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (19)</summary>
+<summary>Community creators we thank (20)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
+[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1131,6 +1167,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-08-03T13:27:06.312Z</sub>
+<sub>Generated from versioned local data on 2026-08-03T14:15:42.119Z</sub>
 
 </div>
