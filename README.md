@@ -98,9 +98,9 @@ Begin with one action and one camera idea. Add timing, audio, and preservation c
 
 | Collection field | Current value |
 |--------|-------|
-| Verified Cases | **21** |
+| Verified Cases | **22** |
 | Editorial pick | **4** |
-| Generated | **Tuesday, July 28, 2026 at 10:56:32 AM UTC** |
+| Generated | **Monday, August 3, 2026 at 1:15:43 PM UTC** |
 
 </div>
 
@@ -614,7 +614,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-Video & Subject Continuity (4)
+### Image-to-Video & Subject Continuity (5)
 
 Image-anchored workflows that animate a still while preserving identity, composition, product geometry, or storyboard layout.
 
@@ -839,6 +839,51 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: Single-take orbit around a still subject
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Why the workflow matters
+
+A source-backed Grok Imagine Video camera-path case that keeps a still subject fixed while completing one fast, continuous revolution around him.
+
+##### Source prompt
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+##### Source and result frames
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="Single-take orbit around a still subject - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="Single-take orbit around a still subject - Image 2"></td>
+</tr>
+</table>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="Single-take orbit around a still subject - Motion preview"></a>
+
+*Click the preview to open the video* · **[▶ Watch video →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### Evidence
+
+- **Creator:** [Rob Allan](https://x.com/allan_robII)
+- **Canonical source:** [Canonical source](https://x.com/allan_robII/status/2084242653051273644)
+- **Published:** August 3, 2026
+- **Prompt language:** en
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stylized Motion & Visual Effects (4)
@@ -847,7 +892,7 @@ Effects and animation patterns driven by transformations, simulation, surreal ph
 
 <a id="prompt-9"></a>
 
-#### #13: Moonlit dragon nuzzle in restrained slow motion
+#### #14: Moonlit dragon nuzzle in restrained slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -882,7 +927,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: Continuous martial-arts traversal with heavy impact physics
+#### #15: Continuous martial-arts traversal with heavy impact physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -917,7 +962,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: Reverse-flow water sphere
+#### #16: Reverse-flow water sphere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -952,7 +997,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: Lantern-lit JRPG marketplace gameplay
+#### #17: Lantern-lit JRPG marketplace gameplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +1038,7 @@ Existing-video workflows that restyle, extend, add, remove, replace, or redirect
 
 <a id="prompt-13"></a>
 
-#### #17: Atomic cyberpunk restyle of an existing clip
+#### #18: Atomic cyberpunk restyle of an existing clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1062,11 +1107,11 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 ## Creator Credits
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1086,6 +1131,6 @@ ImagineVid-authored editorial text and code are licensed under [CC BY 4.0](https
 **[Submit a verified case](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star the collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generated from versioned local data on 2026-07-28T10:56:32.108Z</sub>
+<sub>Generated from versioned local data on 2026-08-03T13:15:43.345Z</sub>
 
 </div>

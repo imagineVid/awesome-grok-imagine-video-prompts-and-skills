@@ -98,9 +98,9 @@
 
 | 컬렉션 필드 | 현재 값 |
 |--------|-------|
-| 검증된 사례 | **21** |
+| 검증된 사례 | **22** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 7월 28일 화요일 AM 10시 56분 32초 UTC** |
+| 생성 시각 | **2026년 8월 3일 월요일 PM 1시 15분 43초 UTC** |
 
 </div>
 
@@ -765,7 +765,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### 이미지-투-비디오 및 주제 연속성 (4)
+### 이미지-투-비디오 및 주제 연속성 (5)
 
 정지 이미지를 애니메이션화하면서 인물의 정체성, 구도, 제품 형태 또는 스토리보드 레이아웃을 보존하는 이미지 기반 워크플로입니다.
 
@@ -1103,6 +1103,62 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: 정지한 피사체를 한 번에 도는 오비트 쇼트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### 이 워크플로가 중요한 이유
+
+검증 가능한 결과 미디어와 재사용 가능한 지침으로 '정지한 피사체를 한 번에 도는 오비트 쇼트'을 테스트하는 출처 기반 사례입니다.
+
+##### 현지화 프롬프트
+
+```
+현지화 버전: 영어 기준 프롬프트의 시각적 의도, 피사체 연속성, 모든 제약을 유지합니다.
+
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+<details>
+<summary>원문 출처 프롬프트</summary>
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+</details>
+
+##### 출처 및 결과 프레임
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="정지한 피사체를 한 번에 도는 오비트 쇼트 - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="정지한 피사체를 한 번에 도는 오비트 쇼트 - Image 2"></td>
+</tr>
+</table>
+
+##### 동영상
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="정지한 피사체를 한 번에 도는 오비트 쇼트 - Motion preview"></a>
+
+*미리보기를 클릭하여 동영상을 여세요* · **[▶ 동영상 보기 →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### 근거
+
+- **제작자:** [Rob Allan](https://x.com/allan_robII)
+- **정식 출처:** [정식 출처](https://x.com/allan_robII/status/2084242653051273644)
+- **게시일:** 2026년 8월 3일
+- **프롬프트 언어:** en
+
+**[이 연출로 만들기 · ImagineVid](https://imaginevid.io/ko/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### 스타일라이즈드 모션 및 시각 효과 (4)
@@ -1111,7 +1167,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #13: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
+#### #14: 절제된 슬로 모션으로 달빛 아래 코를 비비는 드래곤
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1155,7 +1211,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: 강한 충격 물리학을 적용한 연속 무술 이동
+#### #15: 강한 충격 물리학을 적용한 연속 무술 이동
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +1255,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: 역류해 떠오르는 물 구체
+#### #16: 역류해 떠오르는 물 구체
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1243,7 +1299,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: 등불이 빛나는 JRPG 시장
+#### #17: 등불이 빛나는 JRPG 시장
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1293,7 +1349,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #17: 기존 클립의 원자적 사이버펑크 스타일 변경
+#### #18: 기존 클립의 원자적 사이버펑크 스타일 변경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1371,11 +1427,11 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 ## 제작자 크레딧
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1395,6 +1451,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-07-28T10:56:32.146Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-03T13:15:43.382Z</sub>
 
 </div>

@@ -98,9 +98,9 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 
 | Koleksiyon alanı | Güncel değer |
 |--------|-------|
-| Doğrulanmış örnekler | **21** |
+| Doğrulanmış örnekler | **22** |
 | Editör seçimi | **4** |
-| Oluşturulma | **28 Temmuz 2026 Salı 10:56:32 UTC** |
+| Oluşturulma | **3 Ağustos 2026 Pazartesi 13:15:43 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Görselden videoya ve konu sürekliliği (4)
+### Görselden videoya ve konu sürekliliği (5)
 
 Bir sabit görseli canlandırırken kimliği, kompozisyonu, ürün geometrisini veya storyboard yerleşimini koruyan görsel temelli iş akışları.
 
@@ -1063,6 +1063,62 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: Hareketsiz öznenin çevresinde tek planlık dönüş
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### İş akışı neden önemli
+
+“Hareketsiz öznenin çevresinde tek planlık dönüş” konusunu yeniden kullanılabilir talimatlar ve doğrulanabilir sonuç medyasıyla ele alan kaynaklı bir vaka.
+
+##### Yerelleştirilmiş prompt
+
+```
+Yerelleştirilmiş sürüm: görsel amacı, özne sürekliliğini ve kanonik İngilizce promptun tüm kısıtlarını koruyun.
+
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+<details>
+<summary>Özgün kaynak prompt</summary>
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+</details>
+
+##### Kaynak ve sonuç kareleri
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="Hareketsiz öznenin çevresinde tek planlık dönüş - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="Hareketsiz öznenin çevresinde tek planlık dönüş - Image 2"></td>
+</tr>
+</table>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="Hareketsiz öznenin çevresinde tek planlık dönüş - Motion preview"></a>
+
+*Videoyu açmak için önizlemeye tıklayın* · **[▶ Videoyu izle →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### Kanıt
+
+- **Üretici:** [Rob Allan](https://x.com/allan_robII)
+- **Kanonik kaynak:** [Kanonik kaynak](https://x.com/allan_robII/status/2084242653051273644)
+- **Yayımlandı:** 3 Ağustos 2026
+- **Prompt dili:** en
+
+**[Bu yönlendirmeyle oluştur · ImagineVid](https://imaginevid.io/tr/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Stilize hareket ve görsel efektler (4)
@@ -1071,7 +1127,7 @@ Dönüşüm, simülasyon, sürreal fizik, grafik hareket veya ayırt edici medya
 
 <a id="prompt-9"></a>
 
-#### #13: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
+#### #14: Ölçülü ağır çekimde ay ışığında ejderha burun dokunuşu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1115,7 +1171,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
+#### #15: Ağır darbe fiziğiyle kesintisiz dövüş sanatları geçişi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1159,7 +1215,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: Ters akışlı su küresi
+#### #16: Ters akışlı su küresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1203,7 +1259,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: Fener ışıklı JRPG pazarı
+#### #17: Fener ışıklı JRPG pazarı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1253,7 +1309,7 @@ Sürekliliği koruyarak mevcut videoyu yeniden stillendiren, uzatan, ekleyen, ka
 
 <a id="prompt-13"></a>
 
-#### #17: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
+#### #18: Mevcut klibin atomik cyberpunk yeniden stillendirmesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1331,11 +1387,11 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 ## Üretici kredileri
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1355,6 +1411,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-07-28T10:56:32.163Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-08-03T13:15:43.400Z</sub>
 
 </div>

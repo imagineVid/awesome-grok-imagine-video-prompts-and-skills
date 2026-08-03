@@ -89,6 +89,11 @@
       "title": "Gotas de lluvia y aves tras una noche de tormenta",
       "description": "Un estudio vertical de naturaleza que coordina gotas sobre pino, movimiento de plumas, foco corto y ambiente sereno tras la lluvia.",
       "content": "Mañana tras una noche de lluvia suave. Encuadra ramas de pino mojadas bajo una luz gris de amanecer; gotas transparentes se reúnen en las agujas y caen una a una. Pequeñas aves de colores se posan y sacuden brevemente el agua de sus plumas. Travelling cercano y lento, poca profundidad de campo, física realista, color frío de bosque, niebla ligera y geografía continua. Audio nativo: goteo, roce de alas, aves lejanas y viento entre pinos. Vertical 9:16, sin música, texto, movimientos bruscos ni aves duplicadas."
+    },
+    "22": {
+      "title": "Órbita en una sola toma alrededor de un sujeto inmóvil",
+      "description": "Un caso respaldado por fuentes que explora «Órbita en una sola toma alrededor de un sujeto inmóvil», con instrucciones reutilizables y medios de resultado verificables.",
+      "content": "Versión localizada: conserva la intención visual, la continuidad del sujeto y todas las restricciones del prompt canónico en inglés.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   },
   "de": {
@@ -181,6 +186,11 @@
       "title": "Regentropfen und Vögel nach einer Sturmnacht",
       "description": "Eine ruhige vertikale Naturstudie mit Tropfen auf Kiefernnadeln, Federbewegung, geringer Schärfentiefe und dezenter Regenatmosphäre.",
       "content": "Morgen nach einer Nacht mit sanftem Regen. Nasse Kiefernzweige im weichen, bedeckten Morgenlicht; klare Tropfen sammeln sich an den Nadeln und fallen einzeln. Kleine farbige Vögel sitzen in den Zweigen und schütteln das Wasser kurz und natürlich aus dem Gefieder. Langsame nahe Kamerafahrt, geringe Schärfentiefe, realistische Feder- und Wasserphysik, kühle Waldtöne, leichter Nebel und kontinuierliche Umgebung. Originalton: Tropfen, Flügelrascheln, ferne Rufe und Wind. Vertikal 9:16, keine Musik, Schrift, abrupten Bewegungen oder doppelten Vögel."
+    },
+    "22": {
+      "title": "Ein-Take-Orbit um ein regungsloses Motiv",
+      "description": "Ein quellenbelegter Fall zu „Ein-Take-Orbit um ein regungsloses Motiv“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien.",
+      "content": "Lokalisierte Fassung: Bewahre die visuelle Absicht, die Motivkontinuität und alle Einschränkungen des englischen kanonischen Prompts.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   },
   "fr": {
@@ -273,6 +283,11 @@
       "title": "Gouttes de pluie et oiseaux après une nuit d’orage",
       "description": "Une étude naturelle verticale qui coordonne gouttes sur les aiguilles, mouvement des plumes, faible profondeur de champ et ambiance après la pluie.",
       "content": "Matin après une nuit de pluie douce. Cadrez des branches de pin mouillées sous une lumière d’aube couverte; les gouttes se rassemblent sur les aiguilles puis tombent une à une. De petits oiseaux colorés se posent et secouent brièvement l’eau de leurs plumes. Lent travelling rapproché, faible profondeur de champ, physique réaliste, tons forestiers froids, brume légère et décor continu. Audio natif: gouttes, froissement d’ailes, oiseaux lointains et vent dans les pins. Vertical 9:16, sans musique, texte, mouvement brusque ni oiseaux dupliqués."
+    },
+    "22": {
+      "title": "Orbite en un seul plan autour d’un sujet immobile",
+      "description": "Un cas documenté par une source autour de « Orbite en un seul plan autour d’un sujet immobile », avec des instructions réutilisables et un résultat vérifiable.",
+      "content": "Version localisée : conservez l’intention visuelle, la continuité du sujet et toutes les contraintes du prompt canonique anglais.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   },
   "ja": {
@@ -365,6 +380,11 @@
       "title": "夜雨の後、松葉の雫と羽を震わせる鳥",
       "description": "松葉の雫、羽の動き、浅い被写界深度、控えめな雨上がりの環境音を組み合わせた静かな縦型自然映像。",
       "content": "穏やかな雨が一晩降った翌朝。柔らかな曇天の朝光の中、濡れた松枝を捉え、透明な雫が松葉の先に集まり一滴ずつ落ちる。色鮮やかな小鳥が枝に止まり、短く自然な動きで羽の水滴を払う。ゆっくり寄る追従撮影、浅い被写界深度、自然な羽と水の物理、冷たい森の色、薄い霧、連続した背景。音は雫、羽音、遠い鳥声、松を抜ける風。縦9:16、音楽・文字・急なカメラ移動・鳥の複製なし。"
+    },
+    "22": {
+      "title": "静止した被写体を一周するワンテイク",
+      "description": "「静止した被写体を一周するワンテイク」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。",
+      "content": "ローカライズ版：英語の基準プロンプトにある視覚的意図、被写体の連続性、すべての制約を維持します。\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   },
   "ko": {
@@ -457,6 +477,11 @@
       "title": "밤비 뒤 소나무 물방울과 깃털을 터는 새",
       "description": "솔잎 물방울, 깃털 움직임, 얕은 심도와 절제된 비 갠 뒤 환경음을 조율한 조용한 세로형 자연 영상.",
       "content": "부드러운 비가 밤새 내린 다음 아침. 흐린 새벽빛 속 젖은 소나무 가지를 담고, 솔잎 끝에 맺힌 투명한 물방울이 하나씩 떨어진다. 알록달록한 작은 새들이 가지에 앉아 짧고 자연스럽게 깃털의 빗물을 턴다. 느린 근접 트래킹, 얕은 심도, 사실적인 깃털과 물리, 차가운 숲 색감, 옅은 안개와 연속된 배경. 네이티브 오디오: 물방울, 가벼운 날갯짓, 먼 새소리, 솔숲 바람. 9:16 세로, 음악·문자·급격한 카메라 이동·중복 새 없음."
+    },
+    "22": {
+      "title": "정지한 피사체를 한 번에 도는 오비트 쇼트",
+      "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '정지한 피사체를 한 번에 도는 오비트 쇼트'을 테스트하는 출처 기반 사례입니다.",
+      "content": "현지화 버전: 영어 기준 프롬프트의 시각적 의도, 피사체 연속성, 모든 제약을 유지합니다.\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   },
   "zh": {
@@ -549,6 +574,11 @@
       "title": "夜雨过后，松针雨珠与振翅小鸟",
       "description": "一段安静的竖屏自然观察，协调松针水珠、羽毛动作、浅景深与克制的雨后环境声。",
       "content": "一夜温柔细雨后的清晨。柔和阴天晨光中，湿润松枝上的清澈水珠聚在松针尖端并逐滴落下。几只色彩鲜明的小鸟停在枝间，偶尔自然地抖落羽毛上的雨水。镜头缓慢近距离跟随，浅景深，真实羽毛与水滴物理，冷调森林色彩、薄雾和连续环境。原生音频：独立滴水声、轻微振翅、远处鸟鸣和穿过松林的微风。9:16 竖屏，无音乐、无文字、无突然运镜、无重复小鸟。"
+    },
+    "22": {
+      "title": "围绕静止主体的一镜到底环绕镜头",
+      "description": "以可复用指令和可核验结果媒体测试“围绕静止主体的一镜到底环绕镜头”的来源明确案例。",
+      "content": "本地化版本：保留英文基准提示词的视觉意图、主体连续性和全部约束。\n\nCan you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front."
     }
   }
 }

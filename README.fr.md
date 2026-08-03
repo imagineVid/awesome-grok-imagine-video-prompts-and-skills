@@ -98,9 +98,9 @@ Commencez par une action et une idée de caméra. Ajoutez le timing, l'audio et 
 
 | Champ de la collection | Valeur actuelle |
 |--------|-------|
-| Cas vérifiés | **21** |
+| Cas vérifiés | **22** |
 | Sélection éditoriale | **4** |
-| Généré | **mardi 28 juillet 2026 à 10:56:32 UTC** |
+| Généré | **lundi 3 août 2026 à 13:15:43 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image vers vidéo et continuité du sujet (4)
+### Image vers vidéo et continuité du sujet (5)
 
 Workflows ancrés dans une image qui animent un arrêt sur image tout en préservant l'identité, la composition, la géométrie du produit ou la mise en page du storyboard.
 
@@ -1104,6 +1104,62 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: Orbite en un seul plan autour d’un sujet immobile
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Pourquoi le workflow est important
+
+Un cas documenté par une source autour de « Orbite en un seul plan autour d’un sujet immobile », avec des instructions réutilisables et un résultat vérifiable.
+
+##### Prompt localisé
+
+```
+Version localisée : conservez l’intention visuelle, la continuité du sujet et toutes les contraintes du prompt canonique anglais.
+
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+<details>
+<summary>Prompt source original</summary>
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+</details>
+
+##### Images source et résultat
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="Orbite en un seul plan autour d’un sujet immobile - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="Orbite en un seul plan autour d’un sujet immobile - Image 2"></td>
+</tr>
+</table>
+
+##### Vidéo
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="Orbite en un seul plan autour d’un sujet immobile - Motion preview"></a>
+
+*Cliquez sur l'aperçu pour ouvrir la vidéo* · **[▶ Voir la vidéo →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### Éléments de preuve
+
+- **Créateur:** [Rob Allan](https://x.com/allan_robII)
+- **Source canonique:** [Source canonique](https://x.com/allan_robII/status/2084242653051273644)
+- **Publié:** 3 août 2026
+- **Langue du prompt:** en
+
+**[Créer avec cette direction · ImagineVid](https://imaginevid.io/fr/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Mouvement stylisé et effets visuels (4)
@@ -1112,7 +1168,7 @@ Effets et motifs d'animation guidés par des transformations, de la simulation, 
 
 <a id="prompt-9"></a>
 
-#### #13: Caresse de dragons au clair de lune au ralenti maîtrisé
+#### #14: Caresse de dragons au clair de lune au ralenti maîtrisé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1156,7 +1212,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: Traversée continue en arts martiaux avec physique d'impact prononcée
+#### #15: Traversée continue en arts martiaux avec physique d'impact prononcée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1200,7 +1256,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: Sphère d’eau à écoulement inversé
+#### #16: Sphère d’eau à écoulement inversé
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1244,7 +1300,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: Marché de JRPG éclairé aux lanternes
+#### #17: Marché de JRPG éclairé aux lanternes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1294,7 +1350,7 @@ Workflows appliqués à une vidéo existante pour en restyler, prolonger, ajoute
 
 <a id="prompt-13"></a>
 
-#### #17: Restylage cyberpunk atomique d'un clip existant
+#### #18: Restylage cyberpunk atomique d'un clip existant
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1372,11 +1428,11 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 ## Crédits des créateurs
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1396,6 +1452,6 @@ Les textes éditoriaux et le code rédigés par ImagineVid sont placés sous [CC
 **[Proposer un cas vérifié](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Ajouter une étoile à la collection](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Généré à partir des données locales versionnées le 2026-07-28T10:56:32.132Z</sub>
+<sub>Généré à partir des données locales versionnées le 2026-08-03T13:15:43.368Z</sub>
 
 </div>

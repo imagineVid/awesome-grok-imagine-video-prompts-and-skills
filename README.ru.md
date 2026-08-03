@@ -98,9 +98,9 @@
 
 | Поле коллекции | Текущее значение |
 |--------|-------|
-| Проверенные примеры | **21** |
+| Проверенные примеры | **22** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **вторник, 28 июля 2026 г. в 10:56:32 UTC** |
+| Сгенерировано | **понедельник, 3 августа 2026 г. в 13:15:43 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Image-to-video и непрерывность объекта (4)
+### Image-to-video и непрерывность объекта (5)
 
 Рабочие процессы, оживляющие изображение с сохранением личности, композиции, геометрии продукта или раскадровки.
 
@@ -1080,6 +1080,62 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: Облёт неподвижного объекта одним дублем
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Зачем нужен этот рабочий процесс
+
+Кейс с подтверждённым источником о задаче «Облёт неподвижного объекта одним дублем», с повторно используемыми инструкциями и проверяемым результатом.
+
+##### Локализованный промпт
+
+```
+Локализованная версия: сохраните визуальный замысел, непрерывность объекта и все ограничения канонического английского промпта.
+
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+<details>
+<summary>Оригинальный промпт</summary>
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+</details>
+
+##### Исходный и итоговый кадры
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="Облёт неподвижного объекта одним дублем - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="Облёт неподвижного объекта одним дублем - Image 2"></td>
+</tr>
+</table>
+
+##### Видео
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="Облёт неподвижного объекта одним дублем - Motion preview"></a>
+
+*Нажмите на превью, чтобы открыть видео* · **[▶ Смотреть видео →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### Доказательства
+
+- **Автор:** [Rob Allan](https://x.com/allan_robII)
+- **Канонический источник:** [Канонический источник](https://x.com/allan_robII/status/2084242653051273644)
+- **Опубликовано:** 3 августа 2026 г.
+- **Язык промпта:** en
+
+**[Создать по этой режиссуре · ImagineVid](https://imaginevid.io/ru/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Стилизованное движение и визуальные эффекты (4)
@@ -1088,7 +1144,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-9"></a>
 
-#### #13: Лунный драконий нос в сдержанном замедлении
+#### #14: Лунный драконий нос в сдержанном замедлении
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1132,7 +1188,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
+#### #15: Непрерывное перемещение в боевых искусствах с тяжёлой физикой ударов
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1176,7 +1232,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: Водяная сфера с обратным потоком
+#### #16: Водяная сфера с обратным потоком
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1220,7 +1276,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: Рынок JRPG в свете фонарей
+#### #17: Рынок JRPG в свете фонарей
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1270,7 +1326,7 @@ Cinematic gameplay footage from a modern JRPG video game: a bustling marketplace
 
 <a id="prompt-13"></a>
 
-#### #17: Атомный киберпанк-рестайлинг существующего клипа
+#### #18: Атомный киберпанк-рестайлинг существующего клипа
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1348,11 +1404,11 @@ Change the style to futuristic Cyberpunk
 ## Благодарности авторам
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1372,6 +1428,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-07-28T10:56:32.158Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-08-03T13:15:43.395Z</sub>
 
 </div>

@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **21** |
+| Geverifieerde voorbeelden | **22** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **dinsdag 28 juli 2026 om 10:56:32 UTC** |
+| Gegenereerd | **maandag 3 augustus 2026 om 13:15:43 UTC** |
 
 </div>
 
@@ -766,7 +766,7 @@ On-screen text sequence:
 
 <a id="workflow-image-to-video-subject-continuity"></a>
 
-### Afbeelding-naar-video en subjectcontinuïteit (4)
+### Afbeelding-naar-video en subjectcontinuïteit (5)
 
 Op een afbeelding gebaseerde workflows die een stilstaand beeld animeren en identiteit, compositie, productgeometrie of storyboardlayout behouden.
 
@@ -1104,6 +1104,62 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 ---
 
+<a id="prompt-22"></a>
+
+#### #13: Een enkele orbit rond een stilstaand onderwerp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Waarom de workflow belangrijk is
+
+Een brononderbouwde case rond “Een enkele orbit rond een stilstaand onderwerp”, met herbruikbare instructies en controleerbare resultaatmedia.
+
+##### Gelokaliseerde prompt
+
+```
+Gelokaliseerde versie: behoud de visuele bedoeling, onderwerpcontinuïteit en alle beperkingen van de canonieke Engelse prompt.
+
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Can you try to follow the path of the arrow in the lower picture with the camera? The upper picture is a still of the video that a user created with an unknown video generator using this technique. The upper frame and the arrow should not be visible in the video. They are merely a guide for the path that the camera should take in the video. The man does not move. The camera moves quickly in one continuous shot to complete the revolution behind the the man and back to the front.
+```
+
+</details>
+
+##### Bron- en resultaatframes
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HOy3nejWoAEvmVD.jpg" width="100%" alt="Een enkele orbit rond een stilstaand onderwerp - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" width="100%" alt="Een enkele orbit rond een stilstaand onderwerp - Image 2"></td>
+</tr>
+</table>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084242620528611328/img/qZCANHcfMqHLlQ4e.jpg" height="420" alt="Een enkele orbit rond een stilstaand onderwerp - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2084242620528611328/vid/avc1/960x944/PRsC4G7eydJBk6js.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Rob Allan](https://x.com/allan_robII)
+- **Canonieke bron:** [Canonieke bron](https://x.com/allan_robII/status/2084242653051273644)
+- **Gepubliceerd:** 3 augustus 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-stylized-motion-visual-effects"></a>
 
 ### Gestileerde beweging en visuele effecten (4)
@@ -1112,7 +1168,7 @@ Effect- en animatiepatronen rond transformaties, simulatie, surrealistische fysi
 
 <a id="prompt-9"></a>
 
-#### #13: Drakenneusje bij maanlicht in beheerste slow motion
+#### #14: Drakenneusje bij maanlicht in beheerste slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1156,7 +1212,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #14: Doorlopende krijgskunstdoorgang met zware impactfysica
+#### #15: Doorlopende krijgskunstdoorgang met zware impactfysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1200,7 +1256,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #15: Waterbol met omgekeerde stroming
+#### #16: Waterbol met omgekeerde stroming
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1244,7 +1300,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #16: JRPG-markt bij lantaarnlicht
+#### #17: JRPG-markt bij lantaarnlicht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1294,7 +1350,7 @@ Workflows voor bestaand videomateriaal die een scène restylen, verlengen, eleme
 
 <a id="prompt-13"></a>
 
-#### #17: Atomische cyberpunk-restyling van een bestaande clip
+#### #18: Atomische cyberpunk-restyling van een bestaande clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1372,11 +1428,11 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (18)</summary>
+<summary>Community creators we thank (19)</summary>
 
 [@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
 [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711)<br>
-[Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1396,6 +1452,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-07-28T10:56:32.154Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T13:15:43.391Z</sub>
 
 </div>
