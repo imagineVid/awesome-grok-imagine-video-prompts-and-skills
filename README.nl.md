@@ -98,9 +98,9 @@ Begin met één actie en één camera-idee. Voeg timing, audio- en behoudsbeperk
 
 | Collectieveld | Huidige waarde |
 |--------|-------|
-| Geverifieerde voorbeelden | **23** |
+| Geverifieerde voorbeelden | **24** |
 | Redactionele keuze | **4** |
-| Gegenereerd | **maandag 3 augustus 2026 om 14:15:42 UTC** |
+| Gegenereerd | **maandag 3 augustus 2026 om 15:12:30 UTC** |
 
 </div>
 
@@ -702,7 +702,7 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 
 <a id="workflow-product-motion-commercial-spots"></a>
 
-### Productbeweging en reclamespots (2)
+### Productbeweging en reclamespots (3)
 
 Commerciële clips waarin een product, aanbod, kledingstuk, gerecht, apparaat of merkmoment centraal staat in de beweging.
 
@@ -764,6 +764,52 @@ On-screen text sequence:
 
 ---
 
+<a id="prompt-24"></a>
+
+#### #9: Kokosolieproduct onthuld tijdens een rondleiding door een luxe woning
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Waarom de workflow belangrijk is
+
+Een brononderbouwde Grok Imagine Video-productfilm die een rondleiding door een luxe woning helder laat uitmonden in een hero-opname van kokosolie.
+
+##### Gelokaliseerde prompt
+
+```
+De canonieke prompt blijft in het Engels voor consistente uitvoering; deze notitie vat de gelokaliseerde bedoeling samen:
+
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+<details>
+<summary>Oorspronkelijke bronprompt</summary>
+
+```
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg" height="420" alt="Kokosolieproduct onthuld tijdens een rondleiding door een luxe woning - Motion preview"></a>
+
+*Klik op de voorvertoning om de video te openen* · **[▶ Video bekijken →](https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25)**
+</div>
+
+##### Bewijs
+
+- **Maker:** [Coconut Chris](https://x.com/chb2xx)
+- **Canonieke bron:** [Canonieke bron](https://x.com/chb2xx/status/2084271627819253782)
+- **Gepubliceerd:** 3 augustus 2026
+- **Prompttaal:** en
+
+**[Maak met deze regie · ImagineVid](https://imaginevid.io/nl/grok-imagine)**
+
+---
+
 <a id="workflow-image-to-video-subject-continuity"></a>
 
 ### Afbeelding-naar-video en subjectcontinuïteit (6)
@@ -772,7 +818,7 @@ Op een afbeelding gebaseerde workflows die een stilstaand beeld animeren en iden
 
 <a id="prompt-6"></a>
 
-#### #9: Kus bij fakkellicht met continuïteit van praktische film
+#### #10: Kus bij fakkellicht met continuïteit van praktische film
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -829,7 +875,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #10: Supersnelle drakenvlucht met vuur, stof en audiofysica
+#### #11: Supersnelle drakenvlucht met vuur, stof en audiofysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -898,7 +944,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #11: Vastgezette redactionele grid met onafhankelijke microbeweging
+#### #12: Vastgezette redactionele grid met onafhankelijke microbeweging
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1061,7 +1107,7 @@ Een gestructureerd stabiliteitsexperiment dat een layout met acht panelen en de 
 
 <a id="prompt-15"></a>
 
-#### #12: Slapende reus op Times Square
+#### #13: Slapende reus op Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1106,7 +1152,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-22"></a>
 
-#### #13: Een enkele orbit rond een stilstaand onderwerp
+#### #14: Een enkele orbit rond een stilstaand onderwerp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1162,7 +1208,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-23"></a>
 
-#### #14: Fonkelende overlay voor een bestaande verticale clip
+#### #15: Fonkelende overlay voor een bestaande verticale clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1215,7 +1261,7 @@ Effect- en animatiepatronen rond transformaties, simulatie, surrealistische fysi
 
 <a id="prompt-9"></a>
 
-#### #15: Drakenneusje bij maanlicht in beheerste slow motion
+#### #16: Drakenneusje bij maanlicht in beheerste slow motion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,7 +1305,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #16: Doorlopende krijgskunstdoorgang met zware impactfysica
+#### #17: Doorlopende krijgskunstdoorgang met zware impactfysica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1303,7 +1349,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #17: Waterbol met omgekeerde stroming
+#### #18: Waterbol met omgekeerde stroming
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1347,7 +1393,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #18: JRPG-markt bij lantaarnlicht
+#### #19: JRPG-markt bij lantaarnlicht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1397,7 +1443,7 @@ Workflows voor bestaand videomateriaal die een scène restylen, verlengen, eleme
 
 <a id="prompt-13"></a>
 
-#### #19: Atomische cyberpunk-restyling van een bestaande clip
+#### #20: Atomische cyberpunk-restyling van een bestaande clip
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1475,11 +1521,11 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 ## Credits voor makers
 
 <details>
-<summary>Community creators we thank (20)</summary>
+<summary>Community creators we thank (21)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
-[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Coconut Chris](https://x.com/chb2xx)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX)<br>
+[Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1499,6 +1545,6 @@ Redactionele tekst en code van ImagineVid vallen onder [CC BY 4.0](https://creat
 **[Een geverifieerd voorbeeld indienen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Geef de collectie een ster](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T14:15:42.170Z</sub>
+<sub>Gegenereerd uit versiebeheerste lokale data op 2026-08-03T15:12:30.614Z</sub>
 
 </div>

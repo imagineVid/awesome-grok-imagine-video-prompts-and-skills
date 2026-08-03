@@ -98,9 +98,9 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 
 | Campo de la colección | Valor actual |
 |--------|-------|
-| Casos verificados | **23** |
+| Casos verificados | **24** |
 | Selección editorial | **4** |
-| Generado | **lunes, 3 de agosto de 2026, 14:15:42 UTC** |
+| Generado | **lunes, 3 de agosto de 2026, 15:12:30 UTC** |
 
 </div>
 
@@ -702,7 +702,7 @@ Masterpiece, best quality, ultra-detailed cinematic digital painting of a massiv
 
 <a id="workflow-product-motion-commercial-spots"></a>
 
-### Movimiento de producto y spots comerciales (2)
+### Movimiento de producto y spots comerciales (3)
 
 Clips comerciales que mantienen un producto, una oferta, una prenda, un plato, un dispositivo o un momento de marca en el centro del movimiento.
 
@@ -764,6 +764,52 @@ On-screen text sequence:
 
 ---
 
+<a id="prompt-24"></a>
+
+#### #9: Presentación de aceite de coco en un recorrido por una casa de lujo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Por qué importa este flujo de trabajo
+
+Un caso de vídeo de producto para Grok Imagine basado en una fuente, que convierte el recorrido por una casa de lujo en un camino claro hacia el plano final del aceite de coco.
+
+##### Prompt localizado
+
+```
+El prompt canónico se conserva en inglés para mantener la consistencia de ejecución; esta nota resume la intención localizada:
+
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+<details>
+<summary>Prompt original de la fuente</summary>
+
+```
+Create a short product-film walkthrough in the visual language of a luxury real-estate tour. Start outside an ultra-luxury home, then glide through the entryway, living room, kitchen, and sunlit lounge with one elegant, continuous camera path. Place the supplied coconut-oil bottle naturally in the living room as a meaningful discovery, keeping its silhouette, label placement, cap, material, and scale consistent whenever it appears. Let the camera pass it once in the background, return for a deliberate medium shot, then finish with a smooth push-in hero close-up on a clean stone surface beside a small pool of coconut oil and restrained tropical styling. Use warm architectural light, realistic reflections, controlled depth of field, premium commercial pacing, and soft room ambience. Keep the bottle readable and physically grounded. Do not invent brand claims, add captions, change the packaging, duplicate the product, or use jump cuts that break the walkthrough geography.
+```
+
+</details>
+
+##### Video
+
+<div align="center">
+<a href="https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25"><img src="https://pbs.twimg.com/amplify_video_thumb/2084271563143094272/img/uheaJfrbVwTg4AXl.jpg" height="420" alt="Presentación de aceite de coco en un recorrido por una casa de lujo - Motion preview"></a>
+
+*Haz clic en la vista previa para abrir el video* · **[▶ Ver video →](https://video.twimg.com/amplify_video/2084271563143094272/vid/avc1/864x1040/vVYtHokM0GLN9hY9.mp4?tag=25)**
+</div>
+
+##### Evidencias
+
+- **Creador:** [Coconut Chris](https://x.com/chb2xx)
+- **Fuente canónica:** [Fuente canónica](https://x.com/chb2xx/status/2084271627819253782)
+- **Publicado:** 3 de agosto de 2026
+- **Idioma del prompt:** en
+
+**[Crea con esta dirección · ImagineVid](https://imaginevid.io/es/grok-imagine)**
+
+---
+
 <a id="workflow-image-to-video-subject-continuity"></a>
 
 ### Imagen a vídeo y continuidad del sujeto (6)
@@ -772,7 +818,7 @@ Flujos anclados en una imagen que animan un fotograma estático mientras conserv
 
 <a id="prompt-6"></a>
 
-#### #9: Beso fantástico a la luz de las antorchas con continuidad de cine práctico
+#### #10: Beso fantástico a la luz de las antorchas con continuidad de cine práctico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -829,7 +875,7 @@ Captured like raw practical footage from a medieval fantasy movie — authentic 
 
 <a id="prompt-7"></a>
 
-#### #10: Vuelo de dragón a gran velocidad con física del fuego, la tela y el audio
+#### #11: Vuelo de dragón a gran velocidad con física del fuego, la tela y el audio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -898,7 +944,7 @@ Native synchronized audio: Deep powerful dragon roar mixed with the roaring whoo
 
 <a id="prompt-8"></a>
 
-#### #11: Cuadrícula editorial bloqueada con micromovimiento independiente
+#### #12: Cuadrícula editorial bloqueada con micromovimiento independiente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1061,7 +1107,7 @@ Un experimento estructurado de estabilidad que congela una composición de ocho 
 
 <a id="prompt-15"></a>
 
-#### #12: Gigante dormido en Times Square
+#### #13: Gigante dormido en Times Square
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1106,7 +1152,7 @@ An extreme perspective drone shot capturing the uploaded face as reference as a 
 
 <a id="prompt-22"></a>
 
-#### #13: Órbita en una sola toma alrededor de un sujeto inmóvil
+#### #14: Órbita en una sola toma alrededor de un sujeto inmóvil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1162,7 +1208,7 @@ Can you try to follow the path of the arrow in the lower picture with the camera
 
 <a id="prompt-23"></a>
 
-#### #14: Capa de destellos sobre un clip vertical existente
+#### #15: Capa de destellos sobre un clip vertical existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1215,7 +1261,7 @@ Efectos y patrones de animación impulsados por transformaciones, simulación, f
 
 <a id="prompt-9"></a>
 
-#### #15: Roce de dragones a la luz de la luna en cámara lenta contenida
+#### #16: Roce de dragones a la luz de la luna en cámara lenta contenida
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1259,7 +1305,7 @@ Cinematic close-up, slow-motion video. A massive, muscular golden dragon and a m
 
 <a id="prompt-10"></a>
 
-#### #16: Recorrido continuo de artes marciales con física de impactos contundentes
+#### #17: Recorrido continuo de artes marciales con física de impactos contundentes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1303,7 +1349,7 @@ Masterpiece quality, 6-second video of a highly skilled fighter traversing rough
 
 <a id="prompt-14"></a>
 
-#### #17: Esfera de agua de flujo inverso
+#### #18: Esfera de agua de flujo inverso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1347,7 +1393,7 @@ A glass of water on a table, the water suddenly flows upward out of the glass an
 
 <a id="prompt-16"></a>
 
-#### #18: Mercado JRPG iluminado por faroles
+#### #19: Mercado JRPG iluminado por faroles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1397,7 +1443,7 @@ Flujos de vídeo existente que cambian el estilo, amplían, añaden, eliminan, s
 
 <a id="prompt-13"></a>
 
-#### #19: Cambio de estilo ciberpunk atómico de un clip existente
+#### #20: Cambio de estilo ciberpunk atómico de un clip existente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1475,11 +1521,11 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 ## Créditos de los creadores
 
 <details>
-<summary>Community creators we thank (20)</summary>
+<summary>Community creators we thank (21)</summary>
 
-[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Dogan Ural](https://x.com/doganuraldesign)<br>
-[Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX) · [Özge Döner](https://x.com/astronomerozge1)<br>
-[Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
+[@icreatelife](https://x.com/icreatelife) · [@vercel_dev](https://x.com/vercel_dev) · [atmen](https://x.com/atmen189) · [auqib](https://x.com/auqibhabib) · [AYi](https://x.com/AYi_AInotes) · [BMX](https://x.com/bmx_ai13) · [Brent Lynch](https://x.com/BrentLynch) · [Coconut Chris](https://x.com/chb2xx)<br>
+[Dogan Ural](https://x.com/doganuraldesign) · [Kim Maria](https://x.com/KimMaria8ry) · [Kiri](https://x.com/Kyrannio) · [Kisalay](https://x.com/Kisalay_) · [Krista Gable](https://x.com/DomainDomme) · [Lindy Hawkinson](https://x.com/HawkinsonLindy) · [Lucy](https://x.com/princess414141) · [Mr Das](https://x.com/MrDasOnX)<br>
+[Özge Döner](https://x.com/astronomerozge1) · [Philip Carr](https://x.com/PhilipCarrn7711) · [Rob Allan](https://x.com/allan_robII) · [Tyler Keehner](https://x.com/STFUnion) · [Ur Meer](https://x.com/UrMeer289)
 
 </details>
 
@@ -1499,6 +1545,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-08-03T14:15:42.126Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-08-03T15:12:30.532Z</sub>
 
 </div>
