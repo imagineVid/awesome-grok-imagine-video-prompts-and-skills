@@ -100,7 +100,7 @@
 |--------|-------|
 | 已核验案例 | **24** |
 | 编辑精选 | **4** |
-| 生成时间 | **2026年8月5日星期三 UTC 02:20:49** |
+| 生成时间 | **2026年8月5日星期三 UTC 06:25:49** |
 
 </div>
 
@@ -1521,6 +1521,6 @@ ImagineVid 编写的编辑文本和代码依据 [CC BY 4.0](https://creativecomm
 **[提交已核验案例](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为集合加星](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>根据版本化本地数据生成于 2026-08-05T02:20:49.101Z</sub>
+<sub>根据版本化本地数据生成于 2026-08-05T06:25:49.024Z</sub>
 
 </div>
