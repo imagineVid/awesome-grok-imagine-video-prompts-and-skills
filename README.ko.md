@@ -100,7 +100,7 @@
 |--------|-------|
 | 검증된 사례 | **24** |
 | 에디터 추천 | **4** |
-| 생성 시각 | **2026년 8월 20일 목요일 오전 1시 5분 39초 UTC** |
+| 생성 시각 | **2026년 8월 20일 목요일 오전 4시 34분 21초 UTC** |
 
 </div>
 
@@ -1544,6 +1544,6 @@ ImagineVid가 작성한 편집 문구와 코드는 [CC BY 4.0](https://creativec
 **[검증된 사례 제출](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[컬렉션에 별표하기](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-20T01:05:39.156Z</sub>
+<sub>버전 관리된 로컬 데이터에서 생성된 시각 2026-08-20T04:34:21.424Z</sub>
 
 </div>
