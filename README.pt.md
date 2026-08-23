@@ -100,7 +100,7 @@ Comece com uma ação e uma ideia de câmara. Acrescente timing, áudio e restri
 |--------|-------|
 | Casos verificados | **24** |
 | Seleção editorial | **4** |
-| Gerado | **domingo, 23 de agosto de 2026 às 01:10:23 UTC** |
+| Gerado | **domingo, 23 de agosto de 2026 às 04:33:51 UTC** |
 
 </div>
 
@@ -1545,6 +1545,6 @@ O texto editorial e o código produzidos pelo ImagineVid estão licenciados ao a
 **[Enviar um caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adicionar uma estrela à coleção](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Gerado a partir de dados locais versionados em 2026-08-23T01:10:23.456Z</sub>
+<sub>Gerado a partir de dados locais versionados em 2026-08-23T04:33:51.448Z</sub>
 
 </div>
