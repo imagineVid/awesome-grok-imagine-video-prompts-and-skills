@@ -100,7 +100,7 @@ Bir eylem ve bir kamera fikriyle başlayın. Zamanlama, ses ve koruma kısıtlar
 |--------|-------|
 | Doğrulanmış örnekler | **24** |
 | Editör seçimi | **4** |
-| Oluşturulma | **9 Eylül 2026 Çarşamba 22:15:18 UTC** |
+| Oluşturulma | **10 Eylül 2026 Perşembe 03:05:06 UTC** |
 
 </div>
 
@@ -1504,6 +1504,6 @@ ImagineVid'in editoryal metni ve kodu [CC BY 4.0](https://creativecommons.org/li
 **[Doğrulanmış örnek gönder](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Koleksiyona yıldız ver](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-09-09T22:15:18.189Z</sub>
+<sub>Sürümlenen yerel veriden oluşturulma zamanı 2026-09-10T03:05:06.273Z</sub>
 
 </div>
