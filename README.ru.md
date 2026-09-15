@@ -100,7 +100,7 @@
 |--------|-------|
 | Проверенные примеры | **24** |
 | Редакционный выбор | **4** |
-| Сгенерировано | **понедельник, 14 сентября 2026 г. в 22:56:36 UTC** |
+| Сгенерировано | **вторник, 15 сентября 2026 г. в 03:23:59 UTC** |
 
 </div>
 
@@ -1521,6 +1521,6 @@ Change the style to futuristic Cyberpunk
 **[Отправить проверенный пример](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить звезду коллекции](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Сгенерировано из версионируемых локальных данных 2026-09-14T22:56:36.568Z</sub>
+<sub>Сгенерировано из версионируемых локальных данных 2026-09-15T03:23:59.845Z</sub>
 
 </div>
