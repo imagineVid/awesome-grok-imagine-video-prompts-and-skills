@@ -100,7 +100,7 @@ Empieza con una acción y una idea de cámara. Añade restricciones de tiempo, a
 |--------|-------|
 | Casos verificados | **24** |
 | Selección editorial | **4** |
-| Generado | **sábado, 10 de octubre de 2026, 23:13:11 UTC** |
+| Generado | **domingo, 11 de octubre de 2026, 4:00:09 UTC** |
 
 </div>
 
@@ -1545,6 +1545,6 @@ El texto editorial y el código creados por ImagineVid están publicados bajo [C
 **[Envía un caso verificado](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Añade una estrella a la colección](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generado a partir de datos locales versionados el 2026-10-10T23:13:11.810Z</sub>
+<sub>Generado a partir de datos locales versionados el 2026-10-11T04:00:09.482Z</sub>
 
 </div>
