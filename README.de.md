@@ -100,7 +100,7 @@ Beginne mit einer Handlung und einer Kameridee. Füge Timing, Audio und Erhaltun
 |--------|-------|
 | Verifizierte Fälle | **24** |
 | Redaktionelle Auswahl | **4** |
-| Generiert | **Samstag, 17. Oktober 2026 um 21:57:51 UTC** |
+| Generiert | **Sonntag, 18. Oktober 2026 um 03:01:28 UTC** |
 
 </div>
 
@@ -1545,6 +1545,6 @@ Von ImagineVid verfasste redaktionelle Texte und Code stehen unter [CC BY 4.0](h
 **[Einen verifizierten Fall einreichen](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Die Sammlung mit einem Stern markieren](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>Generiert aus versionierten lokalen Daten am 2026-10-17T21:57:51.457Z</sub>
+<sub>Generiert aus versionierten lokalen Daten am 2026-10-18T03:01:28.805Z</sub>
 
 </div>
