@@ -100,7 +100,7 @@
 |--------|-------|
 | أمثلة موثّقة | **24** |
 | اختيار تحريري | **4** |
-| تاريخ التوليد | **الأحد، 22 نوفمبر 2026 في 5:03:48 ص UTC** |
+| تاريخ التوليد | **الأحد، 22 نوفمبر 2026 في 3:54:51 م UTC** |
 
 </div>
 
@@ -1537,6 +1537,6 @@ Change the style to futuristic Cyberpunk
 **[أرسل مثالًا موثّقًا](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمجموعة](https://github.com/imaginevid-ai/Awesome-grok-imagine-video-prompts-and-skills)**
 
-<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-11-22T05:03:48.769Z</sub>
+<sub>وُلّد من بيانات محلية مُدارة بالإصدارات في 2026-11-22T15:54:51.911Z</sub>
 
 </div>
